@@ -1,0 +1,1438 @@
+[
+  {
+    "photo_id": 756643869,
+    "candidate_id": "bbox-000068cc23--6afc1ac512cf5948122cc6eb-756643869-v2",
+    "source_assignment_id": "000068cc23--6afc1ac512cf5948122cc6eb",
+    "author_id": "661745669e60a375202137c8056e269b",
+    "votes": [
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068cc25--6afc330b6acf942b903e4074",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "d7210ff3934608d1832e94043b3e4977",
+        "assignment_id": "000068cc25--6afc330cfca5f6458f547578",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "issued_sha256": "a365f7754d0f7fe175302c1603b442516f593a2f151a9bbc343f78e4fdfd5076",
+    "source_version": 2,
+    "visual_audit": "all20 full-frame review plus detailed sheets; corrected appendages where required",
+    "decision": "accepted after two independent OK votes and visual audit",
+    "reviewer_control_caveat": "Historical control errors retained in review-pilot-v3-aggregation.json; productive answers visually audited rather than assuming workers infallible"
+  },
+  {
+    "photo_id": 757072510,
+    "candidate_id": "bbox-000068cc23--6afc1aa82a9f062967fc89af-757072510-v2",
+    "source_assignment_id": "000068cc23--6afc1aa82a9f062967fc89af",
+    "author_id": "661745669e60a375202137c8056e269b",
+    "votes": [
+      {
+        "worker_id": "d7210ff3934608d1832e94043b3e4977",
+        "assignment_id": "000068cc25--6afc331b39a60d5f684bc6e2",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068cc25--6afc33297d0c013411725be9",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "issued_sha256": "32b2ec0aa84a7dd23bec786e9fcc6e4ee588b781ed1f99e562b7bf62e171caca",
+    "source_version": 2,
+    "visual_audit": "all20 full-frame review plus detailed sheets; corrected appendages where required",
+    "decision": "accepted after two independent OK votes and visual audit",
+    "reviewer_control_caveat": "Historical control errors retained in review-pilot-v3-aggregation.json; productive answers visually audited rather than assuming workers infallible"
+  },
+  {
+    "photo_id": 757225205,
+    "candidate_id": "bbox-000068cc23--6afc1ae155749e1cbb48e09c-757225205-v3",
+    "source_assignment_id": "000068cc23--6afc1ae155749e1cbb48e09c",
+    "author_id": "661745669e60a375202137c8056e269b",
+    "votes": [
+      {
+        "worker_id": "1acbf2b496203938edc48507e195a182",
+        "assignment_id": "000068cc25--6afc408c4717e736e4ab9ded",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068cc25--6afc41582a37550c2c8ecd1b",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "issued_sha256": "0f4913552afb29bd5ae1ef8f9a7b17fadfe92caa4d43400a7ff49e190c45c70c",
+    "source_version": 3,
+    "visual_audit": "all20 full-frame review plus detailed sheets; corrected appendages where required",
+    "decision": "accepted after two independent OK votes and visual audit",
+    "reviewer_control_caveat": "Historical control errors retained in review-pilot-v3-aggregation.json; productive answers visually audited rather than assuming workers infallible"
+  },
+  {
+    "photo_id": 757264456,
+    "candidate_id": "bbox-000068cc23--6afc1acd55749e1cbb48dd5f-757264456-v2",
+    "source_assignment_id": "000068cc23--6afc1acd55749e1cbb48dd5f",
+    "author_id": "661745669e60a375202137c8056e269b",
+    "votes": [
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068cc25--6afc32e14e7c575899493d54",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "1acbf2b496203938edc48507e195a182",
+        "assignment_id": "000068cc25--6afc330e4717e736e4a96a91",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "issued_sha256": "6906d64962bf19702f7449a9ff5a8dc6a36e1d9088e82022f9bee0d1b77b6083",
+    "source_version": 2,
+    "visual_audit": "all20 full-frame review plus detailed sheets; corrected appendages where required",
+    "decision": "accepted after two independent OK votes and visual audit",
+    "reviewer_control_caveat": "Historical control errors retained in review-pilot-v3-aggregation.json; productive answers visually audited rather than assuming workers infallible"
+  },
+  {
+    "photo_id": 757587001,
+    "candidate_id": "bbox-000068cc23--6afc1b0755749e1cbb48e5bb-757587001-v2",
+    "source_assignment_id": "000068cc23--6afc1b0755749e1cbb48e5bb",
+    "author_id": "661745669e60a375202137c8056e269b",
+    "votes": [
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068cc25--6afc330b6acf942b903e4074",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "d7210ff3934608d1832e94043b3e4977",
+        "assignment_id": "000068cc25--6afc330cfca5f6458f547578",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "issued_sha256": "8f56b27d15767bc63c982f03e6d41f3adec575f99158a4c067a91b550310f53d",
+    "source_version": 2,
+    "visual_audit": "all20 full-frame review plus detailed sheets; corrected appendages where required",
+    "decision": "accepted after two independent OK votes and visual audit",
+    "reviewer_control_caveat": "Historical control errors retained in review-pilot-v3-aggregation.json; productive answers visually audited rather than assuming workers infallible"
+  },
+  {
+    "photo_id": 757861645,
+    "candidate_id": "bbox-000068cc23--6afc1af3cafda95f3a50be95-757861645",
+    "source_assignment_id": "000068cc23--6afc1af3cafda95f3a50be95",
+    "author_id": "661745669e60a375202137c8056e269b",
+    "votes": [
+      {
+        "worker_id": "d7210ff3934608d1832e94043b3e4977",
+        "assignment_id": "000068cc25--6afc308c2a37550c2c8c0278",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "1acbf2b496203938edc48507e195a182",
+        "assignment_id": "000068cc25--6afc30e2fca5f6458f541649",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "issued_sha256": "62179b7870c3a783accc6f2b9b2ee2b73cbd9325d54835fcf7e7544ef439f43d",
+    "source_version": 1,
+    "visual_audit": "all20 full-frame review plus detailed sheets; corrected appendages where required",
+    "decision": "accepted after two independent OK votes and visual audit",
+    "reviewer_control_caveat": "Historical control errors retained in review-pilot-v3-aggregation.json; productive answers visually audited rather than assuming workers infallible"
+  },
+  {
+    "photo_id": 758388665,
+    "candidate_id": "bbox-000068cc23--6afc1a7bcf13a4405abdc30f-758388665-v2",
+    "source_assignment_id": "000068cc23--6afc1a7bcf13a4405abdc30f",
+    "author_id": "661745669e60a375202137c8056e269b",
+    "votes": [
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068cc25--6afc330b6acf942b903e4074",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "d7210ff3934608d1832e94043b3e4977",
+        "assignment_id": "000068cc25--6afc330cfca5f6458f547578",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "issued_sha256": "e3dfac1494ac68097079e619f0d4adb4f2f61762b4bb4a66e430d04e47a3b042",
+    "source_version": 2,
+    "visual_audit": "all20 full-frame review plus detailed sheets; corrected appendages where required",
+    "decision": "accepted after two independent OK votes and visual audit",
+    "reviewer_control_caveat": "Historical control errors retained in review-pilot-v3-aggregation.json; productive answers visually audited rather than assuming workers infallible"
+  },
+  {
+    "photo_id": 758388679,
+    "candidate_id": "bbox-000068cc23--6afc1aed0e6072633711ce1e-758388679-v2",
+    "source_assignment_id": "000068cc23--6afc1aed0e6072633711ce1e",
+    "author_id": "661745669e60a375202137c8056e269b",
+    "votes": [
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068cc25--6afc32e14e7c575899493d54",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "1acbf2b496203938edc48507e195a182",
+        "assignment_id": "000068cc25--6afc330e4717e736e4a96a91",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "issued_sha256": "b01240f7f75f36135bc64dd52712260e897352552b7969ef99ef75d13cf8f798",
+    "source_version": 2,
+    "visual_audit": "all20 full-frame review plus detailed sheets; corrected appendages where required",
+    "decision": "accepted after two independent OK votes and visual audit",
+    "reviewer_control_caveat": "Historical control errors retained in review-pilot-v3-aggregation.json; productive answers visually audited rather than assuming workers infallible"
+  },
+  {
+    "photo_id": 758544745,
+    "candidate_id": "bbox-000068cc23--6afc1adacf13a4405abdd252-758544745-v2",
+    "source_assignment_id": "000068cc23--6afc1adacf13a4405abdd252",
+    "author_id": "661745669e60a375202137c8056e269b",
+    "votes": [
+      {
+        "worker_id": "d7210ff3934608d1832e94043b3e4977",
+        "assignment_id": "000068cc25--6afc33234717e736e4a96de2",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068cc25--6afc3347cfe9a32683c80a4a",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "issued_sha256": "4a30fe131b29cb1dc14c215e8f8763ee594341f8391321ec40ccee2b6993a66b",
+    "source_version": 2,
+    "visual_audit": "all20 full-frame review plus detailed sheets; corrected appendages where required",
+    "decision": "accepted after two independent OK votes and visual audit",
+    "reviewer_control_caveat": "Historical control errors retained in review-pilot-v3-aggregation.json; productive answers visually audited rather than assuming workers infallible"
+  },
+  {
+    "photo_id": 758917904,
+    "candidate_id": "bbox-000068cc23--6afc1cfd0e60726337122541-758917904-v3",
+    "source_assignment_id": "000068cc23--6afc1cfd0e60726337122541",
+    "author_id": "661745669e60a375202137c8056e269b",
+    "votes": [
+      {
+        "worker_id": "1acbf2b496203938edc48507e195a182",
+        "assignment_id": "000068cc25--6afc403dfca5f6458f56c850",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068cc25--6afc41ae39a60d5f684e54e8",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "issued_sha256": "370c7642bd94a00a8d1d7f45efa9336fb83670a8f63ee1a6be4413dbe652f816",
+    "source_version": 3,
+    "visual_audit": "all20 full-frame review plus detailed sheets; corrected appendages where required",
+    "decision": "accepted after two independent OK votes and visual audit",
+    "reviewer_control_caveat": "Historical control errors retained in review-pilot-v3-aggregation.json; productive answers visually audited rather than assuming workers infallible"
+  },
+  {
+    "photo_id": 760791732,
+    "candidate_id": "bbox-000068cc23--6afc1af9dcaea54299dff2b0-760791732-v3",
+    "source_assignment_id": "000068cc23--6afc1af9dcaea54299dff2b0",
+    "author_id": "661745669e60a375202137c8056e269b",
+    "votes": [
+      {
+        "worker_id": "1acbf2b496203938edc48507e195a182",
+        "assignment_id": "000068cc25--6afc403dfca5f6458f56c850",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068cc25--6afc41ae39a60d5f684e54e8",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "issued_sha256": "a2e036bcaf7145ea8cb767a9f77a95c4a6e5501ae727d2697b5fa97d2724f1db",
+    "source_version": 3,
+    "visual_audit": "all20 full-frame review plus detailed sheets; corrected appendages where required",
+    "decision": "accepted after two independent OK votes and visual audit",
+    "reviewer_control_caveat": "Historical control errors retained in review-pilot-v3-aggregation.json; productive answers visually audited rather than assuming workers infallible"
+  },
+  {
+    "photo_id": 760796888,
+    "candidate_id": "bbox-000068cc23--6afc1aaf12cf5948122cc323-760796888-v3",
+    "source_assignment_id": "000068cc23--6afc1aaf12cf5948122cc323",
+    "author_id": "661745669e60a375202137c8056e269b",
+    "votes": [
+      {
+        "worker_id": "1acbf2b496203938edc48507e195a182",
+        "assignment_id": "000068cc25--6afc403dfca5f6458f56c850",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068cc25--6afc41ae39a60d5f684e54e8",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "issued_sha256": "5634a875573ff30af0703ebe0bafb170fae6c2bbc4995f00058e10ac117c299d",
+    "source_version": 3,
+    "visual_audit": "all20 full-frame review plus detailed sheets; corrected appendages where required",
+    "decision": "accepted after two independent OK votes and visual audit",
+    "reviewer_control_caveat": "Historical control errors retained in review-pilot-v3-aggregation.json; productive answers visually audited rather than assuming workers infallible"
+  },
+  {
+    "photo_id": 761245559,
+    "candidate_id": "bbox-000068cc23--6afc1b0c63483969bd33e693-761245559",
+    "source_assignment_id": "000068cc23--6afc1b0c63483969bd33e693",
+    "author_id": "661745669e60a375202137c8056e269b",
+    "votes": [
+      {
+        "worker_id": "d7210ff3934608d1832e94043b3e4977",
+        "assignment_id": "000068cc25--6afc308c2a37550c2c8c0278",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "1acbf2b496203938edc48507e195a182",
+        "assignment_id": "000068cc25--6afc30e2fca5f6458f541649",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "issued_sha256": "157150b5d656061613c1e9ccec215f485c560ee739873e5b146d9e66ed6dfc19",
+    "source_version": 1,
+    "visual_audit": "all20 full-frame review plus detailed sheets; corrected appendages where required",
+    "decision": "accepted after two independent OK votes and visual audit",
+    "reviewer_control_caveat": "Historical control errors retained in review-pilot-v3-aggregation.json; productive answers visually audited rather than assuming workers infallible"
+  },
+  {
+    "photo_id": 761389221,
+    "candidate_id": "bbox-000068cc23--6afc1ad526afcc42ccd3226e-761389221",
+    "source_assignment_id": "000068cc23--6afc1ad526afcc42ccd3226e",
+    "author_id": "661745669e60a375202137c8056e269b",
+    "votes": [
+      {
+        "worker_id": "d7210ff3934608d1832e94043b3e4977",
+        "assignment_id": "000068cc25--6afc30714e7c57589948d1ec",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "1acbf2b496203938edc48507e195a182",
+        "assignment_id": "000068cc25--6afc3092fca5f6458f54098c",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "issued_sha256": "027bc4d4392f0a68f43354c82b85dca6e4da5c6180c5d0941cc25d017a3cb576",
+    "source_version": 1,
+    "visual_audit": "all20 full-frame review plus detailed sheets; corrected appendages where required",
+    "decision": "accepted after two independent OK votes and visual audit",
+    "reviewer_control_caveat": "Historical control errors retained in review-pilot-v3-aggregation.json; productive answers visually audited rather than assuming workers infallible"
+  },
+  {
+    "photo_id": 761393564,
+    "candidate_id": "bbox-000068cc23--6afc1ab7cafda95f3a50b640-761393564",
+    "source_assignment_id": "000068cc23--6afc1ab7cafda95f3a50b640",
+    "author_id": "661745669e60a375202137c8056e269b",
+    "votes": [
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068cc25--6afc306e2a37550c2c8bfdd6",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "d7210ff3934608d1832e94043b3e4977",
+        "assignment_id": "000068cc25--6afc307f2a37550c2c8c00cf",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "issued_sha256": "9d2d790fc9f383753798fa95d6a41e9904893c86b86f1dc88e2b86f9cbff42a8",
+    "source_version": 1,
+    "visual_audit": "all20 full-frame review plus detailed sheets; corrected appendages where required",
+    "decision": "accepted after two independent OK votes and visual audit",
+    "reviewer_control_caveat": "Historical control errors retained in review-pilot-v3-aggregation.json; productive answers visually audited rather than assuming workers infallible"
+  },
+  {
+    "photo_id": 761527778,
+    "candidate_id": "bbox-000068cc23--6afc1b0263483969bd33e475-761527778",
+    "source_assignment_id": "000068cc23--6afc1b0263483969bd33e475",
+    "author_id": "661745669e60a375202137c8056e269b",
+    "votes": [
+      {
+        "worker_id": "d7210ff3934608d1832e94043b3e4977",
+        "assignment_id": "000068cc25--6afc3099efe38c64f711f5db",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068cc25--6afc30f2fca5f6458f541970",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "issued_sha256": "8bac94f9f97c183e56fb0c74a22e400f2da73314c08543d33f5f780860ea4fbc",
+    "source_version": 1,
+    "visual_audit": "all20 full-frame review plus detailed sheets; corrected appendages where required",
+    "decision": "accepted after two independent OK votes and visual audit",
+    "reviewer_control_caveat": "Historical control errors retained in review-pilot-v3-aggregation.json; productive answers visually audited rather than assuming workers infallible"
+  },
+  {
+    "photo_id": 761748011,
+    "candidate_id": "bbox-000068cc23--6afc1abc0e6072633711c3c8-761748011-v2",
+    "source_assignment_id": "000068cc23--6afc1abc0e6072633711c3c8",
+    "author_id": "661745669e60a375202137c8056e269b",
+    "votes": [
+      {
+        "worker_id": "d7210ff3934608d1832e94043b3e4977",
+        "assignment_id": "000068cc25--6afc33234717e736e4a96de2",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068cc25--6afc3347cfe9a32683c80a4a",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "issued_sha256": "dc4c7a0420018a5daaa7eadcc8093cf06874a2149c5b4625b5620b67aa53a5b5",
+    "source_version": 2,
+    "visual_audit": "all20 full-frame review plus detailed sheets; corrected appendages where required",
+    "decision": "accepted after two independent OK votes and visual audit",
+    "reviewer_control_caveat": "Historical control errors retained in review-pilot-v3-aggregation.json; productive answers visually audited rather than assuming workers infallible"
+  },
+  {
+    "photo_id": 757654021,
+    "candidate_id": "bbox-000068cc23--6afc1a8f0e6072633711bca3-757654021-v3",
+    "source_assignment_id": "000068cc23--6afc1a8f0e6072633711bca3",
+    "author_id": "661745669e60a375202137c8056e269b",
+    "votes": [
+      {
+        "worker_id": "1acbf2b496203938edc48507e195a182",
+        "assignment_id": "000068cc25--6afc408c4717e736e4ab9ded",
+        "verdict": "BAD",
+        "reason": "bounds"
+      },
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068cc25--6afc41582a37550c2c8ecd1b",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "2fd76171d25fbb711b5b8fd321a88a61",
+        "assignment_id": "000068cc25--6afc4f6f05a3672b2012065c",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "issued_sha256": "e713ad8be2dd80cc232a6573f19f92cc125755a9c30f3d82cb2c8d7ecdc3206b",
+    "decision": "accepted after third independent review and manual visual adjudication",
+    "adjudication_actor": "Codex-assisted visual audit",
+    "reason": "After full-frame audit the visible source crop, antennae and legs fit; third independent vote gives2OK/1BAD. Small background margins are acceptable."
+  },
+  {
+    "photo_id": 760796882,
+    "candidate_id": "bbox-000068cc23--6afc1aa13f75ec3186166a74-760796882-v3",
+    "source_assignment_id": "000068cc23--6afc1aa13f75ec3186166a74",
+    "author_id": "661745669e60a375202137c8056e269b",
+    "votes": [
+      {
+        "worker_id": "1acbf2b496203938edc48507e195a182",
+        "assignment_id": "000068cc25--6afc408c4717e736e4ab9ded",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068cc25--6afc41582a37550c2c8ecd1b",
+        "verdict": "BAD",
+        "reason": "bounds"
+      },
+      {
+        "worker_id": "2fd76171d25fbb711b5b8fd321a88a61",
+        "assignment_id": "000068cc25--6afc4f6f05a3672b2012065c",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "issued_sha256": "75f88eb9ccd5434212880a8e91b35bb1d7e506c040ebb171796b096df0128437",
+    "decision": "accepted after third independent review and manual visual adjudication",
+    "adjudication_actor": "Codex-assisted visual audit",
+    "reason": "Blurred image reviewed at full source resolution; v3 includes the visible head/appendage region. Third vote gives2OK/1BAD; no missing butterfly."
+  },
+  {
+    "photo_id": 760354817,
+    "candidate_id": "bbox-000068cc23--6afc1a96dcaea54299dfe3be-760354817-v4",
+    "source_assignment_id": "000068cc23--6afc1a96dcaea54299dfe3be",
+    "author_id": "661745669e60a375202137c8056e269b",
+    "votes": [
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068cc25--6afc54373537ac5dbb2e5787",
+        "verdict": "OK"
+      },
+      {
+        "worker_id": "1acbf2b496203938edc48507e195a182",
+        "assignment_id": "000068cc25--6afc54cffe68256bfdafc632",
+        "verdict": "OK"
+      }
+    ],
+    "issued_sha256": "611f71f10adb45d6f7d1ef9bb7d7ab7f91e872717ad75cbca3573cd89eac91f6",
+    "source_version": 4,
+    "visual_audit": "Full-source90degree inspection and neighboring views separate wing ownership. A excludes the far forewing of B; B begins at its own upper wingtip. Original frame unchanged.",
+    "decision": "accepted after two independent OK votes and full-source visual audit",
+    "correction_actor": "Codex-assisted visual proposal, not an independent human vote"
+  },
+  {
+    "photo_id": 714283917,
+    "candidate_id": "bbox-000068ce42--6afc442f6acf942b90412892-714283917",
+    "source_assignment_id": "000068ce42--6afc442f6acf942b90412892",
+    "author_id": "661745669e60a375202137c8056e269b",
+    "source_version": 1,
+    "votes": [
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068ce43--6afc45dd4e7c5758994c784c",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "1acbf2b496203938edc48507e195a182",
+        "assignment_id": "000068ce43--6afc4624cfe9a32683cb6138",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "original_review_votes": [
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068ce43--6afc45dd4e7c5758994c784c",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "1acbf2b496203938edc48507e195a182",
+        "assignment_id": "000068ce43--6afc4624cfe9a32683cb6138",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "before_boxes": null,
+    "issued_sha256": "4b6b769737be6256e3d998e6071fee05e4b25bf5b0b6c5bd2d8373ddf8706bf4",
+    "decision": "accepted after full-source visual adjudication and independent human verification",
+    "visual_audit": "Full source frame, all visible appendages and source edges; source-grid/detail artifacts in exam-assessment",
+    "correction_actor": null,
+    "correction_reason": null,
+    "dissent_adjudication": null
+  },
+  {
+    "photo_id": 756846714,
+    "candidate_id": "bbox-000068ce42--6afc4434fca5f6458f5768f6-756846714-v2",
+    "source_assignment_id": "000068ce42--6afc4434fca5f6458f5768f6",
+    "author_id": "661745669e60a375202137c8056e269b",
+    "source_version": 2,
+    "votes": [
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068ce43--6afc593c55eb9f701dace673",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "f281937604ba99c181839235d97dceab",
+        "assignment_id": "000068ce43--6afc662dee5596557a582158",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "original_review_votes": [
+      {
+        "worker_id": "1acbf2b496203938edc48507e195a182",
+        "assignment_id": "000068ce43--6afc47c8cc978e5f974d00c0",
+        "verdict": "BAD",
+        "reason": "bounds"
+      },
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068ce43--6afc493365e6b5730e56b5b7",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "before_boxes": [
+      {
+        "left": 0.25,
+        "top": 0.2125,
+        "width": 0.43666666666666665,
+        "height": 0.35749999999999993,
+        "shape": "rectangle"
+      }
+    ],
+    "issued_sha256": "69485418d30847b720bd70ef2b6e48ed25b7ce3e2ad1be4e95258e565ae36b33",
+    "decision": "accepted after full-source visual adjudication and independent human verification",
+    "visual_audit": "Full source frame, all visible appendages and source edges; source-grid/detail artifacts in exam-assessment",
+    "correction_actor": "Codex-assisted full-source visual proposal, not an independent human vote",
+    "correction_reason": "Include all visible antennae, legs and source-cropped wing boundaries; do not reconstruct hidden parts",
+    "dissent_adjudication": null
+  },
+  {
+    "photo_id": 756902222,
+    "candidate_id": "bbox-000068ce42--6afc441befe38c64f7156710-756902222-v2",
+    "source_assignment_id": "000068ce42--6afc441befe38c64f7156710",
+    "author_id": "661745669e60a375202137c8056e269b",
+    "source_version": 2,
+    "votes": [
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068ce43--6afc5944b0dc860f4141cb56",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "f281937604ba99c181839235d97dceab",
+        "assignment_id": "000068ce43--6afc65aad2f6e71804ea95c1",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "original_review_votes": [
+      {
+        "worker_id": "1acbf2b496203938edc48507e195a182",
+        "assignment_id": "000068ce43--6afc48187d0c01341175cf9c",
+        "verdict": "BAD",
+        "reason": "bounds"
+      },
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068ce43--6afc490c4e7c5758994cfd57",
+        "verdict": "BAD",
+        "reason": "bounds"
+      }
+    ],
+    "before_boxes": [
+      {
+        "left": 0.42197253433208487,
+        "top": 0.013179402036114651,
+        "width": 0.26342072409488143,
+        "height": 0.6919186068960191,
+        "shape": "rectangle"
+      }
+    ],
+    "issued_sha256": "c2f4f195df808cf02c206b03fbf58a8095b405ef1d036dc8178acf61738d67fa",
+    "decision": "accepted after full-source visual adjudication and independent human verification",
+    "visual_audit": "Full source frame, all visible appendages and source edges; source-grid/detail artifacts in exam-assessment",
+    "correction_actor": "Codex-assisted full-source visual proposal, not an independent human vote",
+    "correction_reason": "Include all visible antennae, legs and source-cropped wing boundaries; do not reconstruct hidden parts",
+    "dissent_adjudication": null
+  },
+  {
+    "photo_id": 757235802,
+    "candidate_id": "bbox-000068ce42--6afc442865e6b5730e55cc93-757235802-v3",
+    "source_assignment_id": "000068ce42--6afc442865e6b5730e55cc93",
+    "author_id": "661745669e60a375202137c8056e269b",
+    "source_version": 3,
+    "votes": [
+      {
+        "worker_id": "f281937604ba99c181839235d97dceab",
+        "assignment_id": "000068ce43--6afc68423537ac5dbb31fd9d",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "original_review_votes": [
+      {
+        "worker_id": "1acbf2b496203938edc48507e195a182",
+        "assignment_id": "000068ce43--6afc473e4e7c5758994cb283",
+        "verdict": "BAD",
+        "reason": "bounds"
+      },
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068ce43--6afc48c965e6b5730e569ff1",
+        "verdict": "BAD",
+        "reason": "bounds"
+      }
+    ],
+    "before_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.24479166666666666,
+        "top": 0.640926640926641,
+        "width": 0.42578125,
+        "height": 0.359073359073359
+      }
+    ],
+    "issued_sha256": "39b105f1fedf06ac4bd3f250e98889b3c78d2824c6f72f4f2316808e6febb403",
+    "decision": "accepted after full-source visual adjudication and independent human verification",
+    "visual_audit": "Full source frame, all visible appendages and source edges; source-grid/detail artifacts in exam-assessment",
+    "correction_actor": "Codex-assisted full-source/taxonomy adjudication, not a human vote",
+    "correction_reason": "Include omitted thin antenna tips/legs and full visible wing tips, using complete source frame rather than low-resolution overview",
+    "dissent_adjudication": null
+  },
+  {
+    "photo_id": 757246981,
+    "candidate_id": "bbox-000068ce42--6afc4448cfe9a32683cb0f4c-757246981-v2",
+    "source_assignment_id": "000068ce42--6afc4448cfe9a32683cb0f4c",
+    "author_id": "661745669e60a375202137c8056e269b",
+    "source_version": 2,
+    "votes": [
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068ce43--6afc5944b0dc860f4141cb56",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "f281937604ba99c181839235d97dceab",
+        "assignment_id": "000068ce43--6afc65aad2f6e71804ea95c1",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "original_review_votes": [
+      {
+        "worker_id": "1acbf2b496203938edc48507e195a182",
+        "assignment_id": "000068ce43--6afc473e4e7c5758994cb283",
+        "verdict": "BAD",
+        "reason": "bounds"
+      },
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068ce43--6afc48c965e6b5730e569ff1",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "before_boxes": [
+      {
+        "left": 0.4544319600499376,
+        "top": 0.028200044062568846,
+        "width": 0.32209737827715357,
+        "height": 0.9517514871116988,
+        "shape": "rectangle"
+      }
+    ],
+    "issued_sha256": "c3d1db4b239a0fb22bf2e798d0aeb9f8d314c92ee46e594d074c403562861669",
+    "decision": "accepted after full-source visual adjudication and independent human verification",
+    "visual_audit": "Full source frame, all visible appendages and source edges; source-grid/detail artifacts in exam-assessment",
+    "correction_actor": "Codex-assisted full-source visual proposal, not an independent human vote",
+    "correction_reason": "Include all visible antennae, legs and source-cropped wing boundaries; do not reconstruct hidden parts",
+    "dissent_adjudication": null
+  },
+  {
+    "photo_id": 757292216,
+    "candidate_id": "bbox-000068ce42--6afc43d94e7c5758994c19b8-757292216",
+    "source_assignment_id": "000068ce42--6afc43d94e7c5758994c19b8",
+    "author_id": "661745669e60a375202137c8056e269b",
+    "source_version": 1,
+    "votes": [
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068ce43--6afc45dd4e7c5758994c784c",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "1acbf2b496203938edc48507e195a182",
+        "assignment_id": "000068ce43--6afc4624cfe9a32683cb6138",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "original_review_votes": [
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068ce43--6afc45dd4e7c5758994c784c",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "1acbf2b496203938edc48507e195a182",
+        "assignment_id": "000068ce43--6afc4624cfe9a32683cb6138",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "before_boxes": null,
+    "issued_sha256": "b5c8b2aa3c65e5ddea2a60c7f4243731320cad44e9b72dbb7192f84d50db2fef",
+    "decision": "accepted after full-source visual adjudication and independent human verification",
+    "visual_audit": "Full source frame, all visible appendages and source edges; source-grid/detail artifacts in exam-assessment",
+    "correction_actor": null,
+    "correction_reason": null,
+    "dissent_adjudication": null
+  },
+  {
+    "photo_id": 757512560,
+    "candidate_id": "bbox-000068ce42--6afc43bfcc978e5f974c47cb-757512560-v2",
+    "source_assignment_id": "000068ce42--6afc43bfcc978e5f974c47cb",
+    "author_id": "661745669e60a375202137c8056e269b",
+    "source_version": 2,
+    "votes": [
+      {
+        "worker_id": "1acbf2b496203938edc48507e195a182",
+        "assignment_id": "000068ce43--6afc58fdd2f6e71804e7cc4c",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068ce43--6afc58fe55eb9f701dacd9a4",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "original_review_votes": [
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068ce43--6afc46134e7c5758994c84d3",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "1acbf2b496203938edc48507e195a182",
+        "assignment_id": "000068ce43--6afc46deefe38c64f715f032",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "before_boxes": [
+      {
+        "left": 0.196875,
+        "top": 0.19749999999999998,
+        "width": 0.298125,
+        "height": 0.47,
+        "shape": "rectangle"
+      }
+    ],
+    "issued_sha256": "32b1286ceaf8b97a6689be53c24058c2260ad0643a88e99bf5258b3d13fcc748",
+    "decision": "accepted after full-source visual adjudication and independent human verification",
+    "visual_audit": "Full source frame, all visible appendages and source edges; source-grid/detail artifacts in exam-assessment",
+    "correction_actor": "Codex-assisted full-source visual proposal, not an independent human vote",
+    "correction_reason": "Include all visible antennae, legs and source-cropped wing boundaries; do not reconstruct hidden parts",
+    "dissent_adjudication": null
+  },
+  {
+    "photo_id": 757657828,
+    "candidate_id": "bbox-000068ce42--6afc43c7cc978e5f974c498b-757657828-v2",
+    "source_assignment_id": "000068ce42--6afc43c7cc978e5f974c498b",
+    "author_id": "661745669e60a375202137c8056e269b",
+    "source_version": 2,
+    "votes": [
+      {
+        "worker_id": "1acbf2b496203938edc48507e195a182",
+        "assignment_id": "000068ce43--6afc58fdd2f6e71804e7cc4c",
+        "verdict": "BAD",
+        "reason": "bounds"
+      },
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068ce43--6afc58fe55eb9f701dacd9a4",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "f281937604ba99c181839235d97dceab",
+        "assignment_id": "000068ce43--6afc667855eb9f701daff3c8",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "original_review_votes": [
+      {
+        "worker_id": "1acbf2b496203938edc48507e195a182",
+        "assignment_id": "000068ce43--6afc473e4e7c5758994cb283",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068ce43--6afc48c965e6b5730e569ff1",
+        "verdict": "BAD",
+        "reason": "bounds"
+      }
+    ],
+    "before_boxes": [
+      {
+        "left": 0.3666666666666667,
+        "top": 0.28,
+        "width": 0.3966666666666666,
+        "height": 0.245,
+        "shape": "rectangle"
+      }
+    ],
+    "issued_sha256": "e335798dfbcbd9a0c2a8bc0d120d97461b8384b5f00ab66f07586c7287bbdebd",
+    "decision": "accepted after full-source visual adjudication and independent human verification",
+    "visual_audit": "Full source frame, all visible appendages and source edges; source-grid/detail artifacts in exam-assessment",
+    "correction_actor": "Codex-assisted full-source visual proposal, not an independent human vote",
+    "correction_reason": "Include thin antennae above the flower and thin leg below lower wing, verified at full1536x2048 source size",
+    "dissent_adjudication": "Two independent OK and one bounds BAD; full-source inspection confirmed visible parts and ownership; dissent retained"
+  },
+  {
+    "photo_id": 757765877,
+    "candidate_id": "bbox-000068ce42--6afc4405cfe9a32683cb0419-757765877-v3",
+    "source_assignment_id": "000068ce42--6afc4405cfe9a32683cb0419",
+    "author_id": "661745669e60a375202137c8056e269b",
+    "source_version": 3,
+    "votes": [
+      {
+        "worker_id": "f281937604ba99c181839235d97dceab",
+        "assignment_id": "000068ce43--6afc6ba7fe68256bfdb40d32",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "original_review_votes": [
+      {
+        "worker_id": "1acbf2b496203938edc48507e195a182",
+        "assignment_id": "000068ce43--6afc48187d0c01341175cf9c",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068ce43--6afc490c4e7c5758994cfd57",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "before_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.5141649048625793,
+        "top": 0.4375,
+        "width": 0.18942917547568716,
+        "height": 0.09250000000000003
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.3699788583509514,
+        "top": 0.8427734375,
+        "width": 0.14799154334038056,
+        "height": 0.0478515625
+      }
+    ],
+    "issued_sha256": "ca4ce572ff8fa19973a306eb5ca84412f1cd4a07b7f12fb236c42c9b5206eda1",
+    "decision": "accepted after full-source visual adjudication and independent human verification",
+    "visual_audit": "Full source frame, all visible appendages and source edges; source-grid/detail artifacts in exam-assessment",
+    "correction_actor": "Codex-assisted full-source visual/taxonomy adjudication; not an independent human vote",
+    "correction_reason": "Full source inspection: include all visible source-cropped wings/antennae/legs, and remove unnecessary background; recover butterfly omitted by original answer where applicable",
+    "dissent_adjudication": null
+  },
+  {
+    "photo_id": 758377770,
+    "candidate_id": "bbox-000068ce42--6afc43d27d0c013411752278-758377770-v2",
+    "source_assignment_id": "000068ce42--6afc43d27d0c013411752278",
+    "author_id": "661745669e60a375202137c8056e269b",
+    "source_version": 2,
+    "votes": [
+      {
+        "worker_id": "1acbf2b496203938edc48507e195a182",
+        "assignment_id": "000068ce43--6afc58fdd2f6e71804e7cc4c",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068ce43--6afc58fe55eb9f701dacd9a4",
+        "verdict": "BAD",
+        "reason": "bounds"
+      },
+      {
+        "worker_id": "f281937604ba99c181839235d97dceab",
+        "assignment_id": "000068ce43--6afc667855eb9f701daff3c8",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "original_review_votes": [
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068ce43--6afc46134e7c5758994c84d3",
+        "verdict": "BAD",
+        "reason": "bounds"
+      },
+      {
+        "worker_id": "1acbf2b496203938edc48507e195a182",
+        "assignment_id": "000068ce43--6afc46deefe38c64f715f032",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "before_boxes": [
+      {
+        "left": 0.2784375,
+        "top": 0.3325,
+        "width": 0.11249999999999999,
+        "height": 0.29000000000000004,
+        "shape": "rectangle"
+      }
+    ],
+    "issued_sha256": "1b526fda0db6c88e8990439a38e5edc46e821a3629a684b4e0ff074b808e8a41",
+    "decision": "accepted after full-source visual adjudication and independent human verification",
+    "visual_audit": "Full source frame, all visible appendages and source edges; source-grid/detail artifacts in exam-assessment",
+    "correction_actor": "Codex-assisted full-source visual proposal, not an independent human vote",
+    "correction_reason": "Include all visible antennae, legs and source-cropped wing boundaries; do not reconstruct hidden parts",
+    "dissent_adjudication": "Two independent OK and one bounds BAD; full-source inspection confirmed visible parts and ownership; dissent retained"
+  },
+  {
+    "photo_id": 758737486,
+    "candidate_id": "bbox-000068ce42--6afc440efca5f6458f576450-758737486-v2",
+    "source_assignment_id": "000068ce42--6afc440efca5f6458f576450",
+    "author_id": "661745669e60a375202137c8056e269b",
+    "source_version": 2,
+    "votes": [
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068ce43--6afc5944b0dc860f4141cb56",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "f281937604ba99c181839235d97dceab",
+        "assignment_id": "000068ce43--6afc65aad2f6e71804ea95c1",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "original_review_votes": [
+      {
+        "worker_id": "1acbf2b496203938edc48507e195a182",
+        "assignment_id": "000068ce43--6afc48187d0c01341175cf9c",
+        "verdict": "BAD",
+        "reason": "bounds"
+      },
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068ce43--6afc490c4e7c5758994cfd57",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "before_boxes": [
+      {
+        "left": 0.14064447966191232,
+        "top": 0.005,
+        "width": 0.6734706814580032,
+        "height": 0.8724999999999999,
+        "shape": "rectangle"
+      }
+    ],
+    "issued_sha256": "db79537a8ba78a50eb5034deed9541c071fa56cd9cfe60f198709771eec111fc",
+    "decision": "accepted after full-source visual adjudication and independent human verification",
+    "visual_audit": "Full source frame, all visible appendages and source edges; source-grid/detail artifacts in exam-assessment",
+    "correction_actor": "Codex-assisted full-source visual proposal, not an independent human vote",
+    "correction_reason": "Include all visible antennae, legs and source-cropped wing boundaries; do not reconstruct hidden parts",
+    "dissent_adjudication": null
+  },
+  {
+    "photo_id": 758737496,
+    "candidate_id": "bbox-000068ce42--6afc43e47d0c0134117524cd-758737496",
+    "source_assignment_id": "000068ce42--6afc43e47d0c0134117524cd",
+    "author_id": "661745669e60a375202137c8056e269b",
+    "source_version": 1,
+    "votes": [
+      {
+        "worker_id": "1acbf2b496203938edc48507e195a182",
+        "assignment_id": "000068ce43--6afc47c8cc978e5f974d00c0",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068ce43--6afc493365e6b5730e56b5b7",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "original_review_votes": [
+      {
+        "worker_id": "1acbf2b496203938edc48507e195a182",
+        "assignment_id": "000068ce43--6afc47c8cc978e5f974d00c0",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068ce43--6afc493365e6b5730e56b5b7",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "before_boxes": null,
+    "issued_sha256": "efd0b73c66fd7dc25738b99a1ac5faf7437d397203fadc35b65a53633cb8bbdc",
+    "decision": "accepted after full-source visual adjudication and independent human verification",
+    "visual_audit": "Full source frame, all visible appendages and source edges; source-grid/detail artifacts in exam-assessment",
+    "correction_actor": null,
+    "correction_reason": null,
+    "dissent_adjudication": null
+  },
+  {
+    "photo_id": 759299182,
+    "candidate_id": "bbox-000068ce42--6afc44134717e736e4ac3793-759299182",
+    "source_assignment_id": "000068ce42--6afc44134717e736e4ac3793",
+    "author_id": "661745669e60a375202137c8056e269b",
+    "source_version": 1,
+    "votes": [
+      {
+        "worker_id": "1acbf2b496203938edc48507e195a182",
+        "assignment_id": "000068ce43--6afc48187d0c01341175cf9c",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068ce43--6afc490c4e7c5758994cfd57",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "original_review_votes": [
+      {
+        "worker_id": "1acbf2b496203938edc48507e195a182",
+        "assignment_id": "000068ce43--6afc48187d0c01341175cf9c",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068ce43--6afc490c4e7c5758994cfd57",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "before_boxes": null,
+    "issued_sha256": "d43b23ce822125d59cf3598f334fe0b468577e7b8c4207e6b090b79394fb77f7",
+    "decision": "accepted after full-source visual adjudication and independent human verification",
+    "visual_audit": "Full source frame, all visible appendages and source edges; source-grid/detail artifacts in exam-assessment",
+    "correction_actor": null,
+    "correction_reason": null,
+    "dissent_adjudication": null
+  },
+  {
+    "photo_id": 760751786,
+    "candidate_id": "bbox-000068ce42--6afc443ee246183f5d94b2a5-760751786",
+    "source_assignment_id": "000068ce42--6afc443ee246183f5d94b2a5",
+    "author_id": "661745669e60a375202137c8056e269b",
+    "source_version": 1,
+    "votes": [
+      {
+        "worker_id": "1acbf2b496203938edc48507e195a182",
+        "assignment_id": "000068ce43--6afc47c8cc978e5f974d00c0",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068ce43--6afc493365e6b5730e56b5b7",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "original_review_votes": [
+      {
+        "worker_id": "1acbf2b496203938edc48507e195a182",
+        "assignment_id": "000068ce43--6afc47c8cc978e5f974d00c0",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068ce43--6afc493365e6b5730e56b5b7",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "before_boxes": null,
+    "issued_sha256": "bfb13a23ea83e2bc8b58315bd50b8ce032f2b51d80d95ed01550f23f5583c5dd",
+    "decision": "accepted after full-source visual adjudication and independent human verification",
+    "visual_audit": "Full source frame, all visible appendages and source edges; source-grid/detail artifacts in exam-assessment",
+    "correction_actor": null,
+    "correction_reason": null,
+    "dissent_adjudication": null
+  },
+  {
+    "photo_id": 760828115,
+    "candidate_id": "bbox-000068ce42--6afc445e4e7c5758994c2d2d-760828115-v2",
+    "source_assignment_id": "000068ce42--6afc445e4e7c5758994c2d2d",
+    "author_id": "661745669e60a375202137c8056e269b",
+    "source_version": 2,
+    "votes": [
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068ce43--6afc5bf76fd8607c6c4fb8c1",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "f281937604ba99c181839235d97dceab",
+        "assignment_id": "000068ce43--6afc6683409e22184eea1469",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "original_review_votes": [
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068ce43--6afc46134e7c5758994c84d3",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "1acbf2b496203938edc48507e195a182",
+        "assignment_id": "000068ce43--6afc46deefe38c64f715f032",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "before_boxes": [
+      {
+        "left": 0.408740234375,
+        "top": 0.355,
+        "width": 0.21923339843749995,
+        "height": 0.31999999999999995,
+        "shape": "rectangle"
+      },
+      {
+        "left": 0.38458740234375,
+        "top": 0.6275,
+        "width": 0.19508056640624993,
+        "height": 0.23750000000000004,
+        "shape": "rectangle"
+      },
+      {
+        "left": 0.25453369140625,
+        "top": 0.49,
+        "width": 0.1597802734375,
+        "height": 0.2649999999999999,
+        "shape": "rectangle"
+      },
+      {
+        "left": 0.09475341796875,
+        "top": 0.7875,
+        "width": 0.14677490234374999,
+        "height": 0.16499999999999992,
+        "shape": "rectangle"
+      },
+      {
+        "left": 0.09846923828125,
+        "top": 0.25749999999999995,
+        "width": 0.16349609375000002,
+        "height": 0.23000000000000004,
+        "shape": "rectangle"
+      },
+      {
+        "left": 0.185791015625,
+        "top": 0.37,
+        "width": 0.096611328125,
+        "height": 0.26749999999999996,
+        "shape": "rectangle"
+      }
+    ],
+    "issued_sha256": "70df48638016cfb62728b6c2e40bb0cc0c0af67d224a5ead1d2b3ef70d81f74a",
+    "decision": "accepted after full-source visual adjudication and independent human verification",
+    "visual_audit": "Full source frame, all visible appendages and source edges; source-grid/detail artifacts in exam-assessment",
+    "correction_actor": "Codex-assisted full-source visual proposal, not an independent human vote",
+    "correction_reason": "Include all visible antennae/legs for six separate butterflies; full2048x1522 source inspection",
+    "dissent_adjudication": null
+  },
+  {
+    "photo_id": 761037191,
+    "candidate_id": "bbox-000068ce42--6afc43664717e736e4ac1659-761037191-v2",
+    "source_assignment_id": "000068ce42--6afc43664717e736e4ac1659",
+    "author_id": "661745669e60a375202137c8056e269b",
+    "source_version": 2,
+    "votes": [
+      {
+        "worker_id": "1acbf2b496203938edc48507e195a182",
+        "assignment_id": "000068ce43--6afc58fdd2f6e71804e7cc4c",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068ce43--6afc58fe55eb9f701dacd9a4",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "original_review_votes": [
+      {
+        "worker_id": "1acbf2b496203938edc48507e195a182",
+        "assignment_id": "000068ce43--6afc473e4e7c5758994cb283",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068ce43--6afc48c965e6b5730e569ff1",
+        "verdict": "BAD",
+        "reason": "bounds"
+      }
+    ],
+    "before_boxes": [
+      {
+        "left": 0.42937499999999995,
+        "top": 0.4175,
+        "width": 0.14437500000000003,
+        "height": 0.15749999999999997,
+        "shape": "rectangle"
+      }
+    ],
+    "issued_sha256": "4874745afb3efafebdd5b9cd8db7f9aae6b566f3cd6e660bfec5bca25b8030cb",
+    "decision": "accepted after full-source visual adjudication and independent human verification",
+    "visual_audit": "Full source frame, all visible appendages and source edges; source-grid/detail artifacts in exam-assessment",
+    "correction_actor": "Codex-assisted full-source visual proposal, not an independent human vote",
+    "correction_reason": "Include all visible antennae, legs and source-cropped wing boundaries; do not reconstruct hidden parts",
+    "dissent_adjudication": null
+  },
+  {
+    "photo_id": 761389216,
+    "candidate_id": "bbox-000068ce42--6afc44237d0c013411752fa0-761389216",
+    "source_assignment_id": "000068ce42--6afc44237d0c013411752fa0",
+    "author_id": "661745669e60a375202137c8056e269b",
+    "source_version": 1,
+    "votes": [
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068ce43--6afc46134e7c5758994c84d3",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "1acbf2b496203938edc48507e195a182",
+        "assignment_id": "000068ce43--6afc46deefe38c64f715f032",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "original_review_votes": [
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068ce43--6afc46134e7c5758994c84d3",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "1acbf2b496203938edc48507e195a182",
+        "assignment_id": "000068ce43--6afc46deefe38c64f715f032",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "before_boxes": null,
+    "issued_sha256": "a5e712b3ae92294c21b6bb40541b9cc777db3bf9c982bb38e4f2892ffc8c4587",
+    "decision": "accepted after full-source visual adjudication and independent human verification",
+    "visual_audit": "Full source frame, all visible appendages and source edges; source-grid/detail artifacts in exam-assessment",
+    "correction_actor": null,
+    "correction_reason": null,
+    "dissent_adjudication": null
+  },
+  {
+    "photo_id": 761399645,
+    "candidate_id": "bbox-000068ce42--6afc43e06acf942b904119d7-761399645",
+    "source_assignment_id": "000068ce42--6afc43e06acf942b904119d7",
+    "author_id": "661745669e60a375202137c8056e269b",
+    "source_version": 1,
+    "votes": [
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068ce43--6afc45dd4e7c5758994c784c",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "1acbf2b496203938edc48507e195a182",
+        "assignment_id": "000068ce43--6afc4624cfe9a32683cb6138",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "original_review_votes": [
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068ce43--6afc45dd4e7c5758994c784c",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "1acbf2b496203938edc48507e195a182",
+        "assignment_id": "000068ce43--6afc4624cfe9a32683cb6138",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "before_boxes": null,
+    "issued_sha256": "8ce4292ad9b57d732a43fadf9f62372f19aebf2eb674765dcde45fc002912e08",
+    "decision": "accepted after full-source visual adjudication and independent human verification",
+    "visual_audit": "Full source frame, all visible appendages and source edges; source-grid/detail artifacts in exam-assessment",
+    "correction_actor": null,
+    "correction_reason": null,
+    "dissent_adjudication": null
+  },
+  {
+    "photo_id": 761583466,
+    "candidate_id": "bbox-000068ce42--6afc43cdcc978e5f974c4a3d-761583466",
+    "source_assignment_id": "000068ce42--6afc43cdcc978e5f974c4a3d",
+    "author_id": "661745669e60a375202137c8056e269b",
+    "source_version": 1,
+    "votes": [
+      {
+        "worker_id": "1acbf2b496203938edc48507e195a182",
+        "assignment_id": "000068ce43--6afc47c8cc978e5f974d00c0",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068ce43--6afc493365e6b5730e56b5b7",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "original_review_votes": [
+      {
+        "worker_id": "1acbf2b496203938edc48507e195a182",
+        "assignment_id": "000068ce43--6afc47c8cc978e5f974d00c0",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068ce43--6afc493365e6b5730e56b5b7",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "before_boxes": null,
+    "issued_sha256": "d575871c8938237dd2b0a7bb99289261d5f4725c8a884a29b42b3adbb4e95ec4",
+    "decision": "accepted after full-source visual adjudication and independent human verification",
+    "visual_audit": "Full source frame, all visible appendages and source edges; source-grid/detail artifacts in exam-assessment",
+    "correction_actor": null,
+    "correction_reason": null,
+    "dissent_adjudication": null
+  }
+]

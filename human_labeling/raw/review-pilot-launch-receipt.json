@@ -1,0 +1,777 @@
+{
+  "time": "2026-11-17T10:48:55.958Z",
+  "bboxRoles": {
+    "items": [
+      {
+        "id": "1253275882",
+        "skill_id": "21539",
+        "user_id": "fbb304d8d334df0cf796753f23cf9d42",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T09:11:27.692",
+        "modified": "2026-11-17T09:11:27.692"
+      },
+      {
+        "id": "1253275888",
+        "skill_id": "21539",
+        "user_id": "39548512b96ba09cacdda7a3bd1cb018",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T09:11:28.059",
+        "modified": "2026-11-17T09:11:28.059"
+      },
+      {
+        "id": "1253275891",
+        "skill_id": "21539",
+        "user_id": "2fc9b07acdebd617b625031f60339f05",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T09:11:28.366",
+        "modified": "2026-11-17T09:11:28.366"
+      },
+      {
+        "id": "1253275898",
+        "skill_id": "21539",
+        "user_id": "cf1c62163249adc72d5f69cad10fe1e3",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T09:11:28.688",
+        "modified": "2026-11-17T09:11:28.688"
+      },
+      {
+        "id": "1253275935",
+        "skill_id": "21539",
+        "user_id": "c698a72a58169f7ac1b07e2ad86c697a",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T09:11:30.742",
+        "modified": "2026-11-17T09:11:30.742"
+      },
+      {
+        "id": "1253275902",
+        "skill_id": "21539",
+        "user_id": "ad08bbc45f6c31d6cede64fbb4219272",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T09:11:28.994",
+        "modified": "2026-11-17T09:11:28.994"
+      },
+      {
+        "id": "1253275922",
+        "skill_id": "21539",
+        "user_id": "625f6727d6cc3a18aa6c0a5994a0b7cd",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T09:11:29.906",
+        "modified": "2026-11-17T09:11:29.906"
+      },
+      {
+        "id": "1253275909",
+        "skill_id": "21539",
+        "user_id": "16a530d8e3e00e12c3ec5bf5ccf8762c",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T09:11:29.314",
+        "modified": "2026-11-17T09:11:29.314"
+      },
+      {
+        "id": "1253275915",
+        "skill_id": "21539",
+        "user_id": "35beae4182d32097bc9c1886c8ebc877",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T09:11:29.621",
+        "modified": "2026-11-17T09:11:29.621"
+      },
+      {
+        "id": "1253275932",
+        "skill_id": "21539",
+        "user_id": "e931734fbf47891afcbf68282b668f99",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T09:11:30.401",
+        "modified": "2026-11-17T09:11:30.401"
+      },
+      {
+        "id": "1253275946",
+        "skill_id": "21539",
+        "user_id": "789175c66610f1e9c71a1364af4c4ac1",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T09:11:31.212",
+        "modified": "2026-11-17T09:11:31.212"
+      },
+      {
+        "id": "1253275964",
+        "skill_id": "21539",
+        "user_id": "75d58c8643a305b1182a07a279d5d78d",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T09:11:31.961",
+        "modified": "2026-11-17T09:11:31.961"
+      },
+      {
+        "id": "1253275967",
+        "skill_id": "21539",
+        "user_id": "2d96593bed233a3355e1dc072e852586",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T09:11:32.238",
+        "modified": "2026-11-17T09:11:32.238"
+      },
+      {
+        "id": "1253275971",
+        "skill_id": "21539",
+        "user_id": "e3813cad1700d0e99aaadb72350f680a",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T09:11:32.572",
+        "modified": "2026-11-17T09:11:32.572"
+      },
+      {
+        "id": "1253275974",
+        "skill_id": "21539",
+        "user_id": "2d33aa7ef688e5b19f232e0f3e327621",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T09:11:32.775",
+        "modified": "2026-11-17T09:11:32.775"
+      },
+      {
+        "id": "1253275979",
+        "skill_id": "21539",
+        "user_id": "dec973e25dbfad8fc748d9be7f4e082f",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T09:11:33.119",
+        "modified": "2026-11-17T09:11:33.119"
+      },
+      {
+        "id": "1253275952",
+        "skill_id": "21539",
+        "user_id": "661745669e60a375202137c8056e269b",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T09:11:31.553",
+        "modified": "2026-11-17T09:11:31.553"
+      }
+    ],
+    "has_more": false
+  },
+  "reviewRoles": {
+    "items": [
+      {
+        "id": "1253353049",
+        "skill_id": "21540",
+        "user_id": "d6feb6c608d0f2e15ffa1eaf889d92c3",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T10:44:30.270",
+        "modified": "2026-11-17T10:44:30.270"
+      },
+      {
+        "id": "1253353056",
+        "skill_id": "21540",
+        "user_id": "f281937604ba99c181839235d97dceab",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T10:44:30.619",
+        "modified": "2026-11-17T10:44:30.619"
+      },
+      {
+        "id": "1253353064",
+        "skill_id": "21540",
+        "user_id": "f08d4b7de10493aac3e29c92de3ccd2b",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T10:44:31.231",
+        "modified": "2026-11-17T10:44:31.231"
+      },
+      {
+        "id": "1253353172",
+        "skill_id": "21540",
+        "user_id": "2b22b92c7e332946013a3000ce15177c",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T10:44:37.941",
+        "modified": "2026-11-17T10:44:37.941"
+      },
+      {
+        "id": "1253353075",
+        "skill_id": "21540",
+        "user_id": "5d7f0faf9930ff66cda69943dbe00a64",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T10:44:32.030",
+        "modified": "2026-11-17T10:44:32.030"
+      },
+      {
+        "id": "1253353079",
+        "skill_id": "21540",
+        "user_id": "4cf5844d548da8f1b5f81100086bc9a7",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T10:44:32.435",
+        "modified": "2026-11-17T10:44:32.435"
+      },
+      {
+        "id": "1253353082",
+        "skill_id": "21540",
+        "user_id": "bac7a8422965502ff6c9c7808463f872",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T10:44:32.707",
+        "modified": "2026-11-17T10:44:32.707"
+      },
+      {
+        "id": "1253353086",
+        "skill_id": "21540",
+        "user_id": "08b7ee573ab50b1077834d7900c7511f",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T10:44:32.968",
+        "modified": "2026-11-17T10:44:32.968"
+      },
+      {
+        "id": "1253353095",
+        "skill_id": "21540",
+        "user_id": "6bbf9480ccd054d2d3a7e017532b69ae",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T10:44:33.374",
+        "modified": "2026-11-17T10:44:33.374"
+      },
+      {
+        "id": "1253353106",
+        "skill_id": "21540",
+        "user_id": "06e329f158c91dafb06bdff2c415c870",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T10:44:33.765",
+        "modified": "2026-11-17T10:44:33.765"
+      },
+      {
+        "id": "1253353158",
+        "skill_id": "21540",
+        "user_id": "2fd76171d25fbb711b5b8fd321a88a61",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T10:44:36.699",
+        "modified": "2026-11-17T10:44:36.699"
+      },
+      {
+        "id": "1253353109",
+        "skill_id": "21540",
+        "user_id": "5cf332e35540516f7446615e9cf09fde",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T10:44:34.065",
+        "modified": "2026-11-17T10:44:34.065"
+      },
+      {
+        "id": "1253353116",
+        "skill_id": "21540",
+        "user_id": "f8b376f6aa4a5b77317954fe074b5426",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T10:44:34.460",
+        "modified": "2026-11-17T10:44:34.460"
+      },
+      {
+        "id": "1253353127",
+        "skill_id": "21540",
+        "user_id": "5a23ac703e9eb3550fac6fd8a41f42a4",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T10:44:34.867",
+        "modified": "2026-11-17T10:44:34.867"
+      },
+      {
+        "id": "1253353133",
+        "skill_id": "21540",
+        "user_id": "8da75f3d4cd947bcb3dec9d199a0229b",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T10:44:35.172",
+        "modified": "2026-11-17T10:44:35.172"
+      },
+      {
+        "id": "1253353135",
+        "skill_id": "21540",
+        "user_id": "3f69ef8c73c99b3c7fe16e6a3263c01a",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T10:44:35.492",
+        "modified": "2026-11-17T10:44:35.492"
+      },
+      {
+        "id": "1253353140",
+        "skill_id": "21540",
+        "user_id": "677f485d5a92b57804bd26ceb5029c9b",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T10:44:35.790",
+        "modified": "2026-11-17T10:44:35.790"
+      },
+      {
+        "id": "1253353145",
+        "skill_id": "21540",
+        "user_id": "1357533a81112a1fff253e4413941a71",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T10:44:36.093",
+        "modified": "2026-11-17T10:44:36.093"
+      },
+      {
+        "id": "1253353163",
+        "skill_id": "21540",
+        "user_id": "299d70c1c70a8a255e336d58894ec49a",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T10:44:37.008",
+        "modified": "2026-11-17T10:44:37.008"
+      },
+      {
+        "id": "1253353167",
+        "skill_id": "21540",
+        "user_id": "bb34bf8df91e7dd4e1c75bf63834dd67",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T10:44:37.357",
+        "modified": "2026-11-17T10:44:37.357"
+      },
+      {
+        "id": "1253353170",
+        "skill_id": "21540",
+        "user_id": "77e54e40319d5a2e4ef928f59a2a17b0",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T10:44:37.662",
+        "modified": "2026-11-17T10:44:37.662"
+      },
+      {
+        "id": "1253353178",
+        "skill_id": "21540",
+        "user_id": "f64b453244edd4197152d4e605230f57",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T10:44:38.225",
+        "modified": "2026-11-17T10:44:38.225"
+      },
+      {
+        "id": "1253353186",
+        "skill_id": "21540",
+        "user_id": "37753a9f61fdc01f66d780a54b560ea7",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T10:44:38.551",
+        "modified": "2026-11-17T10:44:38.551"
+      },
+      {
+        "id": "1253353192",
+        "skill_id": "21540",
+        "user_id": "2226789601715a53087ec79d6ff6ba8d",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T10:44:38.810",
+        "modified": "2026-11-17T10:44:38.810"
+      },
+      {
+        "id": "1253353195",
+        "skill_id": "21540",
+        "user_id": "d31983dd6f3d104c01d5b6ce47a67bac",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T10:44:39.117",
+        "modified": "2026-11-17T10:44:39.117"
+      },
+      {
+        "id": "1253353196",
+        "skill_id": "21540",
+        "user_id": "90ee9cf3f89abf2f9f6c087bd8e26a5d",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T10:44:39.419",
+        "modified": "2026-11-17T10:44:39.419"
+      },
+      {
+        "id": "1253353199",
+        "skill_id": "21540",
+        "user_id": "6af6b02e8c1c6bd3a161eb57c5e15aec",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T10:44:39.576",
+        "modified": "2026-11-17T10:44:39.576"
+      },
+      {
+        "id": "1253353070",
+        "skill_id": "21540",
+        "user_id": "d7210ff3934608d1832e94043b3e4977",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T10:44:31.698",
+        "modified": "2026-11-17T10:44:31.698"
+      },
+      {
+        "id": "1253353150",
+        "skill_id": "21540",
+        "user_id": "1acbf2b496203938edc48507e195a182",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T10:44:36.394",
+        "modified": "2026-11-17T10:44:36.394"
+      },
+      {
+        "id": "1253353060",
+        "skill_id": "21540",
+        "user_id": "874570557fddf4de3660ceb2d7cd6509",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T10:44:30.910",
+        "modified": "2026-11-17T10:44:30.910"
+      }
+    ],
+    "has_more": false
+  },
+  "reviewSkills": {
+    "items": [
+      {
+        "id": "1253330200",
+        "skill_id": "21538",
+        "user_id": "1357533a81112a1fff253e4413941a71",
+        "value": 86,
+        "exact_value": 85.714285714286,
+        "created": "2026-11-17T10:19:50.720",
+        "modified": "2026-11-17T10:19:50.720"
+      },
+      {
+        "id": "1253331848",
+        "skill_id": "21538",
+        "user_id": "1acbf2b496203938edc48507e195a182",
+        "value": 93,
+        "exact_value": 92.857142857143,
+        "created": "2026-11-17T10:21:36.284",
+        "modified": "2026-11-17T10:21:36.284"
+      },
+      {
+        "id": "1253318700",
+        "skill_id": "21538",
+        "user_id": "5d7f0faf9930ff66cda69943dbe00a64",
+        "value": 50,
+        "exact_value": 50,
+        "created": "2026-11-17T10:07:15.903",
+        "modified": "2026-11-17T10:07:15.903"
+      },
+      {
+        "id": "1253318759",
+        "skill_id": "21538",
+        "user_id": "bac7a8422965502ff6c9c7808463f872",
+        "value": 50,
+        "exact_value": 50,
+        "created": "2026-11-17T10:07:19.851",
+        "modified": "2026-11-17T10:07:19.851"
+      },
+      {
+        "id": "1253318772",
+        "skill_id": "21538",
+        "user_id": "4cf5844d548da8f1b5f81100086bc9a7",
+        "value": 50,
+        "exact_value": 50,
+        "created": "2026-11-17T10:07:20.669",
+        "modified": "2026-11-17T10:07:20.669"
+      },
+      {
+        "id": "1253318825",
+        "skill_id": "21538",
+        "user_id": "08b7ee573ab50b1077834d7900c7511f",
+        "value": 0,
+        "exact_value": 0,
+        "created": "2026-11-17T10:07:23.703",
+        "modified": "2026-11-17T10:07:23.703"
+      },
+      {
+        "id": "1253319074",
+        "skill_id": "21538",
+        "user_id": "8da75f3d4cd947bcb3dec9d199a0229b",
+        "value": 50,
+        "exact_value": 50,
+        "created": "2026-11-17T10:07:41.483",
+        "modified": "2026-11-17T10:07:41.483"
+      },
+      {
+        "id": "1253319150",
+        "skill_id": "21538",
+        "user_id": "d7210ff3934608d1832e94043b3e4977",
+        "value": 93,
+        "exact_value": 92.857142857143,
+        "created": "2026-11-17T10:07:47.159",
+        "modified": "2026-11-17T10:07:47.159"
+      },
+      {
+        "id": "1253319152",
+        "skill_id": "21538",
+        "user_id": "f281937604ba99c181839235d97dceab",
+        "value": 93,
+        "exact_value": 92.857142857143,
+        "created": "2026-11-17T10:07:47.435",
+        "modified": "2026-11-17T10:07:47.435"
+      },
+      {
+        "id": "1253319273",
+        "skill_id": "21538",
+        "user_id": "06e329f158c91dafb06bdff2c415c870",
+        "value": 43,
+        "exact_value": 42.857142857143,
+        "created": "2026-11-17T10:07:55.714",
+        "modified": "2026-11-17T10:07:55.714"
+      },
+      {
+        "id": "1253319554",
+        "skill_id": "21538",
+        "user_id": "3f69ef8c73c99b3c7fe16e6a3263c01a",
+        "value": 79,
+        "exact_value": 78.571428571429,
+        "created": "2026-11-17T10:08:14.534",
+        "modified": "2026-11-17T10:08:14.534"
+      },
+      {
+        "id": "1253319732",
+        "skill_id": "21538",
+        "user_id": "5cf332e35540516f7446615e9cf09fde",
+        "value": 0,
+        "exact_value": 0,
+        "created": "2026-11-17T10:08:25.194",
+        "modified": "2026-11-17T10:08:25.194"
+      },
+      {
+        "id": "1253319931",
+        "skill_id": "21538",
+        "user_id": "5a23ac703e9eb3550fac6fd8a41f42a4",
+        "value": 79,
+        "exact_value": 78.571428571429,
+        "created": "2026-11-17T10:08:36.652",
+        "modified": "2026-11-17T10:08:36.652"
+      },
+      {
+        "id": "1253320500",
+        "skill_id": "21538",
+        "user_id": "f08d4b7de10493aac3e29c92de3ccd2b",
+        "value": 79,
+        "exact_value": 78.571428571429,
+        "created": "2026-11-17T10:09:13.141",
+        "modified": "2026-11-17T10:09:13.141"
+      },
+      {
+        "id": "1253320614",
+        "skill_id": "21538",
+        "user_id": "6bbf9480ccd054d2d3a7e017532b69ae",
+        "value": 71,
+        "exact_value": 71.428571428571,
+        "created": "2026-11-17T10:09:21.243",
+        "modified": "2026-11-17T10:09:21.243"
+      },
+      {
+        "id": "1253321311",
+        "skill_id": "21538",
+        "user_id": "874570557fddf4de3660ceb2d7cd6509",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T10:10:13.916",
+        "modified": "2026-11-17T10:10:13.916"
+      },
+      {
+        "id": "1253340820",
+        "skill_id": "21538",
+        "user_id": "2fd76171d25fbb711b5b8fd321a88a61",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T10:30:58.609",
+        "modified": "2026-11-17T10:30:58.609"
+      },
+      {
+        "id": "1253322223",
+        "skill_id": "21538",
+        "user_id": "f8b376f6aa4a5b77317954fe074b5426",
+        "value": 86,
+        "exact_value": 85.714285714286,
+        "created": "2026-11-17T10:11:16.654",
+        "modified": "2026-11-17T10:11:16.654"
+      },
+      {
+        "id": "1253322880",
+        "skill_id": "21538",
+        "user_id": "d6feb6c608d0f2e15ffa1eaf889d92c3",
+        "value": 100,
+        "exact_value": 100,
+        "created": "2026-11-17T10:11:55.397",
+        "modified": "2026-11-17T10:11:55.397"
+      },
+      {
+        "id": "1253323221",
+        "skill_id": "21538",
+        "user_id": "677f485d5a92b57804bd26ceb5029c9b",
+        "value": 64,
+        "exact_value": 64.285714285714,
+        "created": "2026-11-17T10:12:21.696",
+        "modified": "2026-11-17T10:12:21.696"
+      }
+    ],
+    "has_more": false
+  },
+  "roleGrantReceipt": [
+    {
+      "user": "d6feb6c608d0f2e15ffa1eaf889d92c3",
+      "status": 201
+    },
+    {
+      "user": "f281937604ba99c181839235d97dceab",
+      "status": 201
+    },
+    {
+      "user": "874570557fddf4de3660ceb2d7cd6509",
+      "status": 201
+    },
+    {
+      "user": "f08d4b7de10493aac3e29c92de3ccd2b",
+      "status": 201
+    },
+    {
+      "user": "d7210ff3934608d1832e94043b3e4977",
+      "status": 201
+    },
+    {
+      "user": "5d7f0faf9930ff66cda69943dbe00a64",
+      "status": 201
+    },
+    {
+      "user": "4cf5844d548da8f1b5f81100086bc9a7",
+      "status": 201
+    },
+    {
+      "user": "bac7a8422965502ff6c9c7808463f872",
+      "status": 201
+    },
+    {
+      "user": "08b7ee573ab50b1077834d7900c7511f",
+      "status": 201
+    },
+    {
+      "user": "6bbf9480ccd054d2d3a7e017532b69ae",
+      "status": 201
+    },
+    {
+      "user": "06e329f158c91dafb06bdff2c415c870",
+      "status": 201
+    },
+    {
+      "user": "5cf332e35540516f7446615e9cf09fde",
+      "status": 201
+    },
+    {
+      "user": "f8b376f6aa4a5b77317954fe074b5426",
+      "status": 201
+    },
+    {
+      "user": "5a23ac703e9eb3550fac6fd8a41f42a4",
+      "status": 201
+    },
+    {
+      "user": "8da75f3d4cd947bcb3dec9d199a0229b",
+      "status": 201
+    },
+    {
+      "user": "3f69ef8c73c99b3c7fe16e6a3263c01a",
+      "status": 201
+    },
+    {
+      "user": "677f485d5a92b57804bd26ceb5029c9b",
+      "status": 201
+    },
+    {
+      "user": "1357533a81112a1fff253e4413941a71",
+      "status": 201
+    },
+    {
+      "user": "1acbf2b496203938edc48507e195a182",
+      "status": 201
+    },
+    {
+      "user": "2fd76171d25fbb711b5b8fd321a88a61",
+      "status": 201
+    },
+    {
+      "user": "299d70c1c70a8a255e336d58894ec49a",
+      "status": 201
+    },
+    {
+      "user": "bb34bf8df91e7dd4e1c75bf63834dd67",
+      "status": 201
+    },
+    {
+      "user": "77e54e40319d5a2e4ef928f59a2a17b0",
+      "status": 201
+    },
+    {
+      "user": "2b22b92c7e332946013a3000ce15177c",
+      "status": 201
+    },
+    {
+      "user": "f64b453244edd4197152d4e605230f57",
+      "status": 201
+    },
+    {
+      "user": "37753a9f61fdc01f66d780a54b560ea7",
+      "status": 201
+    },
+    {
+      "user": "2226789601715a53087ec79d6ff6ba8d",
+      "status": 201
+    },
+    {
+      "user": "d31983dd6f3d104c01d5b6ce47a67bac",
+      "status": 201
+    },
+    {
+      "user": "90ee9cf3f89abf2f9f6c087bd8e26a5d",
+      "status": 201
+    },
+    {
+      "user": "6af6b02e8c1c6bd3a161eb57c5e15aec",
+      "status": 201
+    }
+  ],
+  "operation": {
+    "id": "a5f68d46-2e02-4b85-8ca2-4203c499b659",
+    "type": "TASK_SUITE.BATCH_CREATE",
+    "status": "SUCCESS",
+    "submitted": "2026-11-17T10:45:36.923",
+    "started": "2026-11-17T10:45:37.198",
+    "finished": "2026-11-17T10:45:37.513",
+    "progress": 100,
+    "parameters": {
+      "open_pool": false,
+      "allow_defaults": false,
+      "skip_invalid_items": false
+    },
+    "details": {
+      "total_count": 5,
+      "valid_count": 5,
+      "failed_count": 0,
+      "success_count": 5,
+      "not_valid_count": 0
+    }
+  },
+  "open": {
+    "id": "120e6691-0382-4dc9-a76b-8dae6683d533",
+    "type": "POOL.OPEN",
+    "status": "SUCCESS",
+    "submitted": "2026-11-17T10:46:01.488",
+    "started": "2026-11-17T10:46:01.488",
+    "finished": "2026-11-17T10:46:01.488",
+    "progress": 100,
+    "parameters": {
+      "pool_id": "6868005"
+    },
+    "details": {}
+  }
+}

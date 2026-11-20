@@ -1,0 +1,83 @@
+{
+  "at": "2026-11-17T18:35:29.670Z",
+  "hard_cap_rub": "850.00",
+  "commission_rate": "0.40",
+  "paid_rub": "821.80",
+  "reserved_unfinished_rub": "0.00",
+  "free_rub": "28.20",
+  "all_pools_closed": true,
+  "pools": [
+    {
+      "pool_id": "6868002",
+      "name": "Финал844 — Bbox — экзамен 7 фото — максимум 12 попыток",
+      "accepted": 12,
+      "price_rub": "2.50",
+      "reward_rub": "30.00",
+      "fee_rub": "12.00",
+      "total_rub": "42.00",
+      "status": "CLOSED"
+    },
+    {
+      "pool_id": "6868003",
+      "name": "Финал844 — Bbox — пилот 20 фото",
+      "accepted": 20,
+      "price_rub": "0.75",
+      "reward_rub": "15.00",
+      "fee_rub": "6.00",
+      "total_rub": "21.00",
+      "status": "CLOSED"
+    },
+    {
+      "pool_id": "6868004",
+      "name": "Финал844 — Review — экзамен 14 фото — максимум 20 попыток",
+      "accepted": 20,
+      "price_rub": "1.00",
+      "reward_rub": "20.00",
+      "fee_rub": "8.00",
+      "total_rub": "28.00",
+      "status": "CLOSED"
+    },
+    {
+      "pool_id": "6868005",
+      "name": "Финал844 — Review — пилот 20 фото ×2",
+      "accepted": 25,
+      "price_rub": "1.00",
+      "reward_rub": "25.00",
+      "fee_rub": "10.00",
+      "total_rub": "35.00",
+      "status": "CLOSED"
+    },
+    {
+      "pool_id": "6868546",
+      "name": "Финал844 — Bbox — основной набор 380 фото",
+      "accepted": 380,
+      "price_rub": "0.75",
+      "reward_rub": "285.00",
+      "fee_rub": "114.00",
+      "total_rub": "399.00",
+      "status": "CLOSED"
+    },
+    {
+      "pool_id": "6868547",
+      "name": "Финал844 — Review — основной набор 380 фото ×2",
+      "accepted": 206,
+      "price_rub": "1.00",
+      "reward_rub": "206.00",
+      "fee_rub": "82.40",
+      "total_rub": "288.40",
+      "status": "CLOSED"
+    },
+    {
+      "pool_id": "6868557",
+      "name": "Финал844 — Точность рамок — практика видимых частей",
+      "accepted": 4,
+      "price_rub": "1.50",
+      "reward_rub": "6.00",
+      "fee_rub": "2.40",
+      "total_rub": "8.40",
+      "status": "CLOSED"
+    }
+  ],
+  "final_course_submission": false,
+  "new_paid_checks_after_manual_choice": 0
+}

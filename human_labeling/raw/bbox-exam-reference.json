@@ -1,0 +1,85 @@
+[
+  {
+    "photo_id": 756699351,
+    "boxes": [
+      {
+        "left": 0.826366,
+        "top": 0.375913,
+        "width": 0.173634,
+        "height": 0.306569
+      }
+    ],
+    "source": "exam_1",
+    "assessment": "manual; IoU guidance .7 plus visible-boundary inspection"
+  },
+  {
+    "photo_id": 761376987,
+    "boxes": [],
+    "source": "exam_1",
+    "assessment": "manual; IoU guidance .7 plus visible-boundary inspection"
+  },
+  {
+    "photo_id": 758336810,
+    "boxes": [
+      {
+        "left": 0.405595,
+        "top": 0.229927,
+        "width": 0.099757,
+        "height": 0.076642
+      },
+      {
+        "left": 0.556447,
+        "top": 0.474453,
+        "width": 0.177616,
+        "height": 0.107664
+      }
+    ],
+    "source": "exam_1",
+    "assessment": "manual; IoU guidance .7 plus visible-boundary inspection"
+  },
+  {
+    "photo_id": 761244454,
+    "boxes": [],
+    "source": "exam_1",
+    "assessment": "manual; IoU guidance .7 plus visible-boundary inspection"
+  },
+  {
+    "photo_id": 756900533,
+    "boxes": [
+      {
+        "left": 0.578083,
+        "top": 0.186131,
+        "width": 0.207978,
+        "height": 0.35219
+      }
+    ],
+    "source": "exam_1",
+    "assessment": "manual; IoU guidance .7 plus visible-boundary inspection"
+  },
+  {
+    "photo_id": 757345638,
+    "boxes": [
+      {
+        "left": 0.086384,
+        "top": 0.306569,
+        "width": 0.804007,
+        "height": 0.518248
+      }
+    ],
+    "source": "exam_1",
+    "assessment": "manual; IoU guidance .7 plus visible-boundary inspection"
+  },
+  {
+    "photo_id": 757035887,
+    "boxes": [
+      {
+        "left": 0.111192,
+        "top": 0.270073,
+        "width": 0.13382,
+        "height": 0.074818
+      }
+    ],
+    "source": "exam_1",
+    "assessment": "manual; IoU guidance .7 plus visible-boundary inspection"
+  }
+]

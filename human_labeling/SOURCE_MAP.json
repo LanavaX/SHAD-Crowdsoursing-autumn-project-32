@@ -1,0 +1,519 @@
+{
+  "source_archive": "step2_delivery_20261117.zip",
+  "source_archive_sha256": "ba5e2e6abeec2e4022077c37787d05e72cd5c3627540f2d8a3c59ed798c3f422",
+  "files": [
+    {
+      "source_archive_entry": "step2_delivery/settings/bbox-template.json",
+      "destination": "interfaces/bbox.json",
+      "sha256": "172b6b504d7f73cad97f654f3e570aea4ad0fb169afba20811088fe096c37154",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/settings/review-template.json",
+      "destination": "interfaces/review.json",
+      "sha256": "623480591a9d10dd5660f0479df6279a2c9fdc23c0cd0775ea2894fa4d490c3e",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/settings/project-final-configs-20261117.json",
+      "destination": "settings/projects.json",
+      "sha256": "ace5c53e29e610a223fe46f795159bc2b6104baa5545904f4cf45a9c2a1d34d5",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/STEP2_REPORT.md",
+      "destination": "report-20261117.md",
+      "sha256": "f7149106259802ca2d614e66b0c30ebcb580ba03f79dcb740b44e637b2663bcb",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/golden.jsonl",
+      "destination": "data/golden.jsonl",
+      "sha256": "ac09bc0ea149f239a27027b46e99cdc05c1613ce0c39ad60802a81554f998f4b",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/golden.json",
+      "destination": "data/golden.json",
+      "sha256": "0133778a751467285f54bad4714c975a29e750dd521bece9fd38fb4ef469e71b",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/manifest.jsonl",
+      "destination": "data/manifest.jsonl",
+      "sha256": "077000e99fb2af0ff9b5d521efc8df26f3e76435824e4b4ad53fcb7342150f38",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/provenance.json",
+      "destination": "data/provenance.json",
+      "sha256": "7dbcc3314a0016ff4cdffef892e1a81362cf47c996bf4e0e0189daf87c3826a3",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/validation.json",
+      "destination": "data/validation.json",
+      "sha256": "ffc62e5e30ae19da1a86106e6be1c5af9f9b7e7940fe72e4d170e08bc1f1c2ab",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/visual-audit.json",
+      "destination": "data/visual-audit.json",
+      "sha256": "597acd348c1f93ca5ad83523c4ae86f638af3d93b222230ef3b9ed086451c878",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/costs.json",
+      "destination": "data/costs.json",
+      "sha256": "6db6ab0100597fc17a0d808437e333afe803b8ce90e888de0253045a967b5aef",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/requirements-step2.txt",
+      "destination": "requirements-step2.txt",
+      "sha256": "028d039af4abb92693a07c97dee2fd3fe7c7f3e37437e35cdf63c4527b9ac532",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/examples/756642463-final-bounds.jpg",
+      "destination": "examples/756642463-final-bounds.jpg",
+      "sha256": "e997b7e2c166393209c195048ff0e8203d32f881d48ba77b92950131a506bdb8",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/examples/757258307-final-bounds.jpg",
+      "destination": "examples/757258307-final-bounds.jpg",
+      "sha256": "9820d9de552d513a6c6ca4752e4241502393f1d71c4031fdd37cf9237fcf721c",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/examples/757667513-final-bounds.jpg",
+      "destination": "examples/757667513-final-bounds.jpg",
+      "sha256": "d1e1515947410fb5fe5dc2566e0523ee43f89d02067657259815de74029e80e5",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/examples/761036757-final-bounds.jpg",
+      "destination": "examples/761036757-final-bounds.jpg",
+      "sha256": "43d01ac6195ecb2ef33788685cc54156f7f2f072758118f5ef7cb0b581fdd27a",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/examples/audit-00.jpg",
+      "destination": "examples/audit-00.jpg",
+      "sha256": "58c27c4518f8ef5b68debd561588e866bf0e27d59f721e06fdf0edd00b99ea26",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/examples/audit-01.jpg",
+      "destination": "examples/audit-01.jpg",
+      "sha256": "42e7521955564c3e530d209983a6775bbb1e15ebf7bc5fcefda321aff6f52cd1",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/examples/audit-02.jpg",
+      "destination": "examples/audit-02.jpg",
+      "sha256": "d2e7470020a990dd910de77976bc0bcc01571c31b685e8140d2d8e89ddfea01a",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/examples/audit-03.jpg",
+      "destination": "examples/audit-03.jpg",
+      "sha256": "3e6cf16cc07e974899f069d07e871bfe3d0e34e7453782c2c8c3ea85406ff0c6",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/examples/audit-04.jpg",
+      "destination": "examples/audit-04.jpg",
+      "sha256": "64eacb9e552d0706a6f8c8247c32ecb039d48503f9d40b087f79a3c9983a3937",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/examples/audit-05.jpg",
+      "destination": "examples/audit-05.jpg",
+      "sha256": "4f993e1732050ac8e5126f4ea7f933dbcd1d4c3842ccce2b74d74a75f37dfe19",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/examples/audit-06.jpg",
+      "destination": "examples/audit-06.jpg",
+      "sha256": "cb86e1217379d979dfd332a06d145266a481c8cf8ec4887b2d67f309fd622eb8",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/examples/audit-07.jpg",
+      "destination": "examples/audit-07.jpg",
+      "sha256": "75d78bb33aabd025cbf1d7cebc1bd62514b5825173a6248322a7aee287f128b8",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/examples/audit-08.jpg",
+      "destination": "examples/audit-08.jpg",
+      "sha256": "fa24b7e979e55545e97f35dfd19dbcc4714ead95f75b868044de66e7034b22a4",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/examples/audit-09.jpg",
+      "destination": "examples/audit-09.jpg",
+      "sha256": "9f6d67eb2db60c9a47bbc57e39d9cface412aff9a6513a0f93ba716530bf005c",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/examples/audit-10.jpg",
+      "destination": "examples/audit-10.jpg",
+      "sha256": "846838b003e468eca9208bfb94d15463bca71e9f86b002989231bd45866c7ebc",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/examples/audit-11.jpg",
+      "destination": "examples/audit-11.jpg",
+      "sha256": "2a3429752b4fb33c3aa3e76008158a15364340e8f893f6e1e92549de54dc6dd0",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/examples/audit-12.jpg",
+      "destination": "examples/audit-12.jpg",
+      "sha256": "6597c9f04c33043c325571a5d5785ae57e1ecea3058581055c9647e2dbc9501e",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/examples/audit-13.jpg",
+      "destination": "examples/audit-13.jpg",
+      "sha256": "216d89f7c2d46ea3d7e0eb2442066fb47fd9c0895b1b20b0181f73ed91b5e092",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/examples/audit-14.jpg",
+      "destination": "examples/audit-14.jpg",
+      "sha256": "ec4163f333b6f9ff0e113368c2ff2c0411e00ab4920355fe789135a2d991ecf1",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/examples/audit-15.jpg",
+      "destination": "examples/audit-15.jpg",
+      "sha256": "6d641cb2241599c1b654616e7d1e353f3400e3a6275c4aa33cf79e81fadcb161",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/examples/audit-16.jpg",
+      "destination": "examples/audit-16.jpg",
+      "sha256": "ceacc0ed6159a2b340e4b424f28803c452d816c0416d93fe78a5a5dafbeae02b",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/raw/bbox-exam-decisions.json",
+      "destination": "raw/bbox-exam-decisions.json",
+      "sha256": "0e0caef482f8fb9af31371b567bad2f4d1e4ae285e9de4696ce7f2abe5af070e",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/raw/bbox-exam-reference.json",
+      "destination": "raw/bbox-exam-reference.json",
+      "sha256": "abd32b17733ff9a44bcc7df2bc3b3cbea4edc12b3ec01699a8d564f98b0518b8",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/raw/bbox-precision-qualified.json",
+      "destination": "raw/bbox-precision-qualified.json",
+      "sha256": "7cfe887c2be3be346074fc228336509b1cc9e1967513be352b7f2032e4167c60",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/raw/changes.json",
+      "destination": "raw/changes.json",
+      "sha256": "7095965dd6a69865c96658920510cef6464144fea165dc05bdd9e92198e5b8c8",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/raw/cost-review-stage-breakdown.json",
+      "destination": "raw/cost-review-stage-breakdown.json",
+      "sha256": "2ce404ce2a3522b0cedebd4324dc9cf68b7069221c15d6180301995123b10580",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/raw/final844-human-corrections17-2026-11-17T18-37-08.976Z.json",
+      "destination": "raw/final844-human-corrections17-2026-11-17T18-37-08.976Z.json",
+      "sha256": "8b311b51f33bc18bfd619e10e6f1feb576ea97dfdd980fd059267de32e6d7ec3",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/raw/final844-human-review-2026-11-17T18-19-33.151Z.json",
+      "destination": "raw/final844-human-review-2026-11-17T18-19-33.151Z.json",
+      "sha256": "3374a6bd4dff7b68605c47c5621efbb5fe877b531840dfbdfc0d8847757bbb35",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/raw/issued-frame-verification.json",
+      "destination": "raw/issued-frame-verification.json",
+      "sha256": "5de2fd07c3ca7b82a419fc9b9a7938dedc78661567fd1ddd977208653ea98244",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/raw/license_issues.json",
+      "destination": "raw/license_issues.json",
+      "sha256": "3815c0dee6dd03ec214a069f6480fa839aaf0fb79eaf84affee939bebd0790d6",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/raw/main112-payment-receipt.json",
+      "destination": "raw/main112-payment-receipt.json",
+      "sha256": "1e8d4b2b1a9bb16db8f7e03554b9b9f3bac3998c34265e165623f7fed3524e05",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/raw/main236-payment-receipt.json",
+      "destination": "raw/main236-payment-receipt.json",
+      "sha256": "65a5cc7e31be54386de28be3951835f9a9c83e82ba59bf92c97076ff7cee21b4",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/raw/main32-payment-receipt.json",
+      "destination": "raw/main32-payment-receipt.json",
+      "sha256": "1432bdb405e3475ebed5c68b45ceea3211665bb1f13b781e21c21372ba69b619",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/raw/orientation_corrections.json",
+      "destination": "raw/orientation_corrections.json",
+      "sha256": "79cd3926c7e354d8b49ba2b747bca162742dadb56a62c362f56720f67642831b",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/raw/platform-final-20261117.json",
+      "destination": "raw/platform-final-20261117.json",
+      "sha256": "c261977fd18c7c7c4a54f69720bf28b814db5c74bf959cbd6ccf92c34f32c331",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/raw/review-exam-assessment.json",
+      "destination": "raw/review-exam-assessment.json",
+      "sha256": "ea3a4a4acb4d431dd0f37936cc499673d70e5c883867cf9e75076fa12deec16d",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/raw/review-pilot-launch-receipt.json",
+      "destination": "raw/review-pilot-launch-receipt.json",
+      "sha256": "84caf741acd9f3731f25a17acc65a2b9bed2eab36962da9cd32e830da4815178",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/reproduce/aggregate_review.py",
+      "destination": "reproduce/aggregate_review.py",
+      "sha256": "592671852c9dbc820feb414d89e40eb9b071c1f97e667383edd39d9aaacdbdf3",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/reproduce/build_golden.py",
+      "destination": "reproduce/build_golden.py",
+      "sha256": "1195365c1ac1112f0eb25091487ab384b38547c570d92b6bac523c6a3547bb7f",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/reproduce/control-failure-audit12.json",
+      "destination": "reproduce/control-failure-audit12.json",
+      "sha256": "ef6b1be0126259013fd41d6db0e155977a965d241ced5955d356123b7c09b647",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/reproduce/final-audit-completed68.json",
+      "destination": "reproduce/final-audit-completed68.json",
+      "sha256": "597acd348c1f93ca5ad83523c4ae86f638af3d93b222230ef3b9ed086451c878",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/reproduce/final-source-corrections17-proposals.json",
+      "destination": "reproduce/final-source-corrections17-proposals.json",
+      "sha256": "b44ce8cab487baa7ffd53d4af9c99e436019ab1b617f646af18c9e611f9e99f4",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/reproduce/golden-reviewed-partial39-provenance.json",
+      "destination": "reproduce/golden-reviewed-partial39-provenance.json",
+      "sha256": "ee82381f87bea4b16d0e2d92d42aebfd51b65d72ca5bdd565ebd06b916bb3868",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/reproduce/golden-reviewed-partial39.jsonl",
+      "destination": "reproduce/golden-reviewed-partial39.jsonl",
+      "sha256": "8f22330b156a4b81600d4f72cbb7dce0ecde7dab73d6ef559c93f2ee820eff69",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/reproduce/import_manual_review.py",
+      "destination": "reproduce/import_manual_review.py",
+      "sha256": "33f927f1e5fc66909d6d74ea55af6e3be3ba9587f29a65e139da9019fb131792",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/reproduce/main-review-complete-lineage.json",
+      "destination": "reproduce/main-review-complete-lineage.json",
+      "sha256": "dabe58b0300f654e393bf9434d2e09d3ce762aa348c739d10121855451ade64c",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/reproduce/main-review-final-aggregation.json",
+      "destination": "reproduce/main-review-final-aggregation.json",
+      "sha256": "9e671ca65cefc6768fcf5c6fbc95c5cd094b1c51e61b65bb6bfc84486fafbdd2",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/reproduce/main_manifest.jsonl",
+      "destination": "reproduce/main_manifest.jsonl",
+      "sha256": "d73d3b3f9052de34c4ef5c04061c28c559783ce9701230d22c801133d57651ef",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/reproduce/manual-adjudication-human-20261117.json",
+      "destination": "reproduce/manual-adjudication-human-20261117.json",
+      "sha256": "db2cb4c98939068b5b3516209e755cd96b5cdcfb6a2695645cea258e2c3bc519",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/reproduce/manual-adjudication-human-corrections17-20261117.json",
+      "destination": "reproduce/manual-adjudication-human-corrections17-20261117.json",
+      "sha256": "b3786a6e991dbe97cc96af61d0f59bc1d81b33fc074097b06b28b641719e6df7",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/reproduce/manual-review-corrections17-packet.json",
+      "destination": "reproduce/manual-review-corrections17-packet.json",
+      "sha256": "33f1eebe9e0e9614489d2a90aee3dd14f654d4a25183999fca816ee2b2a31875",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/reproduce/manual-review-packet36.json",
+      "destination": "reproduce/manual-review-packet36.json",
+      "sha256": "50f04efeb62704e80700d27a4662d0036637e310a1e572567a12428a91e11953",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/reproduce/model_manifest.jsonl",
+      "destination": "reproduce/model_manifest.jsonl",
+      "sha256": "0d7d6179c00496d479e7bf2b162ce283a779c1fc7767c4ea9cd5754f6447a6c4",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/reproduce/pilot-review-final-aggregation.json",
+      "destination": "reproduce/pilot-review-final-aggregation.json",
+      "sha256": "c464444b7db0423a205833bbd20337a7d8505400e3cf06fc2b3cbc6fd7ead8a9",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/reproduce/pipeline.py",
+      "destination": "reproduce/pipeline.py",
+      "sha256": "9aa778798461bef9a43e44be481eddf344f52a3f4aa343755a565c977e9507a0",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/reproduce/platform-final-20261117.json",
+      "destination": "reproduce/platform-final-20261117.json",
+      "sha256": "c261977fd18c7c7c4a54f69720bf28b814db5c74bf959cbd6ccf92c34f32c331",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/reproduce/review-exam-assessment.json",
+      "destination": "reproduce/review-exam-assessment.json",
+      "sha256": "ea3a4a4acb4d431dd0f37936cc499673d70e5c883867cf9e75076fa12deec16d",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/reproduce/review-gold-curated.json",
+      "destination": "reproduce/review-gold-curated.json",
+      "sha256": "19b0ea97309efea4b8e6b6c6bcdcf37ae27db50d0aea37c2e13c1999a998dac6",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/reproduce/review-gold.json",
+      "destination": "reproduce/review-gold.json",
+      "sha256": "6a91a1f5606e5909de67badcc1e124bcfeddb81c611a315b56f46e9d64db002c",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/reproduce/review-pilot-all-lineage-v4.json",
+      "destination": "reproduce/review-pilot-all-lineage-v4.json",
+      "sha256": "01292ac56fd3cf3effaaae6ff1b11da962f4418111eccf23d89c4012b62b8cb3",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/settings/bbox-exam-reference.json",
+      "destination": "settings/bbox-exam-reference.json",
+      "sha256": "abd32b17733ff9a44bcc7df2bc3b3cbea4edc12b3ec01699a8d564f98b0518b8",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/settings/bbox-precision-reference.json",
+      "destination": "settings/bbox-precision-reference.json",
+      "sha256": "47c988a639972d7497f119468d352b067a2b9e9041940f28cb9c3b9a2e7b64d9",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/settings/review-gold-curated.json",
+      "destination": "settings/review-gold-curated.json",
+      "sha256": "19b0ea97309efea4b8e6b6c6bcdcf37ae27db50d0aea37c2e13c1999a998dac6",
+      "unchanged": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/settings/project-final-configs-20261117.json",
+      "source_field": "projects[id=11855].public_instructions",
+      "destination": "instructions/bbox.html",
+      "sha256": "813f73bd43fdc151c58a75a370344827b19eb52a37a0c589b8756e237e65f191",
+      "extracted_field": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/settings/project-final-configs-20261117.json",
+      "source_field": "projects[id=11856].public_instructions",
+      "destination": "instructions/review.html",
+      "sha256": "d8e64b4b703d88d0e13b2edf6300478eb1bbbe121a4be0e83d325a02daa46d18",
+      "extracted_field": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/raw/platform-final-20261117.json",
+      "source_field": "pools[pool.id=6868002].pool",
+      "destination": "settings/pools/6868002.json",
+      "sha256": "3ca901e4e49ae6d2b9fbdade191a18021a0b182d995659da06e23ca23308a2fc",
+      "extracted_field": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/raw/platform-final-20261117.json",
+      "source_field": "pools[pool.id=6868003].pool",
+      "destination": "settings/pools/6868003.json",
+      "sha256": "8efad90e5ba30d03d57661d0c52954dc91ec226f9750f87a052f700b3df420c1",
+      "extracted_field": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/raw/platform-final-20261117.json",
+      "source_field": "pools[pool.id=6868004].pool",
+      "destination": "settings/pools/6868004.json",
+      "sha256": "c1e92dbd9f63faf5ad27c36c09d41370cbfdd0fd92692eea01b17de1178fbb35",
+      "extracted_field": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/raw/platform-final-20261117.json",
+      "source_field": "pools[pool.id=6868005].pool",
+      "destination": "settings/pools/6868005.json",
+      "sha256": "cb250514bba492c3e787aa0c7d3e54996bf28887e920a507e95a961f6f73e2c2",
+      "extracted_field": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/raw/platform-final-20261117.json",
+      "source_field": "pools[pool.id=6868546].pool",
+      "destination": "settings/pools/6868546.json",
+      "sha256": "d125f677df17a0ac34c2cf754bb44517a5b2596f4c6b05aa8dee4b48094f3dd2",
+      "extracted_field": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/raw/platform-final-20261117.json",
+      "source_field": "pools[pool.id=6868547].pool",
+      "destination": "settings/pools/6868547.json",
+      "sha256": "6c5cef124d4bbcd69814c5aa3f88d5d28cb5eeb64d4869400379b9f98d868b9d",
+      "extracted_field": true
+    },
+    {
+      "source_archive_entry": "step2_delivery/raw/platform-final-20261117.json",
+      "source_field": "pools[pool.id=6868557].pool",
+      "destination": "settings/pools/6868557.json",
+      "sha256": "f9ce01aeb2dbe983bca22a6ef915fc88fcdf0b798bda5e766ccdeb8a4f5d088c",
+      "extracted_field": true
+    }
+  ]
+}

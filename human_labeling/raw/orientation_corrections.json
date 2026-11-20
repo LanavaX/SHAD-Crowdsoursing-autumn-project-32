@@ -1,0 +1,39 @@
+{
+  "756781862": {
+    "exif": 8,
+    "source_size": [
+      103,
+      250
+    ],
+    "issued_size": [
+      250,
+      103
+    ],
+    "split": "hp_1",
+    "reference_box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "reference_box_after_rotation": [
+      0,
+      0,
+      1,
+      1
+    ]
+  },
+  "757257219": {
+    "exif": 6,
+    "source_size": [
+      1536,
+      2048
+    ],
+    "issued_size": [
+      2048,
+      1536
+    ],
+    "split": "base_pool",
+    "annotation_status": "pending"
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "view": {
+    "type": "view.list",
+    "items": [
+      {
+        "type": "view.text",
+        "content": "Каждая бабочка — отдельная рамка. Включайте ВСЕ ВИДИМЫЕ усики, лапки и тонкие хвостики крыльев. Рамки только по основной части крыльев недостаточно. Моль и бражники включены. Аскалафы/Ululodes — другие насекомые: не выделяем. Смотрите отдельный пример в инструкции."
+      },
+      {
+        "type": "field.button-radio-group",
+        "label": "Выберите ответ",
+        "data": {
+          "type": "data.output",
+          "path": "status"
+        },
+        "options": [
+          {
+            "label": "Разметил",
+            "value": "PRESENT"
+          },
+          {
+            "label": "Бабочек нет",
+            "value": "ABSENT"
+          },
+          {
+            "label": "Не могу определить",
+            "value": "UNCERTAIN"
+          },
+          {
+            "label": "Не загрузилось",
+            "value": "IMAGE_ERROR"
+          }
+        ],
+        "validation": {
+          "type": "condition.required",
+          "hint": "Выберите ответ"
+        }
+      },
+      {
+        "type": "helper.if",
+        "condition": {
+          "type": "condition.equals",
+          "data": {
+            "type": "data.output",
+            "path": "status"
+          },
+          "to": "PRESENT"
+        },
+        "then": {
+          "type": "field.image-annotation",
+          "data": {
+            "type": "data.output",
+            "path": "boxes"
+          },
+          "image": {
+            "type": "data.input",
+            "path": "image"
+          },
+          "shapes": {
+            "rectangle": true,
+            "polygon": false,
+            "point": false
+          },
+          "fullHeight": true,
+          "hint": "Плотная рамка на каждую бабочку. Моль и бражники тоже считаются.",
+          "validation": {
+            "type": "condition.required",
+            "hint": "Выделите хотя бы одну бабочку или смените ответ"
+          }
+        },
+        "else": {
+          "type": "view.image",
+          "url": {
+            "type": "data.input",
+            "path": "image"
+          },
+          "ratio": [
+            4,
+            3
+          ]
+        }
+      }
+    ]
+  },
+  "plugins": [
+    {
+      "type": "plugin.toloka",
+      "layout": {
+        "kind": "scroll",
+        "taskWidth": 900
+      }
+    },
+    {
+      "1": {
+        "type": "action.set",
+        "data": {
+          "type": "data.output",
+          "path": "status"
+        },
+        "payload": "PRESENT"
+      },
+      "2": {
+        "type": "action.bulk",
+        "payload": [
+          {
+            "type": "action.set",
+            "data": {
+              "type": "data.output",
+              "path": "boxes"
+            },
+            "payload": []
+          },
+          {
+            "type": "action.set",
+            "data": {
+              "type": "data.output",
+              "path": "status"
+            },
+            "payload": "ABSENT"
+          }
+        ]
+      },
+      "3": {
+        "type": "action.bulk",
+        "payload": [
+          {
+            "type": "action.set",
+            "data": {
+              "type": "data.output",
+              "path": "boxes"
+            },
+            "payload": []
+          },
+          {
+            "type": "action.set",
+            "data": {
+              "type": "data.output",
+              "path": "status"
+            },
+            "payload": "UNCERTAIN"
+          }
+        ]
+      },
+      "4": {
+        "type": "action.bulk",
+        "payload": [
+          {
+            "type": "action.set",
+            "data": {
+              "type": "data.output",
+              "path": "boxes"
+            },
+            "payload": []
+          },
+          {
+            "type": "action.set",
+            "data": {
+              "type": "data.output",
+              "path": "status"
+            },
+            "payload": "IMAGE_ERROR"
+          }
+        ]
+      },
+      "type": "plugin.hotkeys"
+    },
+    {
+      "type": "plugin.trigger",
+      "onChangeOf": {
+        "type": "data.output",
+        "path": "status"
+      },
+      "action": {
+        "type": "helper.if",
+        "condition": {
+          "type": "condition.not",
+          "condition": {
+            "type": "condition.equals",
+            "data": {
+              "type": "data.output",
+              "path": "status"
+            },
+            "to": "PRESENT"
+          }
+        },
+        "then": {
+          "type": "action.set",
+          "data": {
+            "type": "data.output",
+            "path": "boxes"
+          },
+          "payload": []
+        },
+        "else": {
+          "type": "action.set",
+          "data": {
+            "type": "data.internal",
+            "path": "unchanged"
+          },
+          "payload": true
+        }
+      }
+    }
+  ]
+}

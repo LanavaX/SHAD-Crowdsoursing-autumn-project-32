@@ -1,0 +1,486 @@
+{
+  "selection_file": "final-audit-sample40.json",
+  "seed": 844,
+  "unique_photos": 68,
+  "random_stratified_seed_subset": 40,
+  "additional_targeted_photos": 28,
+  "interpretation": "Целенаправленная проверка сложных кадров; это не статистическая оценка точности всего набора. Человеческий просмотр36+17ответов хранится отдельно.",
+  "items": [
+    {
+      "photo_id": 756643814,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-00.jpg",
+      "note": "Проверена исправленнаяv2 [185,225,930,1185]; выбор по номеру версии, не по позиции в файле."
+    },
+    {
+      "photo_id": 757345605,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-00.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 757672675,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-00.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 757269706,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-00.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 764431612,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-01.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 757711188,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-01.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 757158409,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-01.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 757587029,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-01.jpg",
+      "note": "Длинный правый усик доx1413 внутри правой границы1420; стебли дальше не включаются."
+    },
+    {
+      "photo_id": 757296804,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-02.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 759627334,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-02.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 758700353,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-02.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 758337819,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-02.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 759299118,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-03.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 759348189,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-03.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 757456980,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-03.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 758031368,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-03.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 758761021,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-04.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 758398528,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-04.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 760842309,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-04.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 758194546,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-04.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 758917467,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-05.jpg",
+      "note": "Белая область слева от жёлтой бабочки — лепестки цветка; в кадре одна бабочка."
+    },
+    {
+      "photo_id": 761036215,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-05.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 757819168,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-05.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 757184567,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-05.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 757320222,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-06.jpg",
+      "note": "Два светлых усика включены начиная сy588; большая тёмная петля выше — фон, не усик."
+    },
+    {
+      "photo_id": 757320796,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-06.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 757241674,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-06.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 757241547,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-06.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 757201409,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-07.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 760750840,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-07.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 757711139,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-07.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 760828115,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-07.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 760354807,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-08.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 760828121,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-08.jpg",
+      "note": "Семь видимых взрослых особей, включая частичные у верхнего левого и нижнего краёв; сохранены все7рамок. ДваOK/одинBAD не скрываются."
+    },
+    {
+      "photo_id": 761377138,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-08.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 761394117,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-08.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 761391239,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-09.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 761276709,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-09.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 761497384,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-09.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 761553062,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-09.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 705508913,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-10.jpg",
+      "note": "Сетчатокрылое Ululodes, не бабочка. Таксономическая сверка сохранена отдельно."
+    },
+    {
+      "photo_id": 761392628,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-10.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 761397059,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-10.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 761458118,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-10.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 757201569,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-11.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 757257318,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-11.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 757654939,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-11.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 758268826,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-11.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 759422975,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-12.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 760751803,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-12.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 760833749,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-12.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 758101588,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-12.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 758845361,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-13.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 703075775,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-13.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 757235845,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-13.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 758048901,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-13.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 759625117,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-14.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 756642442,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-14.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 757184603,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-14.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 756618338,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-14.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 756949905,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-15.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 757198966,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-15.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 757184497,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-15.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 756902174,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-15.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 758475138,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-16.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 757248947,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-16.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 756899091,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-16.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    },
+    {
+      "photo_id": 705521979,
+      "audit_status": "passed_after_adjudication",
+      "actor": "Codex-assisted full-frame visual audit, not an independent human vote",
+      "evidence": "exam-assessment/final-audit-sheet-16.jpg",
+      "note": "Проверены весь рабочий кадр, число объектов и видимые границы; спорные детали осмотрены отдельно."
+    }
+  ]
+}

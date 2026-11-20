@@ -1,0 +1,33 @@
+{
+  "excluded_duplicate": 757657747,
+  "added": [
+    764446255,
+    764435577,
+    764443144,
+    764431612,
+    764419352,
+    764419141
+  ],
+  "reclassified_positive": 761748011,
+  "license_verified": 587,
+  "license_issues": [
+    {
+      "photo_id": 758160189,
+      "reason": "license not verified"
+    },
+    {
+      "photo_id": 761378636,
+      "reason": "license not verified"
+    }
+  ],
+  "excluded_unconfirmed_main": [
+    761399685,
+    761399708,
+    761399741,
+    761598567
+  ],
+  "excluded_reference_license_or_missing_photo": [
+    758160189,
+    761378636
+  ]
+}

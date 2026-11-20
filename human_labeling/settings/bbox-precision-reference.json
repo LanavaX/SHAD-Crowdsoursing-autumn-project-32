@@ -1,0 +1,59 @@
+[
+  {
+    "photo_id": 757654762,
+    "candidate_id": "hp_2-757654762-ok",
+    "source_split": "hp_2",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.264528,
+        "top": 0.125912,
+        "width": 0.456922,
+        "height": 0.764599
+      }
+    ],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference",
+    "audit": "2026-11-17 visual review of full visible parts; cropped/ambiguous/appendage-cut positives excluded",
+    "gold_version": "curated-v2"
+  },
+  {
+    "photo_id": 759008023,
+    "candidate_id": "hp_2-759008023-ok",
+    "source_split": "hp_2",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.276454,
+        "top": 0.062043,
+        "width": 0.425687,
+        "height": 0.804745
+      }
+    ],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference",
+    "audit": "2026-11-17 visual review of full visible parts; cropped/ambiguous/appendage-cut positives excluded",
+    "gold_version": "curated-v2"
+  },
+  {
+    "photo_id": 758820438,
+    "candidate_id": "hp_2-758820438-ok",
+    "source_split": "hp_2",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.298346,
+        "top": 0.29562,
+        "width": 0.372172,
+        "height": 0.412409
+      }
+    ],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference",
+    "audit": "2026-11-17 visual review of full visible parts; cropped/ambiguous/appendage-cut positives excluded",
+    "gold_version": "curated-v2"
+  }
+]

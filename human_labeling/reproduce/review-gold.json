@@ -1,0 +1,855 @@
+[
+  {
+    "photo_id": 756739296,
+    "candidate_id": "exam_2-756739296-ok",
+    "source_split": "exam_2",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.0,
+        "top": 0.0,
+        "width": 1.0,
+        "height": 1.0
+      }
+    ],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference"
+  },
+  {
+    "photo_id": 756774723,
+    "candidate_id": "exam_2-756774723-bad",
+    "source_split": "exam_2",
+    "boxes": [],
+    "expected_verdict": "BAD",
+    "reason": "Пропущены все бабочки",
+    "generation": "deterministic obvious corruption; preserve original reference"
+  },
+  {
+    "photo_id": 761380350,
+    "candidate_id": "exam_2-761380350-ok",
+    "source_split": "exam_2",
+    "boxes": [],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference"
+  },
+  {
+    "photo_id": 761380430,
+    "candidate_id": "exam_2-761380430-bad",
+    "source_split": "exam_2",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.1,
+        "top": 0.1,
+        "width": 0.7,
+        "height": 0.7
+      }
+    ],
+    "expected_verdict": "BAD",
+    "reason": "Лишняя рамка при отсутствии бабочек",
+    "generation": "deterministic obvious corruption; preserve original reference"
+  },
+  {
+    "photo_id": 758342022,
+    "candidate_id": "exam_2-758342022-ok",
+    "source_split": "exam_2",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.259611,
+        "top": 0.370437,
+        "width": 0.250608,
+        "height": 0.162409
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.459124,
+        "top": 0.30657,
+        "width": 0.245742,
+        "height": 0.211679
+      }
+    ],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference"
+  },
+  {
+    "photo_id": 758552223,
+    "candidate_id": "exam_2-758552223-bad",
+    "source_split": "exam_2",
+    "boxes": [],
+    "expected_verdict": "BAD",
+    "reason": "Пропущены все бабочки",
+    "generation": "deterministic obvious corruption; preserve original reference"
+  },
+  {
+    "photo_id": 761246068,
+    "candidate_id": "exam_2-761246068-ok",
+    "source_split": "exam_2",
+    "boxes": [],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference"
+  },
+  {
+    "photo_id": 761495688,
+    "candidate_id": "exam_2-761495688-bad",
+    "source_split": "exam_2",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.1,
+        "top": 0.1,
+        "width": 0.7,
+        "height": 0.7
+      }
+    ],
+    "expected_verdict": "BAD",
+    "reason": "Лишняя рамка при отсутствии бабочек",
+    "generation": "deterministic obvious corruption; preserve original reference"
+  },
+  {
+    "photo_id": 756962672,
+    "candidate_id": "exam_2-756962672-ok",
+    "source_split": "exam_2",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.198946,
+        "top": 0.211678,
+        "width": 0.486618,
+        "height": 0.474453
+      }
+    ],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference"
+  },
+  {
+    "photo_id": 757084093,
+    "candidate_id": "exam_2-757084093-bad",
+    "source_split": "exam_2",
+    "boxes": [],
+    "expected_verdict": "BAD",
+    "reason": "Пропущены все бабочки",
+    "generation": "deterministic obvious corruption; preserve original reference"
+  },
+  {
+    "photo_id": 757435800,
+    "candidate_id": "exam_2-757435800-ok",
+    "source_split": "exam_2",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.348357,
+        "top": 0.337592,
+        "width": 0.310675,
+        "height": 0.257299
+      }
+    ],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference"
+  },
+  {
+    "photo_id": 757462805,
+    "candidate_id": "exam_2-757462805-bad",
+    "source_split": "exam_2",
+    "boxes": [],
+    "expected_verdict": "BAD",
+    "reason": "Пропущены все бабочки",
+    "generation": "deterministic obvious corruption; preserve original reference"
+  },
+  {
+    "photo_id": 757105136,
+    "candidate_id": "exam_2-757105136-ok",
+    "source_split": "exam_2",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.568613,
+        "top": 0.439781,
+        "width": 0.055961,
+        "height": 0.034672
+      }
+    ],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference"
+  },
+  {
+    "photo_id": 757142236,
+    "candidate_id": "exam_2-757142236-bad",
+    "source_split": "exam_2",
+    "boxes": [],
+    "expected_verdict": "BAD",
+    "reason": "Пропущены все бабочки",
+    "generation": "deterministic obvious corruption; preserve original reference"
+  },
+  {
+    "photo_id": 756855073,
+    "candidate_id": "hp_2-756855073-ok",
+    "source_split": "hp_2",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.320991,
+        "top": 0.0,
+        "width": 0.208726,
+        "height": 0.257928
+      }
+    ],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference"
+  },
+  {
+    "photo_id": 756893291,
+    "candidate_id": "hp_2-756893291-bad",
+    "source_split": "hp_2",
+    "boxes": [],
+    "expected_verdict": "BAD",
+    "reason": "Пропущены все бабочки",
+    "generation": "deterministic obvious corruption; preserve original reference"
+  },
+  {
+    "photo_id": 756897844,
+    "candidate_id": "hp_2-756897844-ok",
+    "source_split": "hp_2",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.450708,
+        "top": 0.779741,
+        "width": 0.161557,
+        "height": 0.220259
+      }
+    ],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference"
+  },
+  {
+    "photo_id": 756897984,
+    "candidate_id": "hp_2-756897984-bad",
+    "source_split": "hp_2",
+    "boxes": [],
+    "expected_verdict": "BAD",
+    "reason": "Пропущены все бабочки",
+    "generation": "deterministic obvious corruption; preserve original reference"
+  },
+  {
+    "photo_id": 756898933,
+    "candidate_id": "hp_2-756898933-ok",
+    "source_split": "hp_2",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.271092,
+        "top": 0.479927,
+        "width": 0.728908,
+        "height": 0.213504
+      }
+    ],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference"
+  },
+  {
+    "photo_id": 761377533,
+    "candidate_id": "hp_2-761377533-bad",
+    "source_split": "hp_2",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.1,
+        "top": 0.1,
+        "width": 0.7,
+        "height": 0.7
+      }
+    ],
+    "expected_verdict": "BAD",
+    "reason": "Лишняя рамка при отсутствии бабочек",
+    "generation": "deterministic obvious corruption; preserve original reference"
+  },
+  {
+    "photo_id": 761377537,
+    "candidate_id": "hp_2-761377537-ok",
+    "source_split": "hp_2",
+    "boxes": [],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference"
+  },
+  {
+    "photo_id": 761377541,
+    "candidate_id": "hp_2-761377541-bad",
+    "source_split": "hp_2",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.1,
+        "top": 0.1,
+        "width": 0.7,
+        "height": 0.7
+      }
+    ],
+    "expected_verdict": "BAD",
+    "reason": "Лишняя рамка при отсутствии бабочек",
+    "generation": "deterministic obvious corruption; preserve original reference"
+  },
+  {
+    "photo_id": 761378251,
+    "candidate_id": "hp_2-761378251-ok",
+    "source_split": "hp_2",
+    "boxes": [],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference"
+  },
+  {
+    "photo_id": 758775014,
+    "candidate_id": "hp_2-758775014-bad",
+    "source_split": "hp_2",
+    "boxes": [],
+    "expected_verdict": "BAD",
+    "reason": "Пропущены все бабочки",
+    "generation": "deterministic obvious corruption; preserve original reference"
+  },
+  {
+    "photo_id": 758917876,
+    "candidate_id": "hp_2-758917876-ok",
+    "source_split": "hp_2",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.451522,
+        "top": 0.270073,
+        "width": 0.174183,
+        "height": 0.25365
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.410106,
+        "top": 0.463504,
+        "width": 0.137641,
+        "height": 0.231752
+      }
+    ],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference"
+  },
+  {
+    "photo_id": 759008366,
+    "candidate_id": "hp_2-759008366-bad",
+    "source_split": "hp_2",
+    "boxes": [],
+    "expected_verdict": "BAD",
+    "reason": "Пропущены все бабочки",
+    "generation": "deterministic obvious corruption; preserve original reference"
+  },
+  {
+    "photo_id": 759663488,
+    "candidate_id": "hp_2-759663488-ok",
+    "source_split": "hp_2",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.123357,
+        "top": 0.28832,
+        "width": 0.493917,
+        "height": 0.233577
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.505353,
+        "top": 0.224453,
+        "width": 0.277372,
+        "height": 0.240876
+      }
+    ],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference"
+  },
+  {
+    "photo_id": 759663494,
+    "candidate_id": "hp_2-759663494-bad",
+    "source_split": "hp_2",
+    "boxes": [],
+    "expected_verdict": "BAD",
+    "reason": "Пропущены все бабочки",
+    "generation": "deterministic obvious corruption; preserve original reference"
+  },
+  {
+    "photo_id": 761517654,
+    "candidate_id": "hp_2-761517654-ok",
+    "source_split": "hp_2",
+    "boxes": [],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference"
+  },
+  {
+    "photo_id": 761517655,
+    "candidate_id": "hp_2-761517655-bad",
+    "source_split": "hp_2",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.1,
+        "top": 0.1,
+        "width": 0.7,
+        "height": 0.7
+      }
+    ],
+    "expected_verdict": "BAD",
+    "reason": "Лишняя рамка при отсутствии бабочек",
+    "generation": "deterministic obvious corruption; preserve original reference"
+  },
+  {
+    "photo_id": 761517682,
+    "candidate_id": "hp_2-761517682-ok",
+    "source_split": "hp_2",
+    "boxes": [],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference"
+  },
+  {
+    "photo_id": 761517687,
+    "candidate_id": "hp_2-761517687-bad",
+    "source_split": "hp_2",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.1,
+        "top": 0.1,
+        "width": 0.7,
+        "height": 0.7
+      }
+    ],
+    "expected_verdict": "BAD",
+    "reason": "Лишняя рамка при отсутствии бабочек",
+    "generation": "deterministic obvious corruption; preserve original reference"
+  },
+  {
+    "photo_id": 761517690,
+    "candidate_id": "hp_2-761517690-ok",
+    "source_split": "hp_2",
+    "boxes": [],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference"
+  },
+  {
+    "photo_id": 761583413,
+    "candidate_id": "hp_2-761583413-bad",
+    "source_split": "hp_2",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.1,
+        "top": 0.1,
+        "width": 0.7,
+        "height": 0.7
+      }
+    ],
+    "expected_verdict": "BAD",
+    "reason": "Лишняя рамка при отсутствии бабочек",
+    "generation": "deterministic obvious corruption; preserve original reference"
+  },
+  {
+    "photo_id": 757352136,
+    "candidate_id": "hp_2-757352136-ok",
+    "source_split": "hp_2",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.225329,
+        "top": 0.187956,
+        "width": 0.363285,
+        "height": 0.585766
+      }
+    ],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference"
+  },
+  {
+    "photo_id": 757435758,
+    "candidate_id": "hp_2-757435758-bad",
+    "source_split": "hp_2",
+    "boxes": [],
+    "expected_verdict": "BAD",
+    "reason": "Пропущены все бабочки",
+    "generation": "deterministic obvious corruption; preserve original reference"
+  },
+  {
+    "photo_id": 757654762,
+    "candidate_id": "hp_2-757654762-ok",
+    "source_split": "hp_2",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.264528,
+        "top": 0.125912,
+        "width": 0.456922,
+        "height": 0.764599
+      }
+    ],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference"
+  },
+  {
+    "photo_id": 757711119,
+    "candidate_id": "hp_2-757711119-bad",
+    "source_split": "hp_2",
+    "boxes": [],
+    "expected_verdict": "BAD",
+    "reason": "Пропущены все бабочки",
+    "generation": "deterministic obvious corruption; preserve original reference"
+  },
+  {
+    "photo_id": 757882667,
+    "candidate_id": "hp_2-757882667-ok",
+    "source_split": "hp_2",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.313224,
+        "top": 0.34489,
+        "width": 0.421806,
+        "height": 0.361314
+      }
+    ],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference"
+  },
+  {
+    "photo_id": 758820431,
+    "candidate_id": "hp_2-758820431-bad",
+    "source_split": "hp_2",
+    "boxes": [],
+    "expected_verdict": "BAD",
+    "reason": "Пропущены все бабочки",
+    "generation": "deterministic obvious corruption; preserve original reference"
+  },
+  {
+    "photo_id": 758820438,
+    "candidate_id": "hp_2-758820438-ok",
+    "source_split": "hp_2",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.298346,
+        "top": 0.29562,
+        "width": 0.372172,
+        "height": 0.412409
+      }
+    ],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference"
+  },
+  {
+    "photo_id": 758820716,
+    "candidate_id": "hp_2-758820716-bad",
+    "source_split": "hp_2",
+    "boxes": [],
+    "expected_verdict": "BAD",
+    "reason": "Пропущены все бабочки",
+    "generation": "deterministic obvious corruption; preserve original reference"
+  },
+  {
+    "photo_id": 758917490,
+    "candidate_id": "hp_2-758917490-ok",
+    "source_split": "hp_2",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.258302,
+        "top": 0.399636,
+        "width": 0.36352,
+        "height": 0.315693
+      }
+    ],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference"
+  },
+  {
+    "photo_id": 758917580,
+    "candidate_id": "hp_2-758917580-bad",
+    "source_split": "hp_2",
+    "boxes": [],
+    "expected_verdict": "BAD",
+    "reason": "Пропущены все бабочки",
+    "generation": "deterministic obvious corruption; preserve original reference"
+  },
+  {
+    "photo_id": 758917828,
+    "candidate_id": "hp_2-758917828-ok",
+    "source_split": "hp_2",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.401581,
+        "top": 0.428833,
+        "width": 0.158349,
+        "height": 0.239051
+      }
+    ],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference"
+  },
+  {
+    "photo_id": 759005955,
+    "candidate_id": "hp_2-759005955-bad",
+    "source_split": "hp_2",
+    "boxes": [],
+    "expected_verdict": "BAD",
+    "reason": "Пропущены все бабочки",
+    "generation": "deterministic obvious corruption; preserve original reference"
+  },
+  {
+    "photo_id": 759008023,
+    "candidate_id": "hp_2-759008023-ok",
+    "source_split": "hp_2",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.276454,
+        "top": 0.062043,
+        "width": 0.425687,
+        "height": 0.804745
+      }
+    ],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference"
+  },
+  {
+    "photo_id": 759008346,
+    "candidate_id": "hp_2-759008346-bad",
+    "source_split": "hp_2",
+    "boxes": [],
+    "expected_verdict": "BAD",
+    "reason": "Пропущены все бабочки",
+    "generation": "deterministic obvious corruption; preserve original reference"
+  },
+  {
+    "photo_id": 759009318,
+    "candidate_id": "hp_2-759009318-ok",
+    "source_split": "hp_2",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.366263,
+        "top": 0.405109,
+        "width": 0.24329,
+        "height": 0.213504
+      }
+    ],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference"
+  },
+  {
+    "photo_id": 759018211,
+    "candidate_id": "hp_2-759018211-bad",
+    "source_split": "hp_2",
+    "boxes": [],
+    "expected_verdict": "BAD",
+    "reason": "Пропущены все бабочки",
+    "generation": "deterministic obvious corruption; preserve original reference"
+  },
+  {
+    "photo_id": 759018235,
+    "candidate_id": "hp_2-759018235-ok",
+    "source_split": "hp_2",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.183942,
+        "top": 0.153285,
+        "width": 0.609489,
+        "height": 0.576642
+      }
+    ],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference"
+  },
+  {
+    "photo_id": 759026928,
+    "candidate_id": "hp_2-759026928-bad",
+    "source_split": "hp_2",
+    "boxes": [],
+    "expected_verdict": "BAD",
+    "reason": "Пропущены все бабочки",
+    "generation": "deterministic obvious corruption; preserve original reference"
+  },
+  {
+    "photo_id": 759031067,
+    "candidate_id": "hp_2-759031067-ok",
+    "source_split": "hp_2",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.031386,
+        "top": 0.248175,
+        "width": 0.952555,
+        "height": 0.50365
+      }
+    ],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference"
+  },
+  {
+    "photo_id": 759056545,
+    "candidate_id": "hp_2-759056545-bad",
+    "source_split": "hp_2",
+    "boxes": [],
+    "expected_verdict": "BAD",
+    "reason": "Пропущены все бабочки",
+    "generation": "deterministic obvious corruption; preserve original reference"
+  },
+  {
+    "photo_id": 759080987,
+    "candidate_id": "hp_2-759080987-ok",
+    "source_split": "hp_2",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.374362,
+        "top": 0.248175,
+        "width": 0.29562,
+        "height": 0.383212
+      }
+    ],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference"
+  },
+  {
+    "photo_id": 759113529,
+    "candidate_id": "hp_2-759113529-bad",
+    "source_split": "hp_2",
+    "boxes": [],
+    "expected_verdict": "BAD",
+    "reason": "Пропущены все бабочки",
+    "generation": "deterministic obvious corruption; preserve original reference"
+  },
+  {
+    "photo_id": 759118863,
+    "candidate_id": "hp_2-759118863-ok",
+    "source_split": "hp_2",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.051151,
+        "top": 0.215329,
+        "width": 0.900992,
+        "height": 0.607664
+      }
+    ],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference"
+  },
+  {
+    "photo_id": 759182208,
+    "candidate_id": "hp_2-759182208-bad",
+    "source_split": "hp_2",
+    "boxes": [],
+    "expected_verdict": "BAD",
+    "reason": "Пропущены все бабочки",
+    "generation": "deterministic obvious corruption; preserve original reference"
+  },
+  {
+    "photo_id": 759182656,
+    "candidate_id": "hp_2-759182656-ok",
+    "source_split": "hp_2",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.256661,
+        "top": 0.284672,
+        "width": 0.380474,
+        "height": 0.416058
+      }
+    ],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference"
+  },
+  {
+    "photo_id": 757619243,
+    "candidate_id": "hp_2-757619243-bad",
+    "source_split": "hp_2",
+    "boxes": [],
+    "expected_verdict": "BAD",
+    "reason": "Пропущены все бабочки",
+    "generation": "deterministic obvious corruption; preserve original reference"
+  },
+  {
+    "photo_id": 758026068,
+    "candidate_id": "hp_2-758026068-ok",
+    "source_split": "hp_2",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.344769,
+        "top": 0.374088,
+        "width": 0.160584,
+        "height": 0.127737
+      }
+    ],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference"
+  },
+  {
+    "photo_id": 758031347,
+    "candidate_id": "hp_2-758031347-bad",
+    "source_split": "hp_2",
+    "boxes": [],
+    "expected_verdict": "BAD",
+    "reason": "Пропущены все бабочки",
+    "generation": "deterministic obvious corruption; preserve original reference"
+  },
+  {
+    "photo_id": 758048954,
+    "candidate_id": "hp_2-758048954-ok",
+    "source_split": "hp_2",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.459123,
+        "top": 0.461679,
+        "width": 0.099757,
+        "height": 0.074818
+      }
+    ],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference"
+  },
+  {
+    "photo_id": 758101664,
+    "candidate_id": "hp_2-758101664-bad",
+    "source_split": "hp_2",
+    "boxes": [],
+    "expected_verdict": "BAD",
+    "reason": "Пропущены все бабочки",
+    "generation": "deterministic obvious corruption; preserve original reference"
+  }
+]

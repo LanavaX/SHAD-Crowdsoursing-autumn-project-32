@@ -1,0 +1,322 @@
+[
+  {
+    "photo_id": 756855073,
+    "candidate_id": "hp_2-756855073-ok",
+    "source_split": "hp_2",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.320991,
+        "top": 0.0,
+        "width": 0.208726,
+        "height": 0.257928
+      }
+    ],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference",
+    "audit": "2026-11-17 visual review of full visible parts; cropped/ambiguous/appendage-cut positives excluded",
+    "gold_version": "curated-v2"
+  },
+  {
+    "photo_id": 758775014,
+    "candidate_id": "hp_2-758775014-bad",
+    "source_split": "hp_2",
+    "boxes": [],
+    "expected_verdict": "BAD",
+    "reason": "Пропущены все бабочки",
+    "generation": "deterministic obvious corruption; preserve original reference",
+    "audit": "2026-11-17 visual review of full visible parts; cropped/ambiguous/appendage-cut positives excluded",
+    "gold_version": "curated-v2"
+  },
+  {
+    "photo_id": 757654762,
+    "candidate_id": "hp_2-757654762-ok",
+    "source_split": "hp_2",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.264528,
+        "top": 0.125912,
+        "width": 0.456922,
+        "height": 0.764599
+      }
+    ],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference",
+    "audit": "2026-11-17 visual review of full visible parts; cropped/ambiguous/appendage-cut positives excluded",
+    "gold_version": "curated-v2"
+  },
+  {
+    "photo_id": 759008366,
+    "candidate_id": "hp_2-759008366-bad",
+    "source_split": "hp_2",
+    "boxes": [],
+    "expected_verdict": "BAD",
+    "reason": "Пропущены все бабочки",
+    "generation": "deterministic obvious corruption; preserve original reference",
+    "audit": "2026-11-17 visual review of full visible parts; cropped/ambiguous/appendage-cut positives excluded",
+    "gold_version": "curated-v2"
+  },
+  {
+    "photo_id": 758820438,
+    "candidate_id": "hp_2-758820438-ok",
+    "source_split": "hp_2",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.298346,
+        "top": 0.29562,
+        "width": 0.372172,
+        "height": 0.412409
+      }
+    ],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference",
+    "audit": "2026-11-17 visual review of full visible parts; cropped/ambiguous/appendage-cut positives excluded",
+    "gold_version": "curated-v2"
+  },
+  {
+    "photo_id": 759663494,
+    "candidate_id": "hp_2-759663494-bad",
+    "source_split": "hp_2",
+    "boxes": [],
+    "expected_verdict": "BAD",
+    "reason": "Пропущены все бабочки",
+    "generation": "deterministic obvious corruption; preserve original reference",
+    "audit": "2026-11-17 visual review of full visible parts; cropped/ambiguous/appendage-cut positives excluded",
+    "gold_version": "curated-v2"
+  },
+  {
+    "photo_id": 758917490,
+    "candidate_id": "hp_2-758917490-ok",
+    "source_split": "hp_2",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.258302,
+        "top": 0.399636,
+        "width": 0.36352,
+        "height": 0.315693
+      }
+    ],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference",
+    "audit": "2026-11-17 visual review of full visible parts; cropped/ambiguous/appendage-cut positives excluded",
+    "gold_version": "curated-v2"
+  },
+  {
+    "photo_id": 757711119,
+    "candidate_id": "hp_2-757711119-bad",
+    "source_split": "hp_2",
+    "boxes": [],
+    "expected_verdict": "BAD",
+    "reason": "Пропущены все бабочки",
+    "generation": "deterministic obvious corruption; preserve original reference",
+    "audit": "2026-11-17 visual review of full visible parts; cropped/ambiguous/appendage-cut positives excluded",
+    "gold_version": "curated-v2"
+  },
+  {
+    "photo_id": 759008023,
+    "candidate_id": "hp_2-759008023-ok",
+    "source_split": "hp_2",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.276454,
+        "top": 0.062043,
+        "width": 0.425687,
+        "height": 0.804745
+      }
+    ],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference",
+    "audit": "2026-11-17 visual review of full visible parts; cropped/ambiguous/appendage-cut positives excluded",
+    "gold_version": "curated-v2"
+  },
+  {
+    "photo_id": 758820431,
+    "candidate_id": "hp_2-758820431-bad",
+    "source_split": "hp_2",
+    "boxes": [],
+    "expected_verdict": "BAD",
+    "reason": "Пропущены все бабочки",
+    "generation": "deterministic obvious corruption; preserve original reference",
+    "audit": "2026-11-17 visual review of full visible parts; cropped/ambiguous/appendage-cut positives excluded",
+    "gold_version": "curated-v2"
+  },
+  {
+    "photo_id": 759018235,
+    "candidate_id": "hp_2-759018235-ok",
+    "source_split": "hp_2",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.183942,
+        "top": 0.153285,
+        "width": 0.609489,
+        "height": 0.576642
+      }
+    ],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference",
+    "audit": "2026-11-17 visual review of full visible parts; cropped/ambiguous/appendage-cut positives excluded",
+    "gold_version": "curated-v2"
+  },
+  {
+    "photo_id": 758820716,
+    "candidate_id": "hp_2-758820716-bad",
+    "source_split": "hp_2",
+    "boxes": [],
+    "expected_verdict": "BAD",
+    "reason": "Пропущены все бабочки",
+    "generation": "deterministic obvious corruption; preserve original reference",
+    "audit": "2026-11-17 visual review of full visible parts; cropped/ambiguous/appendage-cut positives excluded",
+    "gold_version": "curated-v2"
+  },
+  {
+    "photo_id": 758048954,
+    "candidate_id": "hp_2-758048954-ok",
+    "source_split": "hp_2",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.459123,
+        "top": 0.461679,
+        "width": 0.099757,
+        "height": 0.074818
+      }
+    ],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference",
+    "audit": "2026-11-17 visual review of full visible parts; cropped/ambiguous/appendage-cut positives excluded",
+    "gold_version": "curated-v2"
+  },
+  {
+    "photo_id": 758917580,
+    "candidate_id": "hp_2-758917580-bad",
+    "source_split": "hp_2",
+    "boxes": [],
+    "expected_verdict": "BAD",
+    "reason": "Пропущены все бабочки",
+    "generation": "deterministic obvious corruption; preserve original reference",
+    "audit": "2026-11-17 visual review of full visible parts; cropped/ambiguous/appendage-cut positives excluded",
+    "gold_version": "curated-v2"
+  },
+  {
+    "photo_id": 761377537,
+    "candidate_id": "hp_2-761377537-ok",
+    "source_split": "hp_2",
+    "boxes": [],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference",
+    "audit": "2026-11-17 visual review of full visible parts; cropped/ambiguous/appendage-cut positives excluded",
+    "gold_version": "curated-v2"
+  },
+  {
+    "photo_id": 759005955,
+    "candidate_id": "hp_2-759005955-bad",
+    "source_split": "hp_2",
+    "boxes": [],
+    "expected_verdict": "BAD",
+    "reason": "Пропущены все бабочки",
+    "generation": "deterministic obvious corruption; preserve original reference",
+    "audit": "2026-11-17 visual review of full visible parts; cropped/ambiguous/appendage-cut positives excluded",
+    "gold_version": "curated-v2"
+  },
+  {
+    "photo_id": 761378251,
+    "candidate_id": "hp_2-761378251-ok",
+    "source_split": "hp_2",
+    "boxes": [],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference",
+    "audit": "2026-11-17 visual review of full visible parts; cropped/ambiguous/appendage-cut positives excluded",
+    "gold_version": "curated-v2"
+  },
+  {
+    "photo_id": 759008346,
+    "candidate_id": "hp_2-759008346-bad",
+    "source_split": "hp_2",
+    "boxes": [],
+    "expected_verdict": "BAD",
+    "reason": "Пропущены все бабочки",
+    "generation": "deterministic obvious corruption; preserve original reference",
+    "audit": "2026-11-17 visual review of full visible parts; cropped/ambiguous/appendage-cut positives excluded",
+    "gold_version": "curated-v2"
+  },
+  {
+    "photo_id": 761517654,
+    "candidate_id": "hp_2-761517654-ok",
+    "source_split": "hp_2",
+    "boxes": [],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference",
+    "audit": "2026-11-17 visual review of full visible parts; cropped/ambiguous/appendage-cut positives excluded",
+    "gold_version": "curated-v2"
+  },
+  {
+    "photo_id": 759018211,
+    "candidate_id": "hp_2-759018211-bad",
+    "source_split": "hp_2",
+    "boxes": [],
+    "expected_verdict": "BAD",
+    "reason": "Пропущены все бабочки",
+    "generation": "deterministic obvious corruption; preserve original reference",
+    "audit": "2026-11-17 visual review of full visible parts; cropped/ambiguous/appendage-cut positives excluded",
+    "gold_version": "curated-v2"
+  },
+  {
+    "photo_id": 761517682,
+    "candidate_id": "hp_2-761517682-ok",
+    "source_split": "hp_2",
+    "boxes": [],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference",
+    "audit": "2026-11-17 visual review of full visible parts; cropped/ambiguous/appendage-cut positives excluded",
+    "gold_version": "curated-v2"
+  },
+  {
+    "photo_id": 759026928,
+    "candidate_id": "hp_2-759026928-bad",
+    "source_split": "hp_2",
+    "boxes": [],
+    "expected_verdict": "BAD",
+    "reason": "Пропущены все бабочки",
+    "generation": "deterministic obvious corruption; preserve original reference",
+    "audit": "2026-11-17 visual review of full visible parts; cropped/ambiguous/appendage-cut positives excluded",
+    "gold_version": "curated-v2"
+  },
+  {
+    "photo_id": 761517690,
+    "candidate_id": "hp_2-761517690-ok",
+    "source_split": "hp_2",
+    "boxes": [],
+    "expected_verdict": "OK",
+    "reason": "Проверенная исходная рамка/отсутствие",
+    "generation": "teammate reference",
+    "audit": "2026-11-17 visual review of full visible parts; cropped/ambiguous/appendage-cut positives excluded",
+    "gold_version": "curated-v2"
+  },
+  {
+    "photo_id": 759056545,
+    "candidate_id": "hp_2-759056545-bad",
+    "source_split": "hp_2",
+    "boxes": [],
+    "expected_verdict": "BAD",
+    "reason": "Пропущены все бабочки",
+    "generation": "deterministic obvious corruption; preserve original reference",
+    "audit": "2026-11-17 visual review of full visible parts; cropped/ambiguous/appendage-cut positives excluded",
+    "gold_version": "curated-v2"
+  }
+]

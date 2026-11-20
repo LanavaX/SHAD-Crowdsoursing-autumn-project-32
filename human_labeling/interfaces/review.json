@@ -1,0 +1,151 @@
+{
+  "view": {
+    "type": "view.list",
+    "items": [
+      {
+        "type": "view.text",
+        "content": "Проверьте весь кадр, кончики усиков, лапок и тонкие хвостики крыльев. Если рамка обрезает видимую часть, выберите «Неправильно» → «Неточные границы». Разница в несколько пикселей допустима. Аскалафы/Ululodes — другие насекомые: не выделяем. Смотрите отдельный пример в инструкции."
+      },
+      {
+        "type": "field.image-annotation",
+        "data": {
+          "type": "data.internal",
+          "path": "shown_boxes",
+          "default": {
+            "type": "data.input",
+            "path": "boxes"
+          }
+        },
+        "image": {
+          "type": "data.input",
+          "path": "image"
+        },
+        "disabled": true,
+        "shapes": {
+          "rectangle": true,
+          "polygon": false,
+          "point": false
+        },
+        "fullHeight": true
+      },
+      {
+        "type": "field.button-radio-group",
+        "label": "Выберите ответ",
+        "data": {
+          "type": "data.output",
+          "path": "verdict"
+        },
+        "options": [
+          {
+            "label": "Правильно",
+            "value": "OK"
+          },
+          {
+            "label": "Неправильно",
+            "value": "BAD"
+          },
+          {
+            "label": "Не могу определить",
+            "value": "UNCERTAIN"
+          },
+          {
+            "label": "Не загрузилось",
+            "value": "IMAGE_ERROR"
+          }
+        ],
+        "validation": {
+          "type": "condition.required",
+          "hint": "Выберите ответ"
+        }
+      },
+      {
+        "type": "helper.if",
+        "condition": {
+          "type": "condition.equals",
+          "data": {
+            "type": "data.output",
+            "path": "verdict"
+          },
+          "to": "BAD"
+        },
+        "then": {
+          "type": "field.radio-group",
+          "data": {
+            "type": "data.output",
+            "path": "reason"
+          },
+          "label": "Главная причина ошибки",
+          "options": [
+            {
+              "label": "Пропущена бабочка",
+              "value": "missing"
+            },
+            {
+              "label": "Лишняя рамка / другой объект",
+              "value": "extra"
+            },
+            {
+              "label": "Неточные границы",
+              "value": "bounds"
+            },
+            {
+              "label": "Несколько бабочек в одной рамке",
+              "value": "merged"
+            }
+          ],
+          "validation": {
+            "type": "condition.required"
+          }
+        },
+        "else": {
+          "type": "view.text",
+          "content": "Если объект неразличим, выберите «Не могу определить»."
+        }
+      }
+    ]
+  },
+  "plugins": [
+    {
+      "type": "plugin.toloka",
+      "layout": {
+        "kind": "scroll",
+        "taskWidth": 900
+      }
+    },
+    {
+      "1": {
+        "type": "action.set",
+        "data": {
+          "type": "data.output",
+          "path": "verdict"
+        },
+        "payload": "OK"
+      },
+      "2": {
+        "type": "action.set",
+        "data": {
+          "type": "data.output",
+          "path": "verdict"
+        },
+        "payload": "BAD"
+      },
+      "3": {
+        "type": "action.set",
+        "data": {
+          "type": "data.output",
+          "path": "verdict"
+        },
+        "payload": "UNCERTAIN"
+      },
+      "4": {
+        "type": "action.set",
+        "data": {
+          "type": "data.output",
+          "path": "verdict"
+        },
+        "payload": "IMAGE_ERROR"
+      },
+      "type": "plugin.hotkeys"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "decisions": [
+    {
+      "assignment_id": "000068cc22--6afc10c42a9f062967fabbc2",
+      "worker_id": "16a530d8e3e00e12c3ec5bf5ccf8762c",
+      "correct": 5,
+      "score": 71.43,
+      "qualified": false,
+      "payment": "ACCEPTED",
+      "manual_review": "Compared all seven images: object coverage, count and boundaries; geometric suggestions retained.",
+      "contact_sheet": "exam-assessment/workers-0-2.jpg"
+    },
+    {
+      "assignment_id": "000068cc22--6afc10c4f026992e80c5ea8b",
+      "worker_id": "35beae4182d32097bc9c1886c8ebc877",
+      "correct": 6,
+      "score": 85.71,
+      "qualified": true,
+      "payment": "ACCEPTED",
+      "manual_review": "Compared all seven images: object coverage, count and boundaries; geometric suggestions retained.",
+      "contact_sheet": "exam-assessment/workers-0-2.jpg"
+    },
+    {
+      "assignment_id": "000068cc22--6afc10c541239636b47d7ac2",
+      "worker_id": "625f6727d6cc3a18aa6c0a5994a0b7cd",
+      "correct": 2,
+      "score": 28.57,
+      "qualified": false,
+      "payment": "ACCEPTED",
+      "manual_review": "Compared all seven images: object coverage, count and boundaries; geometric suggestions retained.",
+      "contact_sheet": "exam-assessment/workers-0-2.jpg"
+    },
+    {
+      "assignment_id": "000068cc22--6afc10c5cafda95f3a4ef838",
+      "worker_id": "e931734fbf47891afcbf68282b668f99",
+      "correct": 2,
+      "score": 28.57,
+      "qualified": false,
+      "payment": "ACCEPTED",
+      "manual_review": "Compared all seven images: object coverage, count and boundaries; geometric suggestions retained.",
+      "contact_sheet": "exam-assessment/workers-3-5.jpg"
+    },
+    {
+      "assignment_id": "000068cc22--6afc10c5cf13a4405abc0acf",
+      "worker_id": "c698a72a58169f7ac1b07e2ad86c697a",
+      "correct": 6,
+      "score": 85.71,
+      "qualified": true,
+      "payment": "ACCEPTED",
+      "manual_review": "Compared all seven images: object coverage, count and boundaries; geometric suggestions retained.",
+      "contact_sheet": "exam-assessment/workers-3-5.jpg"
+    },
+    {
+      "assignment_id": "000068cc22--6afc10c612cf5948122afd9e",
+      "worker_id": "789175c66610f1e9c71a1364af4c4ac1",
+      "correct": 6,
+      "score": 85.71,
+      "qualified": true,
+      "payment": "ACCEPTED",
+      "manual_review": "Compared all seven images: object coverage, count and boundaries; geometric suggestions retained.",
+      "contact_sheet": "exam-assessment/workers-3-5.jpg"
+    },
+    {
+      "assignment_id": "000068cc22--6afc10c70e607263370fe3a1",
+      "worker_id": "661745669e60a375202137c8056e269b",
+      "correct": 6,
+      "score": 85.71,
+      "qualified": true,
+      "payment": "ACCEPTED",
+      "manual_review": "Compared all seven images: object coverage, count and boundaries; geometric suggestions retained.",
+      "contact_sheet": "exam-assessment/workers-6-8.jpg"
+    },
+    {
+      "assignment_id": "000068cc22--6afc10c70e607263370fe3bf",
+      "worker_id": "75d58c8643a305b1182a07a279d5d78d",
+      "correct": 3,
+      "score": 42.86,
+      "qualified": false,
+      "payment": "ACCEPTED",
+      "manual_review": "Compared all seven images: object coverage, count and boundaries; geometric suggestions retained.",
+      "contact_sheet": "exam-assessment/workers-6-8.jpg"
+    },
+    {
+      "assignment_id": "000068cc22--6afc10fadcaea54299de2741",
+      "worker_id": "2d96593bed233a3355e1dc072e852586",
+      "correct": 7,
+      "score": 100,
+      "qualified": true,
+      "payment": "ACCEPTED",
+      "manual_review": "Compared all seven images: object coverage, count and boundaries; geometric suggestions retained.",
+      "contact_sheet": "exam-assessment/workers-6-8.jpg"
+    },
+    {
+      "assignment_id": "000068cc22--6afc11083f75ec3186149a14",
+      "worker_id": "e3813cad1700d0e99aaadb72350f680a",
+      "correct": 5,
+      "score": 71.43,
+      "qualified": false,
+      "payment": "ACCEPTED",
+      "manual_review": "Compared all seven images: object coverage, count and boundaries; geometric suggestions retained.",
+      "contact_sheet": "exam-assessment/workers-9-11.jpg"
+    },
+    {
+      "assignment_id": "000068cc22--6afc135fcafda95f3a4f68ca",
+      "worker_id": "2d33aa7ef688e5b19f232e0f3e327621",
+      "correct": 3,
+      "score": 42.86,
+      "qualified": false,
+      "payment": "ACCEPTED",
+      "manual_review": "Compared all seven images: object coverage, count and boundaries; geometric suggestions retained.",
+      "contact_sheet": "exam-assessment/workers-9-11.jpg"
+    },
+    {
+      "assignment_id": "000068cc22--6afc13600e607263371059e0",
+      "worker_id": "dec973e25dbfad8fc748d9be7f4e082f",
+      "correct": 4,
+      "score": 57.14,
+      "qualified": false,
+      "payment": "ACCEPTED",
+      "manual_review": "Compared all seven images: object coverage, count and boundaries; geometric suggestions retained.",
+      "contact_sheet": "exam-assessment/workers-9-11.jpg"
+    }
+  ],
+  "qualified_count": 5,
+  "payment_policy": "Pay all 12 genuine completed qualification attempts; qualification failures restrict access rather than withholding exam payment.",
+  "zero_area_note": "One attempt contains a zero-area rectangle; invalid task remains failed. Pipeline rejects degenerate geometry."
+}

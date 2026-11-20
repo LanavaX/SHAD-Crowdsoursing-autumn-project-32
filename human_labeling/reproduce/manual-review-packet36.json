@@ -1,0 +1,1064 @@
+[
+  {
+    "photo_id": 757258307,
+    "candidate_id": "bbox-000068ce42--6afc6cfad2f6e71804ebeaba-757258307",
+    "width": 670,
+    "height": 1291,
+    "issued_sha256": "de7fad277d1608514122dbf22f22d26725b0d98430df65395ec47df8640eece6",
+    "original_status": "ABSENT",
+    "original_boxes": [],
+    "source_output": {
+      "status": "ABSENT",
+      "boxes": []
+    },
+    "votes": [
+      {
+        "verdict": "BAD",
+        "reason": "missing"
+      },
+      {
+        "verdict": "BAD",
+        "reason": "missing"
+      }
+    ],
+    "review_reason": "Проверить спорный или пропущенный объект и границы"
+  },
+  {
+    "photo_id": 705054813,
+    "candidate_id": "bbox-000068ce42--6afc6ea1ebb1521ae8f066ff-705054813",
+    "width": 2048,
+    "height": 1365,
+    "issued_sha256": "f8ec7af8f284f11ebbbbc421b83bee0b36bd976f1eee7deb9e32280bc4743f9a",
+    "original_status": "ABSENT",
+    "original_boxes": [],
+    "source_output": {
+      "status": "ABSENT",
+      "boxes": []
+    },
+    "votes": [
+      {
+        "verdict": "BAD",
+        "reason": "missing"
+      },
+      {
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "review_reason": "Проверить спорный или пропущенный объект и границы"
+  },
+  {
+    "photo_id": 757667513,
+    "candidate_id": "bbox-000068ce42--6afc71ddfe68256bfdb51add-757667513",
+    "width": 1536,
+    "height": 2048,
+    "issued_sha256": "2a5adb58f931fae00363abd1e7f2c7d5af2a5c854588f524b79d3521d7093d83",
+    "original_status": "PRESENT",
+    "original_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.0033333333333333335,
+        "top": 0,
+        "width": 0.9833333333333334,
+        "height": 0.3975
+      }
+    ],
+    "source_output": {
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.0033333333333333335,
+          "top": 0,
+          "width": 0.9833333333333334,
+          "height": 0.3975
+        }
+      ]
+    },
+    "votes": [
+      {
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "verdict": "BAD",
+        "reason": "bounds"
+      }
+    ],
+    "review_reason": "Проверить спорный или пропущенный объект и границы"
+  },
+  {
+    "photo_id": 757071891,
+    "candidate_id": "bbox-000068ce42--6afc72a355eb9f701db24283-757071891",
+    "width": 603,
+    "height": 2048,
+    "issued_sha256": "7e40c3af915155f8b673823bf523fcb7869f08f16e03696be902a7c69eefc09b",
+    "original_status": "ABSENT",
+    "original_boxes": [],
+    "source_output": {
+      "status": "ABSENT",
+      "boxes": []
+    },
+    "votes": [
+      {
+        "verdict": "UNCERTAIN",
+        "reason": null
+      },
+      {
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "review_reason": "Проверить спорный или пропущенный объект и границы"
+  },
+  {
+    "photo_id": 719020602,
+    "candidate_id": "bbox-000068ce42--6afc7309fe68256bfdb5424a-719020602",
+    "width": 1536,
+    "height": 2048,
+    "issued_sha256": "f423258dd4085794c0117d546e882fcd964411bae9f4eb74019ff68e43406a83",
+    "original_status": "ABSENT",
+    "original_boxes": [],
+    "source_output": {
+      "status": "ABSENT",
+      "boxes": []
+    },
+    "votes": [
+      {
+        "verdict": "BAD",
+        "reason": "missing"
+      },
+      {
+        "verdict": "BAD",
+        "reason": "missing"
+      }
+    ],
+    "review_reason": "Проверить спорный или пропущенный объект и границы"
+  },
+  {
+    "photo_id": 757205630,
+    "candidate_id": "bbox-000068ce42--6afc7344ee5596557a5a72a1-757205630",
+    "width": 762,
+    "height": 2006,
+    "issued_sha256": "e0717c664c7489db3f16ac83cd8808f3c163de865bf6d288fabe8b6314472529",
+    "original_status": "ABSENT",
+    "original_boxes": [],
+    "source_output": {
+      "status": "ABSENT",
+      "boxes": []
+    },
+    "votes": [
+      {
+        "verdict": "BAD",
+        "reason": "missing"
+      },
+      {
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "review_reason": "Проверить спорный или пропущенный объект и границы"
+  },
+  {
+    "photo_id": 759023585,
+    "candidate_id": "bbox-000068ce42--6afc73f2ed421b4afbed48a3-759023585",
+    "width": 1196,
+    "height": 1196,
+    "issued_sha256": "3cdfd67e79bdf9521b6cc07cad398987982e717d09dd3b67971a34293171db51",
+    "original_status": "ABSENT",
+    "original_boxes": [],
+    "source_output": {
+      "status": "ABSENT",
+      "boxes": []
+    },
+    "votes": [
+      {
+        "verdict": "BAD",
+        "reason": "missing"
+      },
+      {
+        "verdict": "BAD",
+        "reason": "missing"
+      }
+    ],
+    "review_reason": "Проверить спорный или пропущенный объект и границы"
+  },
+  {
+    "photo_id": 705054208,
+    "candidate_id": "bbox-000068ce42--6afc741ded421b4afbed52f4-705054208",
+    "width": 2048,
+    "height": 1366,
+    "issued_sha256": "1c7757087f5a5d83d3e9ca942c527dd4a95b6fb21e4b6b2077d954165902e558",
+    "original_status": "ABSENT",
+    "original_boxes": [],
+    "source_output": {
+      "status": "ABSENT",
+      "boxes": []
+    },
+    "votes": [
+      {
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "verdict": "BAD",
+        "reason": "missing"
+      }
+    ],
+    "review_reason": "Проверить спорный или пропущенный объект и границы"
+  },
+  {
+    "photo_id": 758101588,
+    "candidate_id": "bbox-000068ce42--6afc76a13537ac5dbb3459dd-758101588",
+    "width": 1536,
+    "height": 2048,
+    "issued_sha256": "ee976ea5e64b41a067d8fd045011a31490e61a86437264260461f0e50dd014aa",
+    "original_status": "ABSENT",
+    "original_boxes": [],
+    "source_output": {
+      "status": "ABSENT",
+      "boxes": []
+    },
+    "votes": [
+      {
+        "verdict": "BAD",
+        "reason": "missing"
+      },
+      {
+        "verdict": "BAD",
+        "reason": "missing"
+      }
+    ],
+    "review_reason": "Проверить спорный или пропущенный объект и границы"
+  },
+  {
+    "photo_id": 758053268,
+    "candidate_id": "bbox-000068ce42--6afc772a55eb9f701db30f03-758053268",
+    "width": 1536,
+    "height": 2048,
+    "issued_sha256": "c33b2b600418d70ce4be4e8f1c4b69e9ebfc124addec02005b904c9b2d8874ad",
+    "original_status": "PRESENT",
+    "original_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.37782928058220966,
+        "top": 0.27837160368068314,
+        "width": 0.43263553359299767,
+        "height": 0.2413038379612843
+      }
+    ],
+    "source_output": {
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.37782928058220966,
+          "top": 0.27837160368068314,
+          "width": 0.43263553359299767,
+          "height": 0.2413038379612843
+        }
+      ]
+    },
+    "votes": [
+      {
+        "verdict": "BAD",
+        "reason": "missing"
+      },
+      {
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "review_reason": "Проверить спорный или пропущенный объект и границы"
+  },
+  {
+    "photo_id": 758337819,
+    "candidate_id": "bbox-000068ce42--6afc78dcfe68256bfdb6329e-758337819",
+    "width": 1536,
+    "height": 2048,
+    "issued_sha256": "8ef17b1293c3c7ac343e3dcddd95f6a73775fbc644300066efccc5083800c583",
+    "original_status": "ABSENT",
+    "original_boxes": [],
+    "source_output": {
+      "status": "ABSENT",
+      "boxes": []
+    },
+    "votes": [
+      {
+        "verdict": "BAD",
+        "reason": "missing"
+      },
+      {
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "review_reason": "Проверить спорный или пропущенный объект и границы"
+  },
+  {
+    "photo_id": 757345696,
+    "candidate_id": "bbox-000068ce42--6afc7b63409e22184eed9256-757345696",
+    "width": 976,
+    "height": 964,
+    "issued_sha256": "2de22158476021dfabec37b8526d44c4108dff515c9841889fcd1a5c3d01cc4f",
+    "original_status": "PRESENT",
+    "original_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.169453125,
+        "top": 0.3226273148148148,
+        "width": 0.35438486642380085,
+        "height": 0.17939814814814808
+      }
+    ],
+    "source_output": {
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.169453125,
+          "top": 0.3226273148148148,
+          "width": 0.35438486642380085,
+          "height": 0.17939814814814808
+        }
+      ]
+    },
+    "votes": [
+      {
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "verdict": "BAD",
+        "reason": "extra"
+      }
+    ],
+    "review_reason": "Проверить спорный или пропущенный объект и границы"
+  },
+  {
+    "photo_id": 758845361,
+    "candidate_id": "bbox-000068ce42--6afc7c2cebb1521ae8f290b3-758845361",
+    "width": 1536,
+    "height": 2048,
+    "issued_sha256": "39243870be7886b00321a5ccd6971a88ab3b75c696a9d2d362d241f84cefe3d4",
+    "original_status": "ABSENT",
+    "original_boxes": [],
+    "source_output": {
+      "status": "ABSENT",
+      "boxes": []
+    },
+    "votes": [
+      {
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "verdict": "BAD",
+        "reason": "missing"
+      }
+    ],
+    "review_reason": "Проверить спорный или пропущенный объект и границы"
+  },
+  {
+    "photo_id": 757241547,
+    "candidate_id": "bbox-000068ce42--6afc7ce7fe68256bfdb6ad33-757241547",
+    "width": 1536,
+    "height": 722,
+    "issued_sha256": "40317317ac7af51acd4c00e1d1be27b040bf2d6a1a15e499e3b9a1641f71a033",
+    "original_status": "ABSENT",
+    "original_boxes": [],
+    "source_output": {
+      "status": "ABSENT",
+      "boxes": []
+    },
+    "votes": [
+      {
+        "verdict": "BAD",
+        "reason": "missing"
+      },
+      {
+        "verdict": "BAD",
+        "reason": "missing"
+      }
+    ],
+    "review_reason": "Проверить спорный или пропущенный объект и границы"
+  },
+  {
+    "photo_id": 757195317,
+    "candidate_id": "bbox-000068ce42--6afc7cf1d5d23603d66af0ad-757195317",
+    "width": 154,
+    "height": 599,
+    "issued_sha256": "0ed1572dcd5dcb3cbfeb41acf5cce63deccf97a43a4bbd7a096c8fcb829cd0a0",
+    "original_status": "ABSENT",
+    "original_boxes": [],
+    "source_output": {
+      "status": "ABSENT",
+      "boxes": []
+    },
+    "votes": [
+      {
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "verdict": "BAD",
+        "reason": "missing"
+      }
+    ],
+    "review_reason": "Проверить спорный или пропущенный объект и границы"
+  },
+  {
+    "photo_id": 757654789,
+    "candidate_id": "bbox-000068ce42--6afc7e0505a3672b201ae1d0-757654789",
+    "width": 2048,
+    "height": 1284,
+    "issued_sha256": "6eecb565b422cb6e3089125d5d7fd51a3062d69aa309ce27c1ac5ec9e22e73b6",
+    "original_status": "ABSENT",
+    "original_boxes": [],
+    "source_output": {
+      "status": "ABSENT",
+      "boxes": []
+    },
+    "votes": [
+      {
+        "verdict": "BAD",
+        "reason": "missing"
+      },
+      {
+        "verdict": "BAD",
+        "reason": "missing"
+      }
+    ],
+    "review_reason": "Проверить спорный или пропущенный объект и границы"
+  },
+  {
+    "photo_id": 759299118,
+    "candidate_id": "bbox-000068ce42--6afc7eaeee5596557a5c0b58-759299118",
+    "width": 925,
+    "height": 2048,
+    "issued_sha256": "f879f292c47d712ff3288286cd819346c34473858b500e0af2b57efcb5fa40e3",
+    "original_status": "ABSENT",
+    "original_boxes": [],
+    "source_output": {
+      "status": "ABSENT",
+      "boxes": []
+    },
+    "votes": [
+      {
+        "verdict": "BAD",
+        "reason": "missing"
+      },
+      {
+        "verdict": "BAD",
+        "reason": "missing"
+      }
+    ],
+    "review_reason": "Проверить спорный или пропущенный объект и границы"
+  },
+  {
+    "photo_id": 756642463,
+    "candidate_id": "bbox-000068ce42--6afc6cbdee5596557a5962df-756642463",
+    "width": 1152,
+    "height": 2048,
+    "issued_sha256": "634e046ed00e3bc9493368101c39a8b662ea50eac8de24455fca80db246676a9",
+    "original_status": "PRESENT",
+    "original_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.10422539437585733,
+        "top": 0.3682278002829218,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.10422539437585733,
+        "top": 0.3682278002829218,
+        "width": 0.7278449359853681,
+        "height": 0.3290372620884774
+      }
+    ],
+    "source_output": {
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.10422539437585733,
+          "top": 0.3682278002829218,
+          "width": 0,
+          "height": 0
+        },
+        {
+          "shape": "rectangle",
+          "left": 0.10422539437585733,
+          "top": 0.3682278002829218,
+          "width": 0.7278449359853681,
+          "height": 0.3290372620884774
+        }
+      ]
+    },
+    "votes": [],
+    "review_reason": "Проверить спорный или пропущенный объект и границы"
+  },
+  {
+    "photo_id": 757270451,
+    "candidate_id": "bbox-000068ce42--6afc7199ed421b4afbece5b8-757270451",
+    "width": 996,
+    "height": 713,
+    "issued_sha256": "1eb687a2202257e86695484286ed2ce70541143f78f80865becfe5c46d14c27a",
+    "original_status": "UNCERTAIN",
+    "original_boxes": [],
+    "source_output": {
+      "status": "UNCERTAIN",
+      "boxes": []
+    },
+    "votes": [],
+    "review_reason": "Проверить спорный или пропущенный объект и границы"
+  },
+  {
+    "photo_id": 757201224,
+    "candidate_id": "bbox-000068ce42--6afc734bd2f6e71804ecf61b-757201224",
+    "width": 381,
+    "height": 2048,
+    "issued_sha256": "8419a3d1a77125c9d5972dcdf7984222ee325ab15e92e3e0191826cd920ca363",
+    "original_status": "UNCERTAIN",
+    "original_boxes": [],
+    "source_output": {
+      "status": "UNCERTAIN",
+      "boxes": []
+    },
+    "votes": [],
+    "review_reason": "Проверить спорный или пропущенный объект и границы"
+  },
+  {
+    "photo_id": 757238301,
+    "candidate_id": "bbox-000068ce42--6afc7be805a3672b201aa698-757238301",
+    "width": 1276,
+    "height": 378,
+    "issued_sha256": "8126613706f1ae87cf2bd8d25251f9686f41f1bf850451b8e4f43863c347eeaa",
+    "original_status": "UNCERTAIN",
+    "original_boxes": [],
+    "source_output": {
+      "status": "UNCERTAIN",
+      "boxes": []
+    },
+    "votes": [],
+    "review_reason": "Проверить спорный или пропущенный объект и границы"
+  },
+  {
+    "photo_id": 761036757,
+    "candidate_id": "bbox-000068ce42--6afc72c43537ac5dbb33ae95-761036757",
+    "width": 2048,
+    "height": 1536,
+    "issued_sha256": "b0082d5f95a08b83a17dd327b9e54967908ec68d70ba8dac9fab626b98f6935d",
+    "original_status": "ABSENT",
+    "original_boxes": [],
+    "source_output": {
+      "status": "ABSENT",
+      "boxes": []
+    },
+    "votes": [
+      {
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "review_reason": "Проверить спорный или пропущенный объект и границы"
+  },
+  {
+    "photo_id": 757105104,
+    "candidate_id": "bbox-000068ce42--6afc74253537ac5dbb33e6c6-757105104",
+    "width": 142,
+    "height": 102,
+    "issued_sha256": "e1d000a7d5db648b43c93b61721b95d3db5f82210bb6733cf83734eea58f8d86",
+    "original_status": "ABSENT",
+    "original_boxes": [],
+    "source_output": {
+      "status": "ABSENT",
+      "boxes": []
+    },
+    "votes": [
+      {
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "review_reason": "Проверить спорный или пропущенный объект и границы"
+  },
+  {
+    "photo_id": 756902369,
+    "candidate_id": "bbox-000068ce42--6afc74a3ed421b4afbed6ec1-756902369",
+    "width": 1536,
+    "height": 901,
+    "issued_sha256": "60ca312d12454f137c36f6b71c07b7dfd5ecbae3e296bf88796b807747fff500",
+    "original_status": "ABSENT",
+    "original_boxes": [],
+    "source_output": {
+      "status": "ABSENT",
+      "boxes": []
+    },
+    "votes": [
+      {
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "review_reason": "Проверить спорный или пропущенный объект и границы"
+  },
+  {
+    "photo_id": 757257318,
+    "candidate_id": "bbox-000068ce42--6afc764efe68256bfdb5d6ed-757257318",
+    "width": 1536,
+    "height": 2048,
+    "issued_sha256": "4e77b62c5d642c13d13a29628f0c67039bcd5d97944eeb27b20fe4baa1ceb309",
+    "original_status": "PRESENT",
+    "original_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.4079787344250114,
+        "top": 0.21435841585219478,
+        "width": 0.3432704260973938,
+        "height": 0.2281492466135117
+      }
+    ],
+    "source_output": {
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.4079787344250114,
+          "top": 0.21435841585219478,
+          "width": 0.3432704260973938,
+          "height": 0.2281492466135117
+        }
+      ]
+    },
+    "votes": [
+      {
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "review_reason": "Проверить заново: один из ревьюеров ошибся на контрольных примерах"
+  },
+  {
+    "photo_id": 761394117,
+    "candidate_id": "bbox-000068ce42--6afc76673537ac5dbb345295-761394117",
+    "width": 1542,
+    "height": 2048,
+    "issued_sha256": "78d30f53e97cd834132b7a23fbcca3c217838378fbcea3f4b3e171cd868b0c1d",
+    "original_status": "ABSENT",
+    "original_boxes": [],
+    "source_output": {
+      "status": "ABSENT",
+      "boxes": []
+    },
+    "votes": [
+      {
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "review_reason": "Проверить заново: один из ревьюеров ошибся на контрольных примерах"
+  },
+  {
+    "photo_id": 757201569,
+    "candidate_id": "bbox-000068ce42--6afc766ed5d23603d66a21c8-757201569",
+    "width": 1536,
+    "height": 2048,
+    "issued_sha256": "6fa425a16a60dc9762aac6be60a2a132980bd0b47817377004cb6ed9b2cfbd0c",
+    "original_status": "PRESENT",
+    "original_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.06666666666666667,
+        "top": 0.1175,
+        "width": 0.85,
+        "height": 0.685
+      }
+    ],
+    "source_output": {
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.06666666666666667,
+          "top": 0.1175,
+          "width": 0.85,
+          "height": 0.685
+        }
+      ]
+    },
+    "votes": [
+      {
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "review_reason": "Проверить заново: один из ревьюеров ошибся на контрольных примерах"
+  },
+  {
+    "photo_id": 761397059,
+    "candidate_id": "bbox-000068ce42--6afc7689b0dc860f4147db4e-761397059",
+    "width": 1536,
+    "height": 2048,
+    "issued_sha256": "d9ed45bd0478f53b40a877c47442c03bdca5f5c2ed26033b32f985432ca6ccf1",
+    "original_status": "ABSENT",
+    "original_boxes": [],
+    "source_output": {
+      "status": "ABSENT",
+      "boxes": []
+    },
+    "votes": [
+      {
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "review_reason": "Проверить заново: один из ревьюеров ошибся на контрольных примерах"
+  },
+  {
+    "photo_id": 760833749,
+    "candidate_id": "bbox-000068ce42--6afc7853d2f6e71804edc475-760833749",
+    "width": 2048,
+    "height": 1536,
+    "issued_sha256": "3938b9b5a31fc7e5658a3c387bbb1206b0d088602f3a106381634dc8a6191fb1",
+    "original_status": "PRESENT",
+    "original_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.4460601557775025,
+        "top": 0.45205809303189975,
+        "width": 0.09959516224376225,
+        "height": 0.0886569652343317
+      }
+    ],
+    "source_output": {
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.4460601557775025,
+          "top": 0.45205809303189975,
+          "width": 0.09959516224376225,
+          "height": 0.0886569652343317
+        }
+      ]
+    },
+    "votes": [
+      {
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "review_reason": "Проверить заново: один из ревьюеров ошибся на контрольных примерах"
+  },
+  {
+    "photo_id": 759422975,
+    "candidate_id": "bbox-000068ce42--6afc78696fd8607c6c556e04-759422975",
+    "width": 2048,
+    "height": 1536,
+    "issued_sha256": "cb82e8ee09050d973675b7405c407897f728f277a10f22e94b592384b35a3a1a",
+    "original_status": "PRESENT",
+    "original_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.30378921655306923,
+        "top": 0.3437755058299039,
+        "width": 0.19151978041409468,
+        "height": 0.25117348251028815
+      }
+    ],
+    "source_output": {
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.30378921655306923,
+          "top": 0.3437755058299039,
+          "width": 0.19151978041409468,
+          "height": 0.25117348251028815
+        }
+      ]
+    },
+    "votes": [
+      {
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "review_reason": "Проверить заново: один из ревьюеров ошибся на контрольных примерах"
+  },
+  {
+    "photo_id": 761458118,
+    "candidate_id": "bbox-000068ce42--6afc7886d2f6e71804edcf73-761458118",
+    "width": 761,
+    "height": 634,
+    "issued_sha256": "c0c151c48c1719a893dd065461b0ea562452eea01291dd390750c726b9a45116",
+    "original_status": "ABSENT",
+    "original_boxes": [],
+    "source_output": {
+      "status": "ABSENT",
+      "boxes": []
+    },
+    "votes": [
+      {
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "review_reason": "Проверить заново: один из ревьюеров ошибся на контрольных примерах"
+  },
+  {
+    "photo_id": 758268826,
+    "candidate_id": "bbox-000068ce42--6afc788a6fd8607c6c557392-758268826",
+    "width": 2048,
+    "height": 2048,
+    "issued_sha256": "a5a29eed7703eff8238f1e9a696c47104c8f1da7735f39a30a70a39dc1f03f55",
+    "original_status": "PRESENT",
+    "original_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.29898325978973767,
+        "top": 0.24956425419560185,
+        "width": 0.5015620478877314,
+        "height": 0.48036928530092576
+      }
+    ],
+    "source_output": {
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.29898325978973767,
+          "top": 0.24956425419560185,
+          "width": 0.5015620478877314,
+          "height": 0.48036928530092576
+        }
+      ]
+    },
+    "votes": [
+      {
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "review_reason": "Проверить заново: один из ревьюеров ошибся на контрольных примерах"
+  },
+  {
+    "photo_id": 761392628,
+    "candidate_id": "bbox-000068ce42--6afc79c8ed421b4afbee3b08-761392628",
+    "width": 1536,
+    "height": 2048,
+    "issued_sha256": "3cab9f07a0517ea63e6433316d94660ab4d29f4927d3c38c67d7d2dbd448a26c",
+    "original_status": "ABSENT",
+    "original_boxes": [],
+    "source_output": {
+      "status": "ABSENT",
+      "boxes": []
+    },
+    "votes": [
+      {
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "review_reason": "Проверить заново: один из ревьюеров ошибся на контрольных примерах"
+  },
+  {
+    "photo_id": 764431612,
+    "candidate_id": "bbox-000068ce42--6afc79ceee5596557a5b7ccf-764431612",
+    "width": 1200,
+    "height": 1600,
+    "issued_sha256": "ea25baae9ba3d4ee1f4a0cdeadfe25e0cee11d852e5b294e4eb2f350a13548be",
+    "original_status": "PRESENT",
+    "original_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.14938786008230456,
+        "top": 0.34158918467078186,
+        "width": 0.5827224794238683,
+        "height": 0.2692579732510289
+      }
+    ],
+    "source_output": {
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.14938786008230456,
+          "top": 0.34158918467078186,
+          "width": 0.5827224794238683,
+          "height": 0.2692579732510289
+        }
+      ]
+    },
+    "votes": [
+      {
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "review_reason": "Проверить заново: один из ревьюеров ошибся на контрольных примерах"
+  },
+  {
+    "photo_id": 760751803,
+    "candidate_id": "bbox-000068ce42--6afc7ae4d5d23603d66ab68f-760751803",
+    "width": 2048,
+    "height": 1536,
+    "issued_sha256": "debb13ba792856968737470a899c87f6e7ff7e70cc22d5acc85eabf293212056",
+    "original_status": "PRESENT",
+    "original_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.41875761344991047,
+        "top": 0.012658592149297316,
+        "width": 0.08378890713889708,
+        "height": 0.16429197478215107
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.4297104117687205,
+        "top": 0.3280991837310274,
+        "width": 0.09419406554176668,
+        "height": 0.13435432604407022
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.43737737059188764,
+        "top": 0.24412772995348353,
+        "width": 0.0684549894925629,
+        "height": 0.12413171427984743
+      }
+    ],
+    "source_output": {
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.41875761344991047,
+          "top": 0.012658592149297316,
+          "width": 0.08378890713889708,
+          "height": 0.16429197478215107
+        },
+        {
+          "shape": "rectangle",
+          "left": 0.4297104117687205,
+          "top": 0.3280991837310274,
+          "width": 0.09419406554176668,
+          "height": 0.13435432604407022
+        },
+        {
+          "shape": "rectangle",
+          "left": 0.43737737059188764,
+          "top": 0.24412772995348353,
+          "width": 0.0684549894925629,
+          "height": 0.12413171427984743
+        }
+      ]
+    },
+    "votes": [
+      {
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "review_reason": "Проверить заново: один из ревьюеров ошибся на контрольных примерах"
+  },
+  {
+    "photo_id": 757654939,
+    "candidate_id": "bbox-000068ce42--6afc7b15ed421b4afbee61a8-757654939",
+    "width": 2048,
+    "height": 1356,
+    "issued_sha256": "2315d72fe9c076dc3a4fd4cc4455e386c9b7d684210955f289137f9ad57cb248",
+    "original_status": "PRESENT",
+    "original_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.235048828125,
+        "top": 0.18000000000000002,
+        "width": 0.480029296875,
+        "height": 0.5449999999999999
+      }
+    ],
+    "source_output": {
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.235048828125,
+          "top": 0.18000000000000002,
+          "width": 0.480029296875,
+          "height": 0.5449999999999999
+        }
+      ]
+    },
+    "votes": [
+      {
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "review_reason": "Проверить заново: один из ревьюеров ошибся на контрольных примерах"
+  }
+]

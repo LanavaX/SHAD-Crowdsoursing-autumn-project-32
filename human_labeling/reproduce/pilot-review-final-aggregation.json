@@ -1,0 +1,2616 @@
+{
+  "items": [
+    {
+      "photo_id": 757072510,
+      "assignment_id": "000068cc23--6afc1aa82a9f062967fc89af",
+      "author_id": "661745669e60a375202137c8056e269b",
+      "source_output": {
+        "status": "PRESENT",
+        "boxes": [
+          {
+            "shape": "rectangle",
+            "left": 0.2846441947565543,
+            "top": 0.008337404331542094,
+            "width": 0.35705368289637957,
+            "height": 0.24734299516908212
+          }
+        ]
+      },
+      "candidate_id": "bbox-000068cc23--6afc1aa82a9f062967fc89af-757072510",
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "left": 0.2846441947565543,
+          "top": 0.008337404331542094,
+          "width": 0.35705368289637957,
+          "height": 0.24734299516908212,
+          "shape": "rectangle"
+        }
+      ],
+      "votes": [
+        {
+          "worker_id": "d7210ff3934608d1832e94043b3e4977",
+          "assignment_id": "000068cc25--6afc30a26acf942b903ddbff",
+          "verdict": "OK",
+          "reason": null
+        },
+        {
+          "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+          "assignment_id": "000068cc25--6afc30c22a37550c2c8c0b0d",
+          "verdict": "OK",
+          "reason": null
+        }
+      ],
+      "decision": "accepted_pending_audit"
+    },
+    {
+      "photo_id": 758917904,
+      "assignment_id": "000068cc23--6afc1cfd0e60726337122541",
+      "author_id": "661745669e60a375202137c8056e269b",
+      "source_output": {
+        "status": "PRESENT",
+        "boxes": [
+          {
+            "shape": "rectangle",
+            "left": 0.303996875,
+            "top": 0.365,
+            "width": 0.12861406250000001,
+            "height": 0.25749999999999995
+          },
+          {
+            "shape": "rectangle",
+            "left": 0.46768750000000003,
+            "top": 0.36000000000000004,
+            "width": 0.16035,
+            "height": 0.2675
+          }
+        ]
+      },
+      "candidate_id": "bbox-000068cc23--6afc1cfd0e60726337122541-758917904",
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "left": 0.303996875,
+          "top": 0.365,
+          "width": 0.12861406250000001,
+          "height": 0.25749999999999995,
+          "shape": "rectangle"
+        },
+        {
+          "left": 0.46768750000000003,
+          "top": 0.36000000000000004,
+          "width": 0.16035,
+          "height": 0.2675,
+          "shape": "rectangle"
+        }
+      ],
+      "votes": [
+        {
+          "worker_id": "d7210ff3934608d1832e94043b3e4977",
+          "assignment_id": "000068cc25--6afc30a26acf942b903ddbff",
+          "verdict": "OK",
+          "reason": null
+        },
+        {
+          "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+          "assignment_id": "000068cc25--6afc30c22a37550c2c8c0b0d",
+          "verdict": "BAD",
+          "reason": "bounds"
+        }
+      ],
+      "decision": "manual_adjudication"
+    },
+    {
+      "photo_id": 758388679,
+      "assignment_id": "000068cc23--6afc1aed0e6072633711ce1e",
+      "author_id": "661745669e60a375202137c8056e269b",
+      "source_output": {
+        "status": "PRESENT",
+        "boxes": [
+          {
+            "shape": "rectangle",
+            "left": 0.286376953125,
+            "top": 0.375,
+            "width": 0.419036865234375,
+            "height": 0.29000000000000004
+          }
+        ]
+      },
+      "candidate_id": "bbox-000068cc23--6afc1aed0e6072633711ce1e-758388679",
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "left": 0.286376953125,
+          "top": 0.375,
+          "width": 0.419036865234375,
+          "height": 0.29000000000000004,
+          "shape": "rectangle"
+        }
+      ],
+      "votes": [
+        {
+          "worker_id": "d7210ff3934608d1832e94043b3e4977",
+          "assignment_id": "000068cc25--6afc30a26acf942b903ddbff",
+          "verdict": "OK",
+          "reason": null
+        },
+        {
+          "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+          "assignment_id": "000068cc25--6afc30c22a37550c2c8c0b0d",
+          "verdict": "BAD",
+          "reason": "bounds"
+        }
+      ],
+      "decision": "manual_adjudication"
+    },
+    {
+      "photo_id": 757654021,
+      "assignment_id": "000068cc23--6afc1a8f0e6072633711bca3",
+      "author_id": "661745669e60a375202137c8056e269b",
+      "source_output": {
+        "status": "PRESENT",
+        "boxes": [
+          {
+            "shape": "rectangle",
+            "left": 0.4366666666666667,
+            "top": 0.0225,
+            "width": 0.56,
+            "height": 0.45999999999999996
+          }
+        ]
+      },
+      "candidate_id": "bbox-000068cc23--6afc1a8f0e6072633711bca3-757654021",
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "left": 0.4366666666666667,
+          "top": 0.0225,
+          "width": 0.56,
+          "height": 0.45999999999999996,
+          "shape": "rectangle"
+        }
+      ],
+      "votes": [
+        {
+          "worker_id": "d7210ff3934608d1832e94043b3e4977",
+          "assignment_id": "000068cc25--6afc30a26acf942b903ddbff",
+          "verdict": "OK",
+          "reason": null
+        },
+        {
+          "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+          "assignment_id": "000068cc25--6afc30c22a37550c2c8c0b0d",
+          "verdict": "BAD",
+          "reason": "bounds"
+        }
+      ],
+      "decision": "manual_adjudication"
+    },
+    {
+      "photo_id": 760354817,
+      "assignment_id": "000068cc23--6afc1a96dcaea54299dfe3be",
+      "author_id": "661745669e60a375202137c8056e269b",
+      "source_output": {
+        "status": "PRESENT",
+        "boxes": [
+          {
+            "shape": "rectangle",
+            "left": 0.3993824110671937,
+            "top": 0.1325,
+            "width": 0.3923344861660079,
+            "height": 0.5249999999999999
+          },
+          {
+            "shape": "rectangle",
+            "left": 0.3993824110671937,
+            "top": 0.29500000000000004,
+            "width": 0.41347826086956524,
+            "height": 0.52
+          }
+        ]
+      },
+      "candidate_id": "bbox-000068cc23--6afc1a96dcaea54299dfe3be-760354817",
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "left": 0.3993824110671937,
+          "top": 0.1325,
+          "width": 0.3923344861660079,
+          "height": 0.5249999999999999,
+          "shape": "rectangle"
+        },
+        {
+          "left": 0.3993824110671937,
+          "top": 0.29500000000000004,
+          "width": 0.41347826086956524,
+          "height": 0.52,
+          "shape": "rectangle"
+        }
+      ],
+      "votes": [
+        {
+          "worker_id": "d7210ff3934608d1832e94043b3e4977",
+          "assignment_id": "000068cc25--6afc308c2a37550c2c8c0278",
+          "verdict": "OK",
+          "reason": null
+        },
+        {
+          "worker_id": "1acbf2b496203938edc48507e195a182",
+          "assignment_id": "000068cc25--6afc30e2fca5f6458f541649",
+          "verdict": "BAD",
+          "reason": "bounds"
+        }
+      ],
+      "decision": "manual_adjudication"
+    },
+    {
+      "photo_id": 758388665,
+      "assignment_id": "000068cc23--6afc1a7bcf13a4405abdc30f",
+      "author_id": "661745669e60a375202137c8056e269b",
+      "source_output": {
+        "status": "PRESENT",
+        "boxes": [
+          {
+            "shape": "rectangle",
+            "left": 0.3010028818443804,
+            "top": 0.2425,
+            "width": 0.3010028818443804,
+            "height": 0.415
+          }
+        ]
+      },
+      "candidate_id": "bbox-000068cc23--6afc1a7bcf13a4405abdc30f-758388665",
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "left": 0.3010028818443804,
+          "top": 0.2425,
+          "width": 0.3010028818443804,
+          "height": 0.415,
+          "shape": "rectangle"
+        }
+      ],
+      "votes": [
+        {
+          "worker_id": "d7210ff3934608d1832e94043b3e4977",
+          "assignment_id": "000068cc25--6afc308c2a37550c2c8c0278",
+          "verdict": "OK",
+          "reason": null
+        },
+        {
+          "worker_id": "1acbf2b496203938edc48507e195a182",
+          "assignment_id": "000068cc25--6afc30e2fca5f6458f541649",
+          "verdict": "OK",
+          "reason": null
+        }
+      ],
+      "decision": "accepted_pending_audit"
+    },
+    {
+      "photo_id": 761245559,
+      "assignment_id": "000068cc23--6afc1b0c63483969bd33e693",
+      "author_id": "661745669e60a375202137c8056e269b",
+      "source_output": {
+        "status": "ABSENT",
+        "boxes": []
+      },
+      "candidate_id": "bbox-000068cc23--6afc1b0c63483969bd33e693-761245559",
+      "status": "ABSENT",
+      "boxes": [],
+      "votes": [
+        {
+          "worker_id": "d7210ff3934608d1832e94043b3e4977",
+          "assignment_id": "000068cc25--6afc308c2a37550c2c8c0278",
+          "verdict": "OK",
+          "reason": null
+        },
+        {
+          "worker_id": "1acbf2b496203938edc48507e195a182",
+          "assignment_id": "000068cc25--6afc30e2fca5f6458f541649",
+          "verdict": "OK",
+          "reason": null
+        }
+      ],
+      "decision": "accepted_pending_audit"
+    },
+    {
+      "photo_id": 757861645,
+      "assignment_id": "000068cc23--6afc1af3cafda95f3a50be95",
+      "author_id": "661745669e60a375202137c8056e269b",
+      "source_output": {
+        "status": "PRESENT",
+        "boxes": [
+          {
+            "shape": "rectangle",
+            "left": 0.41777777777777775,
+            "top": 0.465,
+            "width": 0.28444444444444456,
+            "height": 0.1325
+          }
+        ]
+      },
+      "candidate_id": "bbox-000068cc23--6afc1af3cafda95f3a50be95-757861645",
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "left": 0.41777777777777775,
+          "top": 0.465,
+          "width": 0.28444444444444456,
+          "height": 0.1325,
+          "shape": "rectangle"
+        }
+      ],
+      "votes": [
+        {
+          "worker_id": "d7210ff3934608d1832e94043b3e4977",
+          "assignment_id": "000068cc25--6afc308c2a37550c2c8c0278",
+          "verdict": "OK",
+          "reason": null
+        },
+        {
+          "worker_id": "1acbf2b496203938edc48507e195a182",
+          "assignment_id": "000068cc25--6afc30e2fca5f6458f541649",
+          "verdict": "OK",
+          "reason": null
+        }
+      ],
+      "decision": "accepted_pending_audit"
+    },
+    {
+      "photo_id": 761389221,
+      "assignment_id": "000068cc23--6afc1ad526afcc42ccd3226e",
+      "author_id": "661745669e60a375202137c8056e269b",
+      "source_output": {
+        "status": "ABSENT",
+        "boxes": []
+      },
+      "candidate_id": "bbox-000068cc23--6afc1ad526afcc42ccd3226e-761389221",
+      "status": "ABSENT",
+      "boxes": [],
+      "votes": [
+        {
+          "worker_id": "d7210ff3934608d1832e94043b3e4977",
+          "assignment_id": "000068cc25--6afc30714e7c57589948d1ec",
+          "verdict": "OK",
+          "reason": null
+        },
+        {
+          "worker_id": "1acbf2b496203938edc48507e195a182",
+          "assignment_id": "000068cc25--6afc3092fca5f6458f54098c",
+          "verdict": "OK",
+          "reason": null
+        }
+      ],
+      "decision": "accepted_pending_audit"
+    },
+    {
+      "photo_id": 757225205,
+      "assignment_id": "000068cc23--6afc1ae155749e1cbb48e09c",
+      "author_id": "661745669e60a375202137c8056e269b",
+      "source_output": {
+        "status": "PRESENT",
+        "boxes": [
+          {
+            "shape": "rectangle",
+            "left": 0.33666666666666667,
+            "top": 0.3225,
+            "width": 0.22333333333333327,
+            "height": 0.1975
+          }
+        ]
+      },
+      "candidate_id": "bbox-000068cc23--6afc1ae155749e1cbb48e09c-757225205",
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "left": 0.33666666666666667,
+          "top": 0.3225,
+          "width": 0.22333333333333327,
+          "height": 0.1975,
+          "shape": "rectangle"
+        }
+      ],
+      "votes": [
+        {
+          "worker_id": "d7210ff3934608d1832e94043b3e4977",
+          "assignment_id": "000068cc25--6afc30714e7c57589948d1ec",
+          "verdict": "OK",
+          "reason": null
+        },
+        {
+          "worker_id": "1acbf2b496203938edc48507e195a182",
+          "assignment_id": "000068cc25--6afc3092fca5f6458f54098c",
+          "verdict": "OK",
+          "reason": null
+        }
+      ],
+      "decision": "accepted_pending_audit"
+    },
+    {
+      "photo_id": 758544745,
+      "assignment_id": "000068cc23--6afc1adacf13a4405abdd252",
+      "author_id": "661745669e60a375202137c8056e269b",
+      "source_output": {
+        "status": "PRESENT",
+        "boxes": [
+          {
+            "shape": "rectangle",
+            "left": 0.6,
+            "top": 0.33,
+            "width": 0.16333333333333333,
+            "height": 0.11499999999999999
+          }
+        ]
+      },
+      "candidate_id": "bbox-000068cc23--6afc1adacf13a4405abdd252-758544745",
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "left": 0.6,
+          "top": 0.33,
+          "width": 0.16333333333333333,
+          "height": 0.11499999999999999,
+          "shape": "rectangle"
+        }
+      ],
+      "votes": [
+        {
+          "worker_id": "d7210ff3934608d1832e94043b3e4977",
+          "assignment_id": "000068cc25--6afc30714e7c57589948d1ec",
+          "verdict": "OK",
+          "reason": null
+        },
+        {
+          "worker_id": "1acbf2b496203938edc48507e195a182",
+          "assignment_id": "000068cc25--6afc3092fca5f6458f54098c",
+          "verdict": "BAD",
+          "reason": "extra"
+        }
+      ],
+      "decision": "manual_adjudication"
+    },
+    {
+      "photo_id": 757264456,
+      "assignment_id": "000068cc23--6afc1acd55749e1cbb48dd5f",
+      "author_id": "661745669e60a375202137c8056e269b",
+      "source_output": {
+        "status": "PRESENT",
+        "boxes": [
+          {
+            "shape": "rectangle",
+            "left": 0.0046230916030534355,
+            "top": 0.010000000000000002,
+            "width": 0.5270324427480917,
+            "height": 0.325
+          }
+        ]
+      },
+      "candidate_id": "bbox-000068cc23--6afc1acd55749e1cbb48dd5f-757264456",
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "left": 0.0046230916030534355,
+          "top": 0.010000000000000002,
+          "width": 0.5270324427480917,
+          "height": 0.325,
+          "shape": "rectangle"
+        }
+      ],
+      "votes": [
+        {
+          "worker_id": "d7210ff3934608d1832e94043b3e4977",
+          "assignment_id": "000068cc25--6afc30714e7c57589948d1ec",
+          "verdict": "OK",
+          "reason": null
+        },
+        {
+          "worker_id": "1acbf2b496203938edc48507e195a182",
+          "assignment_id": "000068cc25--6afc3092fca5f6458f54098c",
+          "verdict": "BAD",
+          "reason": "bounds"
+        }
+      ],
+      "decision": "manual_adjudication"
+    },
+    {
+      "photo_id": 760796888,
+      "assignment_id": "000068cc23--6afc1aaf12cf5948122cc323",
+      "author_id": "661745669e60a375202137c8056e269b",
+      "source_output": {
+        "status": "PRESENT",
+        "boxes": [
+          {
+            "shape": "rectangle",
+            "left": 0.3828975265017668,
+            "top": 0.36,
+            "width": 0.28261484098939915,
+            "height": 0.3275
+          }
+        ]
+      },
+      "candidate_id": "bbox-000068cc23--6afc1aaf12cf5948122cc323-760796888",
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "left": 0.3828975265017668,
+          "top": 0.36,
+          "width": 0.28261484098939915,
+          "height": 0.3275,
+          "shape": "rectangle"
+        }
+      ],
+      "votes": [
+        {
+          "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+          "assignment_id": "000068cc25--6afc306e2a37550c2c8bfdd6",
+          "verdict": "OK",
+          "reason": null
+        },
+        {
+          "worker_id": "d7210ff3934608d1832e94043b3e4977",
+          "assignment_id": "000068cc25--6afc307f2a37550c2c8c00cf",
+          "verdict": "OK",
+          "reason": null
+        }
+      ],
+      "decision": "accepted_pending_audit"
+    },
+    {
+      "photo_id": 761393564,
+      "assignment_id": "000068cc23--6afc1ab7cafda95f3a50b640",
+      "author_id": "661745669e60a375202137c8056e269b",
+      "source_output": {
+        "status": "ABSENT",
+        "boxes": []
+      },
+      "candidate_id": "bbox-000068cc23--6afc1ab7cafda95f3a50b640-761393564",
+      "status": "ABSENT",
+      "boxes": [],
+      "votes": [
+        {
+          "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+          "assignment_id": "000068cc25--6afc306e2a37550c2c8bfdd6",
+          "verdict": "OK",
+          "reason": null
+        },
+        {
+          "worker_id": "d7210ff3934608d1832e94043b3e4977",
+          "assignment_id": "000068cc25--6afc307f2a37550c2c8c00cf",
+          "verdict": "OK",
+          "reason": null
+        }
+      ],
+      "decision": "accepted_pending_audit"
+    },
+    {
+      "photo_id": 760791732,
+      "assignment_id": "000068cc23--6afc1af9dcaea54299dff2b0",
+      "author_id": "661745669e60a375202137c8056e269b",
+      "source_output": {
+        "status": "PRESENT",
+        "boxes": [
+          {
+            "shape": "rectangle",
+            "left": 0.128936767578125,
+            "top": 0.425,
+            "width": 0.21026611328125,
+            "height": 0.195
+          },
+          {
+            "shape": "rectangle",
+            "left": 0.46417236328125,
+            "top": 0.395,
+            "width": 0.228118896484375,
+            "height": 0.30499999999999994
+          }
+        ]
+      },
+      "candidate_id": "bbox-000068cc23--6afc1af9dcaea54299dff2b0-760791732",
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "left": 0.128936767578125,
+          "top": 0.425,
+          "width": 0.21026611328125,
+          "height": 0.195,
+          "shape": "rectangle"
+        },
+        {
+          "left": 0.46417236328125,
+          "top": 0.395,
+          "width": 0.228118896484375,
+          "height": 0.30499999999999994,
+          "shape": "rectangle"
+        }
+      ],
+      "votes": [
+        {
+          "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+          "assignment_id": "000068cc25--6afc306e2a37550c2c8bfdd6",
+          "verdict": "BAD",
+          "reason": "bounds"
+        },
+        {
+          "worker_id": "d7210ff3934608d1832e94043b3e4977",
+          "assignment_id": "000068cc25--6afc307f2a37550c2c8c00cf",
+          "verdict": "OK",
+          "reason": null
+        }
+      ],
+      "decision": "manual_adjudication"
+    },
+    {
+      "photo_id": 756643869,
+      "assignment_id": "000068cc23--6afc1ac512cf5948122cc6eb",
+      "author_id": "661745669e60a375202137c8056e269b",
+      "source_output": {
+        "status": "PRESENT",
+        "boxes": [
+          {
+            "shape": "rectangle",
+            "left": 0.10278688524590164,
+            "top": 0.0975,
+            "width": 0.8254098360655738,
+            "height": 0.7024999999999999
+          }
+        ]
+      },
+      "candidate_id": "bbox-000068cc23--6afc1ac512cf5948122cc6eb-756643869",
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "left": 0.10278688524590164,
+          "top": 0.0975,
+          "width": 0.8254098360655738,
+          "height": 0.7024999999999999,
+          "shape": "rectangle"
+        }
+      ],
+      "votes": [
+        {
+          "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+          "assignment_id": "000068cc25--6afc306e2a37550c2c8bfdd6",
+          "verdict": "OK",
+          "reason": null
+        },
+        {
+          "worker_id": "d7210ff3934608d1832e94043b3e4977",
+          "assignment_id": "000068cc25--6afc307f2a37550c2c8c00cf",
+          "verdict": "OK",
+          "reason": null
+        }
+      ],
+      "decision": "accepted_pending_audit"
+    },
+    {
+      "photo_id": 760796882,
+      "assignment_id": "000068cc23--6afc1aa13f75ec3186166a74",
+      "author_id": "661745669e60a375202137c8056e269b",
+      "source_output": {
+        "status": "PRESENT",
+        "boxes": [
+          {
+            "shape": "rectangle",
+            "left": 0.504375,
+            "top": 0.36749999999999994,
+            "width": 0.07499999999999996,
+            "height": 0.11000000000000004
+          }
+        ]
+      },
+      "candidate_id": "bbox-000068cc23--6afc1aa13f75ec3186166a74-760796882",
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "left": 0.504375,
+          "top": 0.36749999999999994,
+          "width": 0.07499999999999996,
+          "height": 0.11000000000000004,
+          "shape": "rectangle"
+        }
+      ],
+      "votes": [
+        {
+          "worker_id": "d7210ff3934608d1832e94043b3e4977",
+          "assignment_id": "000068cc25--6afc3099efe38c64f711f5db",
+          "verdict": "OK",
+          "reason": null
+        },
+        {
+          "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+          "assignment_id": "000068cc25--6afc30f2fca5f6458f541970",
+          "verdict": "BAD",
+          "reason": "bounds"
+        }
+      ],
+      "decision": "manual_adjudication"
+    },
+    {
+      "photo_id": 761748011,
+      "assignment_id": "000068cc23--6afc1abc0e6072633711c3c8",
+      "author_id": "661745669e60a375202137c8056e269b",
+      "source_output": {
+        "status": "PRESENT",
+        "boxes": [
+          {
+            "shape": "rectangle",
+            "left": 0.43201910226776863,
+            "top": 0.40662923742483037,
+            "width": 0.17174498681600026,
+            "height": 0.07293988897908443
+          }
+        ]
+      },
+      "candidate_id": "bbox-000068cc23--6afc1abc0e6072633711c3c8-761748011",
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "left": 0.43201910226776863,
+          "top": 0.40662923742483037,
+          "width": 0.17174498681600026,
+          "height": 0.07293988897908443,
+          "shape": "rectangle"
+        }
+      ],
+      "votes": [
+        {
+          "worker_id": "d7210ff3934608d1832e94043b3e4977",
+          "assignment_id": "000068cc25--6afc3099efe38c64f711f5db",
+          "verdict": "OK",
+          "reason": null
+        },
+        {
+          "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+          "assignment_id": "000068cc25--6afc30f2fca5f6458f541970",
+          "verdict": "OK",
+          "reason": null
+        }
+      ],
+      "decision": "accepted_pending_audit"
+    },
+    {
+      "photo_id": 757587001,
+      "assignment_id": "000068cc23--6afc1b0755749e1cbb48e5bb",
+      "author_id": "661745669e60a375202137c8056e269b",
+      "source_output": {
+        "status": "PRESENT",
+        "boxes": [
+          {
+            "shape": "rectangle",
+            "left": 0.3747119140625,
+            "top": 0.25,
+            "width": 0.18312988281250003,
+            "height": 0.33499999999999996
+          }
+        ]
+      },
+      "candidate_id": "bbox-000068cc23--6afc1b0755749e1cbb48e5bb-757587001",
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "left": 0.3747119140625,
+          "top": 0.25,
+          "width": 0.18312988281250003,
+          "height": 0.33499999999999996,
+          "shape": "rectangle"
+        }
+      ],
+      "votes": [
+        {
+          "worker_id": "d7210ff3934608d1832e94043b3e4977",
+          "assignment_id": "000068cc25--6afc3099efe38c64f711f5db",
+          "verdict": "OK",
+          "reason": null
+        },
+        {
+          "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+          "assignment_id": "000068cc25--6afc30f2fca5f6458f541970",
+          "verdict": "BAD",
+          "reason": "bounds"
+        }
+      ],
+      "decision": "manual_adjudication"
+    },
+    {
+      "photo_id": 761527778,
+      "assignment_id": "000068cc23--6afc1b0263483969bd33e475",
+      "author_id": "661745669e60a375202137c8056e269b",
+      "source_output": {
+        "status": "ABSENT",
+        "boxes": []
+      },
+      "candidate_id": "bbox-000068cc23--6afc1b0263483969bd33e475-761527778",
+      "status": "ABSENT",
+      "boxes": [],
+      "votes": [
+        {
+          "worker_id": "d7210ff3934608d1832e94043b3e4977",
+          "assignment_id": "000068cc25--6afc3099efe38c64f711f5db",
+          "verdict": "OK",
+          "reason": null
+        },
+        {
+          "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+          "assignment_id": "000068cc25--6afc30f2fca5f6458f541970",
+          "verdict": "OK",
+          "reason": null
+        }
+      ],
+      "decision": "accepted_pending_audit"
+    },
+    {
+      "photo_id": 757072510,
+      "assignment_id": "000068cc23--6afc1aa82a9f062967fc89af",
+      "author_id": "661745669e60a375202137c8056e269b",
+      "source_output": {
+        "status": "PRESENT",
+        "boxes": [
+          {
+            "shape": "rectangle",
+            "left": 0.2846441947565543,
+            "top": 0.008337404331542094,
+            "width": 0.35705368289637957,
+            "height": 0.24734299516908212
+          }
+        ]
+      },
+      "candidate_id": "bbox-000068cc23--6afc1aa82a9f062967fc89af-757072510-v2",
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.28272636217948716,
+          "top": 0,
+          "width": 0.3612620192307692,
+          "height": 0.2618327759197324
+        }
+      ],
+      "previous_candidate_id": "bbox-000068cc23--6afc1aa82a9f062967fc89af-757072510",
+      "before_boxes": [
+        {
+          "left": 0.2846441947565543,
+          "top": 0.008337404331542094,
+          "width": 0.35705368289637957,
+          "height": 0.24734299516908212,
+          "shape": "rectangle"
+        }
+      ],
+      "correction_actor": "Codex-assisted visual proposal, not an independent human vote",
+      "correction_reason": "Include visible antennae/legs and visible crop boundary; preserve original coverage",
+      "verification": "pending two independent crowd reviews",
+      "votes": [
+        {
+          "worker_id": "d7210ff3934608d1832e94043b3e4977",
+          "assignment_id": "000068cc25--6afc331b39a60d5f684bc6e2",
+          "verdict": "OK",
+          "reason": null
+        },
+        {
+          "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+          "assignment_id": "000068cc25--6afc33297d0c013411725be9",
+          "verdict": "OK",
+          "reason": null
+        }
+      ],
+      "decision": "accepted_pending_audit"
+    },
+    {
+      "photo_id": 758917904,
+      "assignment_id": "000068cc23--6afc1cfd0e60726337122541",
+      "author_id": "661745669e60a375202137c8056e269b",
+      "source_output": {
+        "status": "PRESENT",
+        "boxes": [
+          {
+            "shape": "rectangle",
+            "left": 0.303996875,
+            "top": 0.365,
+            "width": 0.12861406250000001,
+            "height": 0.25749999999999995
+          },
+          {
+            "shape": "rectangle",
+            "left": 0.46768750000000003,
+            "top": 0.36000000000000004,
+            "width": 0.16035,
+            "height": 0.2675
+          }
+        ]
+      },
+      "candidate_id": "bbox-000068cc23--6afc1cfd0e60726337122541-758917904-v2",
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.3036423076923077,
+          "top": 0.35959991365042815,
+          "width": 0.14586923076923075,
+          "height": 0.30844930560552647
+        },
+        {
+          "shape": "rectangle",
+          "left": 0.465625,
+          "top": 0.35959991365042815,
+          "width": 0.18318461538461545,
+          "height": 0.2957559185435705
+        }
+      ],
+      "previous_candidate_id": "bbox-000068cc23--6afc1cfd0e60726337122541-758917904",
+      "before_boxes": [
+        {
+          "left": 0.303996875,
+          "top": 0.365,
+          "width": 0.12861406250000001,
+          "height": 0.25749999999999995,
+          "shape": "rectangle"
+        },
+        {
+          "left": 0.46768750000000003,
+          "top": 0.36000000000000004,
+          "width": 0.16035,
+          "height": 0.2675,
+          "shape": "rectangle"
+        }
+      ],
+      "correction_actor": "Codex-assisted visual proposal, not an independent human vote",
+      "correction_reason": "Include visible antennae/legs and visible crop boundary; preserve original coverage",
+      "verification": "pending two independent crowd reviews",
+      "votes": [
+        {
+          "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+          "assignment_id": "000068cc25--6afc32e14e7c575899493d54",
+          "verdict": "BAD",
+          "reason": "bounds"
+        },
+        {
+          "worker_id": "1acbf2b496203938edc48507e195a182",
+          "assignment_id": "000068cc25--6afc330e4717e736e4a96a91",
+          "verdict": "OK",
+          "reason": null
+        }
+      ],
+      "decision": "manual_adjudication"
+    },
+    {
+      "photo_id": 758388679,
+      "assignment_id": "000068cc23--6afc1aed0e6072633711ce1e",
+      "author_id": "661745669e60a375202137c8056e269b",
+      "source_output": {
+        "status": "PRESENT",
+        "boxes": [
+          {
+            "shape": "rectangle",
+            "left": 0.286376953125,
+            "top": 0.375,
+            "width": 0.419036865234375,
+            "height": 0.29000000000000004
+          }
+        ]
+      },
+      "candidate_id": "bbox-000068cc23--6afc1aed0e6072633711ce1e-758388679-v2",
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.2843209134615384,
+          "top": 0.35111705685618727,
+          "width": 0.4219613882211539,
+          "height": 0.3188004459308807
+        }
+      ],
+      "previous_candidate_id": "bbox-000068cc23--6afc1aed0e6072633711ce1e-758388679",
+      "before_boxes": [
+        {
+          "left": 0.286376953125,
+          "top": 0.375,
+          "width": 0.419036865234375,
+          "height": 0.29000000000000004,
+          "shape": "rectangle"
+        }
+      ],
+      "correction_actor": "Codex-assisted visual proposal, not an independent human vote",
+      "correction_reason": "Include visible antennae/legs and visible crop boundary; preserve original coverage",
+      "verification": "pending two independent crowd reviews",
+      "votes": [
+        {
+          "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+          "assignment_id": "000068cc25--6afc32e14e7c575899493d54",
+          "verdict": "OK",
+          "reason": null
+        },
+        {
+          "worker_id": "1acbf2b496203938edc48507e195a182",
+          "assignment_id": "000068cc25--6afc330e4717e736e4a96a91",
+          "verdict": "OK",
+          "reason": null
+        }
+      ],
+      "decision": "accepted_pending_audit"
+    },
+    {
+      "photo_id": 757654021,
+      "assignment_id": "000068cc23--6afc1a8f0e6072633711bca3",
+      "author_id": "661745669e60a375202137c8056e269b",
+      "source_output": {
+        "status": "PRESENT",
+        "boxes": [
+          {
+            "shape": "rectangle",
+            "left": 0.4366666666666667,
+            "top": 0.0225,
+            "width": 0.56,
+            "height": 0.45999999999999996
+          }
+        ]
+      },
+      "candidate_id": "bbox-000068cc23--6afc1a8f0e6072633711bca3-757654021-v2",
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.4261426693925234,
+          "top": 0.020433885806074765,
+          "width": 0.5705239972741434,
+          "height": 0.4651714004088785
+        }
+      ],
+      "previous_candidate_id": "bbox-000068cc23--6afc1a8f0e6072633711bca3-757654021",
+      "before_boxes": [
+        {
+          "left": 0.4366666666666667,
+          "top": 0.0225,
+          "width": 0.56,
+          "height": 0.45999999999999996,
+          "shape": "rectangle"
+        }
+      ],
+      "correction_actor": "Codex-assisted visual proposal, not an independent human vote",
+      "correction_reason": "Include visible antennae/legs and visible crop boundary; preserve original coverage",
+      "verification": "pending two independent crowd reviews",
+      "votes": [
+        {
+          "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+          "assignment_id": "000068cc25--6afc32e14e7c575899493d54",
+          "verdict": "BAD",
+          "reason": "bounds"
+        },
+        {
+          "worker_id": "1acbf2b496203938edc48507e195a182",
+          "assignment_id": "000068cc25--6afc330e4717e736e4a96a91",
+          "verdict": "OK",
+          "reason": null
+        }
+      ],
+      "decision": "manual_adjudication"
+    },
+    {
+      "photo_id": 760354817,
+      "assignment_id": "000068cc23--6afc1a96dcaea54299dfe3be",
+      "author_id": "661745669e60a375202137c8056e269b",
+      "source_output": {
+        "status": "PRESENT",
+        "boxes": [
+          {
+            "shape": "rectangle",
+            "left": 0.3993824110671937,
+            "top": 0.1325,
+            "width": 0.3923344861660079,
+            "height": 0.5249999999999999
+          },
+          {
+            "shape": "rectangle",
+            "left": 0.3993824110671937,
+            "top": 0.29500000000000004,
+            "width": 0.41347826086956524,
+            "height": 0.52
+          }
+        ]
+      },
+      "candidate_id": "bbox-000068cc23--6afc1a96dcaea54299dfe3be-760354817-v2",
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.30489084259909127,
+          "top": 0.10093457943925233,
+          "width": 0.509382734291308,
+          "height": 0.5607476635514018
+        },
+        {
+          "shape": "rectangle",
+          "left": 0.38217649883639315,
+          "top": 0.29158878504672897,
+          "width": 0.43736655461564033,
+          "height": 0.6990654205607476
+        }
+      ],
+      "previous_candidate_id": "bbox-000068cc23--6afc1a96dcaea54299dfe3be-760354817",
+      "before_boxes": [
+        {
+          "left": 0.3993824110671937,
+          "top": 0.1325,
+          "width": 0.3923344861660079,
+          "height": 0.5249999999999999,
+          "shape": "rectangle"
+        },
+        {
+          "left": 0.3993824110671937,
+          "top": 0.29500000000000004,
+          "width": 0.41347826086956524,
+          "height": 0.52,
+          "shape": "rectangle"
+        }
+      ],
+      "correction_actor": "Codex-assisted visual proposal, not an independent human vote",
+      "correction_reason": "Include visible antennae/legs and visible crop boundary; preserve original coverage",
+      "verification": "pending two independent crowd reviews",
+      "votes": [
+        {
+          "worker_id": "d7210ff3934608d1832e94043b3e4977",
+          "assignment_id": "000068cc25--6afc331b39a60d5f684bc6e2",
+          "verdict": "OK",
+          "reason": null
+        },
+        {
+          "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+          "assignment_id": "000068cc25--6afc33297d0c013411725be9",
+          "verdict": "BAD",
+          "reason": "bounds"
+        }
+      ],
+      "decision": "manual_adjudication"
+    },
+    {
+      "photo_id": 758388665,
+      "assignment_id": "000068cc23--6afc1a7bcf13a4405abdc30f",
+      "author_id": "661745669e60a375202137c8056e269b",
+      "source_output": {
+        "status": "PRESENT",
+        "boxes": [
+          {
+            "shape": "rectangle",
+            "left": 0.3010028818443804,
+            "top": 0.2425,
+            "width": 0.3010028818443804,
+            "height": 0.415
+          }
+        ]
+      },
+      "candidate_id": "bbox-000068cc23--6afc1a7bcf13a4405abdc30f-758388665-v2",
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.29813353443400037,
+          "top": 0.24091888142523363,
+          "width": 0.33002774111880206,
+          "height": 0.4193833966121495
+        }
+      ],
+      "previous_candidate_id": "bbox-000068cc23--6afc1a7bcf13a4405abdc30f-758388665",
+      "before_boxes": [
+        {
+          "left": 0.3010028818443804,
+          "top": 0.2425,
+          "width": 0.3010028818443804,
+          "height": 0.415,
+          "shape": "rectangle"
+        }
+      ],
+      "correction_actor": "Codex-assisted visual proposal, not an independent human vote",
+      "correction_reason": "Include visible antennae/legs and visible crop boundary; preserve original coverage",
+      "verification": "pending two independent crowd reviews",
+      "votes": [
+        {
+          "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+          "assignment_id": "000068cc25--6afc330b6acf942b903e4074",
+          "verdict": "OK",
+          "reason": null
+        },
+        {
+          "worker_id": "d7210ff3934608d1832e94043b3e4977",
+          "assignment_id": "000068cc25--6afc330cfca5f6458f547578",
+          "verdict": "OK",
+          "reason": null
+        }
+      ],
+      "decision": "accepted_pending_audit"
+    },
+    {
+      "photo_id": 757225205,
+      "assignment_id": "000068cc23--6afc1ae155749e1cbb48e09c",
+      "author_id": "661745669e60a375202137c8056e269b",
+      "source_output": {
+        "status": "PRESENT",
+        "boxes": [
+          {
+            "shape": "rectangle",
+            "left": 0.33666666666666667,
+            "top": 0.3225,
+            "width": 0.22333333333333327,
+            "height": 0.1975
+          }
+        ]
+      },
+      "candidate_id": "bbox-000068cc23--6afc1ae155749e1cbb48e09c-757225205-v2",
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.33465123637071653,
+          "top": 0.316349664135514,
+          "width": 0.24363317757009345,
+          "height": 0.20470210280373824
+        }
+      ],
+      "previous_candidate_id": "bbox-000068cc23--6afc1ae155749e1cbb48e09c-757225205",
+      "before_boxes": [
+        {
+          "left": 0.33666666666666667,
+          "top": 0.3225,
+          "width": 0.22333333333333327,
+          "height": 0.1975,
+          "shape": "rectangle"
+        }
+      ],
+      "correction_actor": "Codex-assisted visual proposal, not an independent human vote",
+      "correction_reason": "Include visible antennae/legs and visible crop boundary; preserve original coverage",
+      "verification": "pending two independent crowd reviews",
+      "votes": [
+        {
+          "worker_id": "d7210ff3934608d1832e94043b3e4977",
+          "assignment_id": "000068cc25--6afc33234717e736e4a96de2",
+          "verdict": "OK",
+          "reason": null
+        },
+        {
+          "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+          "assignment_id": "000068cc25--6afc3347cfe9a32683c80a4a",
+          "verdict": "BAD",
+          "reason": "bounds"
+        }
+      ],
+      "decision": "manual_adjudication"
+    },
+    {
+      "photo_id": 758544745,
+      "assignment_id": "000068cc23--6afc1adacf13a4405abdd252",
+      "author_id": "661745669e60a375202137c8056e269b",
+      "source_output": {
+        "status": "PRESENT",
+        "boxes": [
+          {
+            "shape": "rectangle",
+            "left": 0.6,
+            "top": 0.33,
+            "width": 0.16333333333333333,
+            "height": 0.11499999999999999
+          }
+        ]
+      },
+      "candidate_id": "bbox-000068cc23--6afc1adacf13a4405abdd252-758544745-v2",
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.598781882788162,
+          "top": 0.3271530008761682,
+          "width": 0.1664719626168223,
+          "height": 0.13726635514018692
+        }
+      ],
+      "previous_candidate_id": "bbox-000068cc23--6afc1adacf13a4405abdd252-758544745",
+      "before_boxes": [
+        {
+          "left": 0.6,
+          "top": 0.33,
+          "width": 0.16333333333333333,
+          "height": 0.11499999999999999,
+          "shape": "rectangle"
+        }
+      ],
+      "correction_actor": "Codex-assisted visual proposal, not an independent human vote",
+      "correction_reason": "Include visible antennae/legs and visible crop boundary; preserve original coverage",
+      "verification": "pending two independent crowd reviews",
+      "votes": [
+        {
+          "worker_id": "d7210ff3934608d1832e94043b3e4977",
+          "assignment_id": "000068cc25--6afc33234717e736e4a96de2",
+          "verdict": "OK",
+          "reason": null
+        },
+        {
+          "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+          "assignment_id": "000068cc25--6afc3347cfe9a32683c80a4a",
+          "verdict": "OK",
+          "reason": null
+        }
+      ],
+      "decision": "accepted_pending_audit"
+    },
+    {
+      "photo_id": 757264456,
+      "assignment_id": "000068cc23--6afc1acd55749e1cbb48dd5f",
+      "author_id": "661745669e60a375202137c8056e269b",
+      "source_output": {
+        "status": "PRESENT",
+        "boxes": [
+          {
+            "shape": "rectangle",
+            "left": 0.0046230916030534355,
+            "top": 0.010000000000000002,
+            "width": 0.5270324427480917,
+            "height": 0.325
+          }
+        ]
+      },
+      "candidate_id": "bbox-000068cc23--6afc1acd55749e1cbb48dd5f-757264456-v2",
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0,
+          "top": 0,
+          "width": 0.548034529499893,
+          "height": 0.335
+        }
+      ],
+      "previous_candidate_id": "bbox-000068cc23--6afc1acd55749e1cbb48dd5f-757264456",
+      "before_boxes": [
+        {
+          "left": 0.0046230916030534355,
+          "top": 0.010000000000000002,
+          "width": 0.5270324427480917,
+          "height": 0.325,
+          "shape": "rectangle"
+        }
+      ],
+      "correction_actor": "Codex-assisted visual proposal, not an independent human vote",
+      "correction_reason": "Include visible antennae/legs and visible crop boundary; preserve original coverage",
+      "verification": "pending two independent crowd reviews",
+      "votes": [
+        {
+          "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+          "assignment_id": "000068cc25--6afc32e14e7c575899493d54",
+          "verdict": "OK",
+          "reason": null
+        },
+        {
+          "worker_id": "1acbf2b496203938edc48507e195a182",
+          "assignment_id": "000068cc25--6afc330e4717e736e4a96a91",
+          "verdict": "OK",
+          "reason": null
+        }
+      ],
+      "decision": "accepted_pending_audit"
+    },
+    {
+      "photo_id": 760796888,
+      "assignment_id": "000068cc23--6afc1aaf12cf5948122cc323",
+      "author_id": "661745669e60a375202137c8056e269b",
+      "source_output": {
+        "status": "PRESENT",
+        "boxes": [
+          {
+            "shape": "rectangle",
+            "left": 0.3828975265017668,
+            "top": 0.36,
+            "width": 0.28261484098939915,
+            "height": 0.3275
+          }
+        ]
+      },
+      "candidate_id": "bbox-000068cc23--6afc1aaf12cf5948122cc323-760796888-v2",
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.32906277864007133,
+          "top": 0.3563953488372093,
+          "width": 0.33646511013506825,
+          "height": 0.3316416721002681
+        }
+      ],
+      "previous_candidate_id": "bbox-000068cc23--6afc1aaf12cf5948122cc323-760796888",
+      "before_boxes": [
+        {
+          "left": 0.3828975265017668,
+          "top": 0.36,
+          "width": 0.28261484098939915,
+          "height": 0.3275,
+          "shape": "rectangle"
+        }
+      ],
+      "correction_actor": "Codex-assisted visual proposal, not an independent human vote",
+      "correction_reason": "Include visible antennae/legs and visible crop boundary; preserve original coverage",
+      "verification": "pending two independent crowd reviews",
+      "votes": [
+        {
+          "worker_id": "d7210ff3934608d1832e94043b3e4977",
+          "assignment_id": "000068cc25--6afc33234717e736e4a96de2",
+          "verdict": "OK",
+          "reason": null
+        },
+        {
+          "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+          "assignment_id": "000068cc25--6afc3347cfe9a32683c80a4a",
+          "verdict": "BAD",
+          "reason": "bounds"
+        }
+      ],
+      "decision": "manual_adjudication"
+    },
+    {
+      "photo_id": 760791732,
+      "assignment_id": "000068cc23--6afc1af9dcaea54299dff2b0",
+      "author_id": "661745669e60a375202137c8056e269b",
+      "source_output": {
+        "status": "PRESENT",
+        "boxes": [
+          {
+            "shape": "rectangle",
+            "left": 0.128936767578125,
+            "top": 0.425,
+            "width": 0.21026611328125,
+            "height": 0.195
+          },
+          {
+            "shape": "rectangle",
+            "left": 0.46417236328125,
+            "top": 0.395,
+            "width": 0.228118896484375,
+            "height": 0.30499999999999994
+          }
+        ]
+      },
+      "candidate_id": "bbox-000068cc23--6afc1af9dcaea54299dff2b0-760791732-v2",
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.1258503605769231,
+          "top": 0.3742011834319527,
+          "width": 0.22297400841346152,
+          "height": 0.24653538461538466
+        },
+        {
+          "shape": "rectangle",
+          "left": 0.4637312199519231,
+          "top": 0.35523692307692306,
+          "width": 0.23391751802884608,
+          "height": 0.34825278106508867
+        }
+      ],
+      "previous_candidate_id": "bbox-000068cc23--6afc1af9dcaea54299dff2b0-760791732",
+      "before_boxes": [
+        {
+          "left": 0.128936767578125,
+          "top": 0.425,
+          "width": 0.21026611328125,
+          "height": 0.195,
+          "shape": "rectangle"
+        },
+        {
+          "left": 0.46417236328125,
+          "top": 0.395,
+          "width": 0.228118896484375,
+          "height": 0.30499999999999994,
+          "shape": "rectangle"
+        }
+      ],
+      "correction_actor": "Codex-assisted visual proposal, not an independent human vote",
+      "correction_reason": "Include visible antennae/legs and visible crop boundary; preserve original coverage",
+      "verification": "pending two independent crowd reviews",
+      "votes": [
+        {
+          "worker_id": "d7210ff3934608d1832e94043b3e4977",
+          "assignment_id": "000068cc25--6afc331b39a60d5f684bc6e2",
+          "verdict": "OK",
+          "reason": null
+        },
+        {
+          "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+          "assignment_id": "000068cc25--6afc33297d0c013411725be9",
+          "verdict": "BAD",
+          "reason": "bounds"
+        }
+      ],
+      "decision": "manual_adjudication"
+    },
+    {
+      "photo_id": 756643869,
+      "assignment_id": "000068cc23--6afc1ac512cf5948122cc6eb",
+      "author_id": "661745669e60a375202137c8056e269b",
+      "source_output": {
+        "status": "PRESENT",
+        "boxes": [
+          {
+            "shape": "rectangle",
+            "left": 0.10278688524590164,
+            "top": 0.0975,
+            "width": 0.8254098360655738,
+            "height": 0.7024999999999999
+          }
+        ]
+      },
+      "candidate_id": "bbox-000068cc23--6afc1ac512cf5948122cc6eb-756643869-v2",
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.039589397885705535,
+          "top": 0.0897196261682243,
+          "width": 0.8895970583729125,
+          "height": 0.7140186915887852
+        }
+      ],
+      "previous_candidate_id": "bbox-000068cc23--6afc1ac512cf5948122cc6eb-756643869",
+      "before_boxes": [
+        {
+          "left": 0.10278688524590164,
+          "top": 0.0975,
+          "width": 0.8254098360655738,
+          "height": 0.7024999999999999,
+          "shape": "rectangle"
+        }
+      ],
+      "correction_actor": "Codex-assisted visual proposal, not an independent human vote",
+      "correction_reason": "Include visible antennae/legs and visible crop boundary; preserve original coverage",
+      "verification": "pending two independent crowd reviews",
+      "votes": [
+        {
+          "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+          "assignment_id": "000068cc25--6afc330b6acf942b903e4074",
+          "verdict": "OK",
+          "reason": null
+        },
+        {
+          "worker_id": "d7210ff3934608d1832e94043b3e4977",
+          "assignment_id": "000068cc25--6afc330cfca5f6458f547578",
+          "verdict": "OK",
+          "reason": null
+        }
+      ],
+      "decision": "accepted_pending_audit"
+    },
+    {
+      "photo_id": 760796882,
+      "assignment_id": "000068cc23--6afc1aa13f75ec3186166a74",
+      "author_id": "661745669e60a375202137c8056e269b",
+      "source_output": {
+        "status": "PRESENT",
+        "boxes": [
+          {
+            "shape": "rectangle",
+            "left": 0.504375,
+            "top": 0.36749999999999994,
+            "width": 0.07499999999999996,
+            "height": 0.11000000000000004
+          }
+        ]
+      },
+      "candidate_id": "bbox-000068cc23--6afc1aa13f75ec3186166a74-760796882-v2",
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.49874324620327104,
+          "top": 0.3577638239875389,
+          "width": 0.08146265332943925,
+          "height": 0.1197928835669782
+        }
+      ],
+      "previous_candidate_id": "bbox-000068cc23--6afc1aa13f75ec3186166a74-760796882",
+      "before_boxes": [
+        {
+          "left": 0.504375,
+          "top": 0.36749999999999994,
+          "width": 0.07499999999999996,
+          "height": 0.11000000000000004,
+          "shape": "rectangle"
+        }
+      ],
+      "correction_actor": "Codex-assisted visual proposal, not an independent human vote",
+      "correction_reason": "Include visible antennae/legs and visible crop boundary; preserve original coverage",
+      "verification": "pending two independent crowd reviews",
+      "votes": [
+        {
+          "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+          "assignment_id": "000068cc25--6afc330b6acf942b903e4074",
+          "verdict": "BAD",
+          "reason": "bounds"
+        },
+        {
+          "worker_id": "d7210ff3934608d1832e94043b3e4977",
+          "assignment_id": "000068cc25--6afc330cfca5f6458f547578",
+          "verdict": "OK",
+          "reason": null
+        }
+      ],
+      "decision": "manual_adjudication"
+    },
+    {
+      "photo_id": 761748011,
+      "assignment_id": "000068cc23--6afc1abc0e6072633711c3c8",
+      "author_id": "661745669e60a375202137c8056e269b",
+      "source_output": {
+        "status": "PRESENT",
+        "boxes": [
+          {
+            "shape": "rectangle",
+            "left": 0.43201910226776863,
+            "top": 0.40662923742483037,
+            "width": 0.17174498681600026,
+            "height": 0.07293988897908443
+          }
+        ]
+      },
+      "candidate_id": "bbox-000068cc23--6afc1abc0e6072633711c3c8-761748011-v2",
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.42289863782051285,
+          "top": 0.39430138221153843,
+          "width": 0.1826282051282051,
+          "height": 0.10769230769230775
+        }
+      ],
+      "previous_candidate_id": "bbox-000068cc23--6afc1abc0e6072633711c3c8-761748011",
+      "before_boxes": [
+        {
+          "left": 0.43201910226776863,
+          "top": 0.40662923742483037,
+          "width": 0.17174498681600026,
+          "height": 0.07293988897908443,
+          "shape": "rectangle"
+        }
+      ],
+      "correction_actor": "Codex-assisted visual proposal, not an independent human vote",
+      "correction_reason": "Include visible antennae/legs and visible crop boundary; preserve original coverage",
+      "verification": "pending two independent crowd reviews",
+      "votes": [
+        {
+          "worker_id": "d7210ff3934608d1832e94043b3e4977",
+          "assignment_id": "000068cc25--6afc33234717e736e4a96de2",
+          "verdict": "OK",
+          "reason": null
+        },
+        {
+          "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+          "assignment_id": "000068cc25--6afc3347cfe9a32683c80a4a",
+          "verdict": "OK",
+          "reason": null
+        }
+      ],
+      "decision": "accepted_pending_audit"
+    },
+    {
+      "photo_id": 757587001,
+      "assignment_id": "000068cc23--6afc1b0755749e1cbb48e5bb",
+      "author_id": "661745669e60a375202137c8056e269b",
+      "source_output": {
+        "status": "PRESENT",
+        "boxes": [
+          {
+            "shape": "rectangle",
+            "left": 0.3747119140625,
+            "top": 0.25,
+            "width": 0.18312988281250003,
+            "height": 0.33499999999999996
+          }
+        ]
+      },
+      "candidate_id": "bbox-000068cc23--6afc1b0755749e1cbb48e5bb-757587001-v2",
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.3741074036214953,
+          "top": 0.24006219731450137,
+          "width": 0.22426073306074767,
+          "height": 0.34904355431736833
+        }
+      ],
+      "previous_candidate_id": "bbox-000068cc23--6afc1b0755749e1cbb48e5bb-757587001",
+      "before_boxes": [
+        {
+          "left": 0.3747119140625,
+          "top": 0.25,
+          "width": 0.18312988281250003,
+          "height": 0.33499999999999996,
+          "shape": "rectangle"
+        }
+      ],
+      "correction_actor": "Codex-assisted visual proposal, not an independent human vote",
+      "correction_reason": "Include visible antennae/legs and visible crop boundary; preserve original coverage",
+      "verification": "pending two independent crowd reviews",
+      "votes": [
+        {
+          "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+          "assignment_id": "000068cc25--6afc330b6acf942b903e4074",
+          "verdict": "OK",
+          "reason": null
+        },
+        {
+          "worker_id": "d7210ff3934608d1832e94043b3e4977",
+          "assignment_id": "000068cc25--6afc330cfca5f6458f547578",
+          "verdict": "OK",
+          "reason": null
+        }
+      ],
+      "decision": "accepted_pending_audit"
+    },
+    {
+      "photo_id": 758917904,
+      "assignment_id": "000068cc23--6afc1cfd0e60726337122541",
+      "author_id": "661745669e60a375202137c8056e269b",
+      "source_output": {
+        "status": "PRESENT",
+        "boxes": [
+          {
+            "shape": "rectangle",
+            "left": 0.303996875,
+            "top": 0.365,
+            "width": 0.12861406250000001,
+            "height": 0.25749999999999995
+          },
+          {
+            "shape": "rectangle",
+            "left": 0.46768750000000003,
+            "top": 0.36000000000000004,
+            "width": 0.16035,
+            "height": 0.2675
+          }
+        ]
+      },
+      "candidate_id": "bbox-000068cc23--6afc1cfd0e60726337122541-758917904-v3",
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.3025,
+          "top": 0.35547240411599623,
+          "width": 0.16625,
+          "height": 0.27595884003741816
+        },
+        {
+          "shape": "rectangle",
+          "left": 0.460625,
+          "top": 0.35360149672591207,
+          "width": 0.220625,
+          "height": 0.30121608980355474
+        }
+      ],
+      "previous_candidate_id": "bbox-000068cc23--6afc1cfd0e60726337122541-758917904-v2",
+      "before_boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.3036423076923077,
+          "top": 0.35959991365042815,
+          "width": 0.14586923076923075,
+          "height": 0.30844930560552647
+        },
+        {
+          "shape": "rectangle",
+          "left": 0.465625,
+          "top": 0.35959991365042815,
+          "width": 0.18318461538461545,
+          "height": 0.2957559185435705
+        }
+      ],
+      "correction_actor": "Codex-assisted visual proposal, not an independent human vote",
+      "correction_reason": "Resolve second-review bounds objection using full source image and pixel grid, including antenna tips and visible legs",
+      "verification": "pending two independent crowd reviews",
+      "source_pixel_bounds": [
+        [
+          484,
+          380,
+          750,
+          675
+        ],
+        [
+          737,
+          378,
+          1090,
+          700
+        ]
+      ],
+      "votes": [
+        {
+          "worker_id": "1acbf2b496203938edc48507e195a182",
+          "assignment_id": "000068cc25--6afc403dfca5f6458f56c850",
+          "verdict": "OK",
+          "reason": null
+        },
+        {
+          "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+          "assignment_id": "000068cc25--6afc41ae39a60d5f684e54e8",
+          "verdict": "OK",
+          "reason": null
+        }
+      ],
+      "decision": "accepted_pending_audit"
+    },
+    {
+      "photo_id": 757654021,
+      "assignment_id": "000068cc23--6afc1a8f0e6072633711bca3",
+      "author_id": "661745669e60a375202137c8056e269b",
+      "source_output": {
+        "status": "PRESENT",
+        "boxes": [
+          {
+            "shape": "rectangle",
+            "left": 0.4366666666666667,
+            "top": 0.0225,
+            "width": 0.56,
+            "height": 0.45999999999999996
+          }
+        ]
+      },
+      "candidate_id": "bbox-000068cc23--6afc1a8f0e6072633711bca3-757654021-v3",
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.2766927083333333,
+          "top": 0.0185546875,
+          "width": 0.7233072916666666,
+          "height": 0.47705078125
+        }
+      ],
+      "previous_candidate_id": "bbox-000068cc23--6afc1a8f0e6072633711bca3-757654021-v2",
+      "before_boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.4261426693925234,
+          "top": 0.020433885806074765,
+          "width": 0.5705239972741434,
+          "height": 0.4651714004088785
+        }
+      ],
+      "correction_actor": "Codex-assisted visual proposal, not an independent human vote",
+      "correction_reason": "Resolve second-review bounds objection using full source image and pixel grid, including antenna tips and visible legs",
+      "verification": "pending two independent crowd reviews",
+      "source_pixel_bounds": [
+        [
+          425,
+          38,
+          1536,
+          1015
+        ]
+      ],
+      "votes": [
+        {
+          "worker_id": "1acbf2b496203938edc48507e195a182",
+          "assignment_id": "000068cc25--6afc408c4717e736e4ab9ded",
+          "verdict": "BAD",
+          "reason": "bounds"
+        },
+        {
+          "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+          "assignment_id": "000068cc25--6afc41582a37550c2c8ecd1b",
+          "verdict": "OK",
+          "reason": null
+        },
+        {
+          "worker_id": "2fd76171d25fbb711b5b8fd321a88a61",
+          "assignment_id": "000068cc25--6afc4f6f05a3672b2012065c",
+          "verdict": "OK",
+          "reason": null
+        }
+      ],
+      "decision": "manual_adjudication"
+    },
+    {
+      "photo_id": 760354817,
+      "assignment_id": "000068cc23--6afc1a96dcaea54299dfe3be",
+      "author_id": "661745669e60a375202137c8056e269b",
+      "source_output": {
+        "status": "PRESENT",
+        "boxes": [
+          {
+            "shape": "rectangle",
+            "left": 0.3993824110671937,
+            "top": 0.1325,
+            "width": 0.3923344861660079,
+            "height": 0.5249999999999999
+          },
+          {
+            "shape": "rectangle",
+            "left": 0.3993824110671937,
+            "top": 0.29500000000000004,
+            "width": 0.41347826086956524,
+            "height": 0.52
+          }
+        ]
+      },
+      "candidate_id": "bbox-000068cc23--6afc1a96dcaea54299dfe3be-760354817-v3",
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.274703557312253,
+          "top": 0.0,
+          "width": 0.541501976284585,
+          "height": 0.668769716088328
+        },
+        {
+          "shape": "rectangle",
+          "left": 0.31620553359683795,
+          "top": 0.2902208201892745,
+          "width": 0.5029644268774703,
+          "height": 0.7013669821240799
+        }
+      ],
+      "previous_candidate_id": "bbox-000068cc23--6afc1a96dcaea54299dfe3be-760354817-v2",
+      "before_boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.30489084259909127,
+          "top": 0.10093457943925233,
+          "width": 0.509382734291308,
+          "height": 0.5607476635514018
+        },
+        {
+          "shape": "rectangle",
+          "left": 0.38217649883639315,
+          "top": 0.29158878504672897,
+          "width": 0.43736655461564033,
+          "height": 0.6990654205607476
+        }
+      ],
+      "correction_actor": "Codex-assisted visual proposal, not an independent human vote",
+      "correction_reason": "Resolve second-review bounds objection using full source image and pixel grid, including antenna tips and visible legs",
+      "verification": "pending two independent crowd reviews",
+      "source_pixel_bounds": [
+        [
+          278,
+          0,
+          826,
+          636
+        ],
+        [
+          320,
+          276,
+          829,
+          943
+        ]
+      ],
+      "votes": [
+        {
+          "worker_id": "1acbf2b496203938edc48507e195a182",
+          "assignment_id": "000068cc25--6afc408c4717e736e4ab9ded",
+          "verdict": "BAD",
+          "reason": "bounds"
+        },
+        {
+          "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+          "assignment_id": "000068cc25--6afc41582a37550c2c8ecd1b",
+          "verdict": "OK",
+          "reason": null
+        },
+        {
+          "worker_id": "2fd76171d25fbb711b5b8fd321a88a61",
+          "assignment_id": "000068cc25--6afc4f6f05a3672b2012065c",
+          "verdict": "BAD",
+          "reason": "bounds"
+        }
+      ],
+      "decision": "manual_adjudication"
+    },
+    {
+      "photo_id": 760791732,
+      "assignment_id": "000068cc23--6afc1af9dcaea54299dff2b0",
+      "author_id": "661745669e60a375202137c8056e269b",
+      "source_output": {
+        "status": "PRESENT",
+        "boxes": [
+          {
+            "shape": "rectangle",
+            "left": 0.128936767578125,
+            "top": 0.425,
+            "width": 0.21026611328125,
+            "height": 0.195
+          },
+          {
+            "shape": "rectangle",
+            "left": 0.46417236328125,
+            "top": 0.395,
+            "width": 0.228118896484375,
+            "height": 0.30499999999999994
+          }
+        ]
+      },
+      "candidate_id": "bbox-000068cc23--6afc1af9dcaea54299dff2b0-760791732-v3",
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.12939453125,
+          "top": 0.3169230769230769,
+          "width": 0.21923828125,
+          "height": 0.304
+        },
+        {
+          "shape": "rectangle",
+          "left": 0.4609375,
+          "top": 0.3169230769230769,
+          "width": 0.23681640625,
+          "height": 0.38769230769230767
+        }
+      ],
+      "previous_candidate_id": "bbox-000068cc23--6afc1af9dcaea54299dff2b0-760791732-v2",
+      "before_boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.1258503605769231,
+          "top": 0.3742011834319527,
+          "width": 0.22297400841346152,
+          "height": 0.24653538461538466
+        },
+        {
+          "shape": "rectangle",
+          "left": 0.4637312199519231,
+          "top": 0.35523692307692306,
+          "width": 0.23391751802884608,
+          "height": 0.34825278106508867
+        }
+      ],
+      "correction_actor": "Codex-assisted visual proposal, not an independent human vote",
+      "correction_reason": "Resolve second-review bounds objection using full source image and pixel grid, including antenna tips and visible legs",
+      "verification": "pending two independent crowd reviews",
+      "source_pixel_bounds": [
+        [
+          265,
+          515,
+          714,
+          1009
+        ],
+        [
+          944,
+          515,
+          1429,
+          1145
+        ]
+      ],
+      "votes": [
+        {
+          "worker_id": "1acbf2b496203938edc48507e195a182",
+          "assignment_id": "000068cc25--6afc403dfca5f6458f56c850",
+          "verdict": "OK",
+          "reason": null
+        },
+        {
+          "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+          "assignment_id": "000068cc25--6afc41ae39a60d5f684e54e8",
+          "verdict": "OK",
+          "reason": null
+        }
+      ],
+      "decision": "accepted_pending_audit"
+    },
+    {
+      "photo_id": 760796882,
+      "assignment_id": "000068cc23--6afc1aa13f75ec3186166a74",
+      "author_id": "661745669e60a375202137c8056e269b",
+      "source_output": {
+        "status": "PRESENT",
+        "boxes": [
+          {
+            "shape": "rectangle",
+            "left": 0.504375,
+            "top": 0.36749999999999994,
+            "width": 0.07499999999999996,
+            "height": 0.11000000000000004
+          }
+        ]
+      },
+      "candidate_id": "bbox-000068cc23--6afc1aa13f75ec3186166a74-760796882-v3",
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.498046875,
+          "top": 0.3352864583333333,
+          "width": 0.0830078125,
+          "height": 0.142578125
+        }
+      ],
+      "previous_candidate_id": "bbox-000068cc23--6afc1aa13f75ec3186166a74-760796882-v2",
+      "before_boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.49874324620327104,
+          "top": 0.3577638239875389,
+          "width": 0.08146265332943925,
+          "height": 0.1197928835669782
+        }
+      ],
+      "correction_actor": "Codex-assisted visual proposal, not an independent human vote",
+      "correction_reason": "Resolve second-review bounds objection using full source image and pixel grid, including antenna tips and visible legs",
+      "verification": "pending two independent crowd reviews",
+      "source_pixel_bounds": [
+        [
+          1020,
+          515,
+          1190,
+          734
+        ]
+      ],
+      "votes": [
+        {
+          "worker_id": "1acbf2b496203938edc48507e195a182",
+          "assignment_id": "000068cc25--6afc408c4717e736e4ab9ded",
+          "verdict": "OK",
+          "reason": null
+        },
+        {
+          "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+          "assignment_id": "000068cc25--6afc41582a37550c2c8ecd1b",
+          "verdict": "BAD",
+          "reason": "bounds"
+        },
+        {
+          "worker_id": "2fd76171d25fbb711b5b8fd321a88a61",
+          "assignment_id": "000068cc25--6afc4f6f05a3672b2012065c",
+          "verdict": "OK",
+          "reason": null
+        }
+      ],
+      "decision": "manual_adjudication"
+    },
+    {
+      "photo_id": 757225205,
+      "assignment_id": "000068cc23--6afc1ae155749e1cbb48e09c",
+      "author_id": "661745669e60a375202137c8056e269b",
+      "source_output": {
+        "status": "PRESENT",
+        "boxes": [
+          {
+            "shape": "rectangle",
+            "left": 0.33666666666666667,
+            "top": 0.3225,
+            "width": 0.22333333333333327,
+            "height": 0.1975
+          }
+        ]
+      },
+      "candidate_id": "bbox-000068cc23--6afc1ae155749e1cbb48e09c-757225205-v3",
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.3307291666666667,
+          "top": 0.3154296875,
+          "width": 0.3333333333333333,
+          "height": 0.1875
+        }
+      ],
+      "previous_candidate_id": "bbox-000068cc23--6afc1ae155749e1cbb48e09c-757225205-v2",
+      "before_boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.33465123637071653,
+          "top": 0.316349664135514,
+          "width": 0.24363317757009345,
+          "height": 0.20470210280373824
+        }
+      ],
+      "correction_actor": "Codex-assisted visual proposal, not an independent human vote",
+      "correction_reason": "Resolve second-review bounds objection using full source image, including visible antenna tips and legs",
+      "verification": "pending two independent crowd reviews",
+      "source_pixel_bounds": [
+        [
+          508,
+          646,
+          1020,
+          1030
+        ]
+      ],
+      "votes": [
+        {
+          "worker_id": "1acbf2b496203938edc48507e195a182",
+          "assignment_id": "000068cc25--6afc408c4717e736e4ab9ded",
+          "verdict": "OK",
+          "reason": null
+        },
+        {
+          "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+          "assignment_id": "000068cc25--6afc41582a37550c2c8ecd1b",
+          "verdict": "OK",
+          "reason": null
+        }
+      ],
+      "decision": "accepted_pending_audit"
+    },
+    {
+      "photo_id": 760796888,
+      "assignment_id": "000068cc23--6afc1aaf12cf5948122cc323",
+      "author_id": "661745669e60a375202137c8056e269b",
+      "source_output": {
+        "status": "PRESENT",
+        "boxes": [
+          {
+            "shape": "rectangle",
+            "left": 0.3828975265017668,
+            "top": 0.36,
+            "width": 0.28261484098939915,
+            "height": 0.3275
+          }
+        ]
+      },
+      "candidate_id": "bbox-000068cc23--6afc1aaf12cf5948122cc323-760796888-v3",
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.30918727915194344,
+          "top": 0.3536821705426357,
+          "width": 0.357773851590106,
+          "height": 0.32848837209302323
+        }
+      ],
+      "previous_candidate_id": "bbox-000068cc23--6afc1aaf12cf5948122cc323-760796888-v2",
+      "before_boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.32906277864007133,
+          "top": 0.3563953488372093,
+          "width": 0.33646511013506825,
+          "height": 0.3316416721002681
+        }
+      ],
+      "correction_actor": "Codex-assisted visual proposal, not an independent human vote",
+      "correction_reason": "Resolve second-review bounds objection using full source image, including visible antenna tips and legs",
+      "verification": "pending two independent crowd reviews",
+      "source_pixel_bounds": [
+        [
+          350,
+          365,
+          755,
+          704
+        ]
+      ],
+      "votes": [
+        {
+          "worker_id": "1acbf2b496203938edc48507e195a182",
+          "assignment_id": "000068cc25--6afc403dfca5f6458f56c850",
+          "verdict": "OK",
+          "reason": null
+        },
+        {
+          "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+          "assignment_id": "000068cc25--6afc41ae39a60d5f684e54e8",
+          "verdict": "OK",
+          "reason": null
+        }
+      ],
+      "decision": "accepted_pending_audit"
+    },
+    {
+      "photo_id": 760354817,
+      "assignment_id": "000068cc23--6afc1a96dcaea54299dfe3be",
+      "author_id": "661745669e60a375202137c8056e269b",
+      "source_output": {
+        "status": "PRESENT",
+        "boxes": [
+          {
+            "shape": "rectangle",
+            "left": 0.3993824110671937,
+            "top": 0.1325,
+            "width": 0.3923344861660079,
+            "height": 0.5249999999999999
+          },
+          {
+            "shape": "rectangle",
+            "left": 0.3993824110671937,
+            "top": 0.29500000000000004,
+            "width": 0.41347826086956524,
+            "height": 0.52
+          }
+        ]
+      },
+      "candidate_id": "bbox-000068cc23--6afc1a96dcaea54299dfe3be-760354817-v4",
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.274703557312253,
+          "top": 0.0,
+          "width": 0.49604743083003955,
+          "height": 0.6603575184016824
+        },
+        {
+          "shape": "rectangle",
+          "left": 0.3241106719367589,
+          "top": 0.31230283911671924,
+          "width": 0.4881422924901186,
+          "height": 0.6792849631966351
+        }
+      ],
+      "previous_candidate_id": "bbox-000068cc23--6afc1a96dcaea54299dfe3be-760354817-v3",
+      "before_boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.274703557312253,
+          "top": 0.0,
+          "width": 0.541501976284585,
+          "height": 0.668769716088328
+        },
+        {
+          "shape": "rectangle",
+          "left": 0.31620553359683795,
+          "top": 0.2902208201892745,
+          "width": 0.5029644268774703,
+          "height": 0.7013669821240799
+        }
+      ],
+      "correction_actor": "Codex-assisted visual proposal, not an independent human vote",
+      "correction_reason": "Full-source90degree inspection and neighboring views separate wing ownership. A excludes the far forewing of B; B begins at its own upper wingtip. Original frame unchanged.",
+      "verification": "pending two independent reviews",
+      "source_pixel_bounds": [
+        [
+          278,
+          0,
+          780,
+          628
+        ],
+        [
+          328,
+          297,
+          822,
+          943
+        ]
+      ],
+      "votes": [
+        {
+          "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+          "assignment_id": "000068cc25--6afc54373537ac5dbb2e5787",
+          "verdict": "OK",
+          "reason": null
+        },
+        {
+          "worker_id": "1acbf2b496203938edc48507e195a182",
+          "assignment_id": "000068cc25--6afc54cffe68256bfdafc632",
+          "verdict": "OK",
+          "reason": null
+        }
+      ],
+      "decision": "accepted_pending_audit"
+    }
+  ],
+  "counts": {
+    "accepted_pending_audit": 24,
+    "manual_adjudication": 19
+  },
+  "controls": [
+    {
+      "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+      "assignment_id": "000068cc25--6afc306e2a37550c2c8bfdd6",
+      "verdict": "BAD",
+      "reason": "missing",
+      "candidate_id": "hp_2-756897984-bad",
+      "correct": true
+    },
+    {
+      "worker_id": "d7210ff3934608d1832e94043b3e4977",
+      "assignment_id": "000068cc25--6afc30714e7c57589948d1ec",
+      "verdict": "OK",
+      "reason": null,
+      "candidate_id": "hp_2-756897844-ok",
+      "correct": true
+    },
+    {
+      "worker_id": "d7210ff3934608d1832e94043b3e4977",
+      "assignment_id": "000068cc25--6afc307f2a37550c2c8c00cf",
+      "verdict": "BAD",
+      "reason": "missing",
+      "candidate_id": "hp_2-756897984-bad",
+      "correct": true
+    },
+    {
+      "worker_id": "d7210ff3934608d1832e94043b3e4977",
+      "assignment_id": "000068cc25--6afc308c2a37550c2c8c0278",
+      "verdict": "OK",
+      "reason": null,
+      "candidate_id": "hp_2-756893291-bad",
+      "correct": false
+    },
+    {
+      "worker_id": "1acbf2b496203938edc48507e195a182",
+      "assignment_id": "000068cc25--6afc3092fca5f6458f54098c",
+      "verdict": "OK",
+      "reason": null,
+      "candidate_id": "hp_2-756897844-ok",
+      "correct": true
+    },
+    {
+      "worker_id": "d7210ff3934608d1832e94043b3e4977",
+      "assignment_id": "000068cc25--6afc3099efe38c64f711f5db",
+      "verdict": "OK",
+      "reason": null,
+      "candidate_id": "hp_2-756898933-ok",
+      "correct": true
+    },
+    {
+      "worker_id": "d7210ff3934608d1832e94043b3e4977",
+      "assignment_id": "000068cc25--6afc30a26acf942b903ddbff",
+      "verdict": "OK",
+      "reason": null,
+      "candidate_id": "hp_2-756855073-ok",
+      "correct": true
+    },
+    {
+      "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+      "assignment_id": "000068cc25--6afc30c22a37550c2c8c0b0d",
+      "verdict": "OK",
+      "reason": null,
+      "candidate_id": "hp_2-756855073-ok",
+      "correct": true
+    },
+    {
+      "worker_id": "1acbf2b496203938edc48507e195a182",
+      "assignment_id": "000068cc25--6afc30e2fca5f6458f541649",
+      "verdict": "OK",
+      "reason": null,
+      "candidate_id": "hp_2-756893291-bad",
+      "correct": false
+    },
+    {
+      "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+      "assignment_id": "000068cc25--6afc30f2fca5f6458f541970",
+      "verdict": "OK",
+      "reason": null,
+      "candidate_id": "hp_2-756898933-ok",
+      "correct": true
+    },
+    {
+      "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+      "assignment_id": "000068cc25--6afc32e14e7c575899493d54",
+      "verdict": "OK",
+      "reason": null,
+      "candidate_id": "hp_2-761378251-ok",
+      "correct": true
+    },
+    {
+      "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+      "assignment_id": "000068cc25--6afc330b6acf942b903e4074",
+      "verdict": "BAD",
+      "reason": "missing",
+      "candidate_id": "hp_2-758775014-bad",
+      "correct": true
+    },
+    {
+      "worker_id": "d7210ff3934608d1832e94043b3e4977",
+      "assignment_id": "000068cc25--6afc330cfca5f6458f547578",
+      "verdict": "BAD",
+      "reason": "missing",
+      "candidate_id": "hp_2-758775014-bad",
+      "correct": true
+    },
+    {
+      "worker_id": "1acbf2b496203938edc48507e195a182",
+      "assignment_id": "000068cc25--6afc330e4717e736e4a96a91",
+      "verdict": "OK",
+      "reason": null,
+      "candidate_id": "hp_2-761378251-ok",
+      "correct": true
+    },
+    {
+      "worker_id": "d7210ff3934608d1832e94043b3e4977",
+      "assignment_id": "000068cc25--6afc331b39a60d5f684bc6e2",
+      "verdict": "BAD",
+      "reason": "missing",
+      "candidate_id": "hp_2-759008366-bad",
+      "correct": true
+    },
+    {
+      "worker_id": "d7210ff3934608d1832e94043b3e4977",
+      "assignment_id": "000068cc25--6afc33234717e736e4a96de2",
+      "verdict": "OK",
+      "reason": null,
+      "candidate_id": "hp_2-761377537-ok",
+      "correct": true
+    },
+    {
+      "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+      "assignment_id": "000068cc25--6afc33297d0c013411725be9",
+      "verdict": "BAD",
+      "reason": "missing",
+      "candidate_id": "hp_2-759008366-bad",
+      "correct": true
+    },
+    {
+      "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+      "assignment_id": "000068cc25--6afc3347cfe9a32683c80a4a",
+      "verdict": "OK",
+      "reason": null,
+      "candidate_id": "hp_2-761377537-ok",
+      "correct": true
+    },
+    {
+      "worker_id": "1acbf2b496203938edc48507e195a182",
+      "assignment_id": "000068cc25--6afc403dfca5f6458f56c850",
+      "verdict": "BAD",
+      "reason": "missing",
+      "candidate_id": "hp_2-759663494-bad",
+      "correct": true
+    },
+    {
+      "worker_id": "1acbf2b496203938edc48507e195a182",
+      "assignment_id": "000068cc25--6afc408c4717e736e4ab9ded",
+      "verdict": "OK",
+      "reason": null,
+      "candidate_id": "hp_2-761517682-ok",
+      "correct": true
+    },
+    {
+      "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+      "assignment_id": "000068cc25--6afc41582a37550c2c8ecd1b",
+      "verdict": "OK",
+      "reason": null,
+      "candidate_id": "hp_2-761517682-ok",
+      "correct": true
+    },
+    {
+      "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+      "assignment_id": "000068cc25--6afc41ae39a60d5f684e54e8",
+      "verdict": "BAD",
+      "reason": "missing",
+      "candidate_id": "hp_2-759663494-bad",
+      "correct": true
+    },
+    {
+      "worker_id": "2fd76171d25fbb711b5b8fd321a88a61",
+      "assignment_id": "000068cc25--6afc4f6f05a3672b2012065c",
+      "verdict": "OK",
+      "reason": null,
+      "candidate_id": "hp_2-761517690-ok",
+      "correct": true
+    },
+    {
+      "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+      "assignment_id": "000068cc25--6afc54373537ac5dbb2e5787",
+      "verdict": "OK",
+      "reason": null,
+      "candidate_id": "hp_2-758048954-ok",
+      "correct": true
+    },
+    {
+      "worker_id": "1acbf2b496203938edc48507e195a182",
+      "assignment_id": "000068cc25--6afc54cffe68256bfdafc632",
+      "verdict": "BAD",
+      "reason": "bounds",
+      "candidate_id": "hp_2-758048954-ok",
+      "correct": false
+    }
+  ],
+  "control_summary": [
+    {
+      "worker_id": "1acbf2b496203938edc48507e195a182",
+      "controls": 6,
+      "wrong": 2,
+      "requires_vote_audit": true
+    },
+    {
+      "worker_id": "2fd76171d25fbb711b5b8fd321a88a61",
+      "controls": 1,
+      "wrong": 0,
+      "requires_vote_audit": false
+    },
+    {
+      "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+      "controls": 10,
+      "wrong": 0,
+      "requires_vote_audit": false
+    },
+    {
+      "worker_id": "d7210ff3934608d1832e94043b3e4977",
+      "controls": 8,
+      "wrong": 1,
+      "requires_vote_audit": true
+    }
+  ],
+  "excluded": []
+}

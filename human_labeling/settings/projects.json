@@ -1,0 +1,186 @@
+{
+  "at": "2026-11-17T18:45:52.751Z",
+  "projects": [
+    {
+      "id": "11855",
+      "public_name": "Бабочки: выделение рамок",
+      "public_description": "Найдите всех взрослых бабочек, включая ночных и моль, и выделите каждую рамкой.",
+      "public_instructions": "<div style=\"max-width:1000px\"><h2>Что считаем бабочкой</h2><p>Размечаем взрослых дневных и ночных бабочек, включая моль и бражников. Не нужно различать их между собой. Жуков, мух, стрекоз, гусениц, куколок, тени и останки не размечаем. Если непонятно, можно ли назвать объект бабочкой, выберите «Не могу определить».</p><ol><li>Каждая бабочка — отдельная прямоугольная рамка, даже при перекрытии.</li><li>Плотно охватите все видимые части: крылья, тело, усики и лапки.</li><li>Для перекрытого или обрезанного объекта выделяйте видимую часть. Скрытые части не дорисовывайте.</li><li>Просмотрите весь кадр: бабочек может быть несколько, они могут быть маленькими.</li></ol><h2>Как ответить</h2><p>Выберите «Разметил», затем укажите два противоположных угла каждой рамки двумя щелчками. Перетаскивание двигает изображение. Нарисуйте рамки и выберите «Разметил». Если бабочек нет, выберите «Бабочек нет». Для неразличимого объекта — «Не могу определить». Если картинка не открылась после повторной загрузки — «Не загрузилось». Последние два ответа не означают отсутствие бабочек.</p><p>Увеличивайте изображение при работе с маленькими объектами. Ошибочную рамку удалите. Горячие клавиши ответа: 1 — разметил, 2 — бабочек нет, 3 — не могу определить, 4 — не загрузилось.</p><p><strong>Важно: перед ответом увеличьте изображение и проверьте кончики усиков и лапок. Рамка только вокруг крыльев может обрезать видимые части бабочки.</strong></p><h2>Тонкие хвостики крыльев</h2><p>У некоторых бабочек есть тонкие хвостики на крыльях. Они тоже должны быть внутри рамки. На этом фото бабочка сидит головой вниз: выступы сверху — часть крыла, а длинные усики находятся снизу.</p><img style=\"max-width:100%\" src=\"https://drive.google.com/thumbnail?id&#61;1_Nw9LRh5N2t1y-kOPrsVYutGptn3I4UX&amp;sz&#61;w8192\" /><h2>Похожее насекомое — не бабочка</h2><p><strong>Аскалафы (Ululodes) и другие сетчатокрылые не относятся к бабочкам. Их не выделяем; пустая разметка такого кадра правильна, если других бабочек нет.</strong> На примере ниже видны длинное брюшко и прозрачные крылья с густой сеткой жилок. Сравнивайте совокупность признаков с примером. Одна прозрачность крыльев не исключает бабочку: у некоторых настоящих бабочек крылья тоже прозрачные. Ночные бабочки, моль и бражники по-прежнему включены.</p><img style=\"max-width:100%;max-height:650px\" src=\"https://drive.google.com/thumbnail?id&#61;1GVhcva5rfJmaQjx6a61ka_1r3ILFBiHj&amp;sz&#61;w8192\" /><h2>Примеры</h2><p>Одна бабочка: отдельная рамка по всем видимым частям.</p><img style=\"max-width:100%;max-height:650px\" src=\"https://drive.google.com/thumbnail?id&#61;1pLQZksS5Nq5yDQgTloFK_bDuinFoPxbM&amp;sz&#61;w8192\" /><p>Две бабочки: две отдельные рамки.</p><img style=\"max-width:100%;max-height:650px\" src=\"https://drive.google.com/thumbnail?id&#61;1YsJCY522QowqgPFjops0FNs3Tr8nE2bw&amp;sz&#61;w8192\" /><p>Бабочка обрезана краем: выделяем только видимую часть.</p><img style=\"max-width:100%;max-height:650px\" src=\"https://drive.google.com/thumbnail?id&#61;1PUmj27FuifaHTVRlOhpzXOXfYJvVArRw&amp;sz&#61;w8192\" /><p>Перекрытие: рамка охватывает видимые части, скрытое не достраиваем.</p><img style=\"max-width:100%;max-height:650px\" src=\"https://drive.google.com/thumbnail?id&#61;1ypaaZsOb4L2j0JsalFWaOV7MUJ6l5ZSn&amp;sz&#61;w8192\" /><p>Бабочек нет: выбираем отдельный ответ, рамки не рисуем.</p><img style=\"max-width:100%;max-height:650px\" src=\"https://drive.google.com/thumbnail?id&#61;1ueVuuAOxFLimjNUMWOfy17Pgj-vd7xBA&amp;sz&#61;w8192\" /><p>Другое насекомое: не выделяем.</p><img style=\"max-width:100%;max-height:650px\" src=\"https://drive.google.com/thumbnail?id&#61;1IEM05_7wLfSvOR4gogNSP0WObRpQgG-z&amp;sz&#61;w8192\" /></div>",
+      "public_instructions_price": 0,
+      "private_comment": "Финальный проект ШАД-844. Цель — 400 рабочих фото. Поэтапно: экзамены, пилот, основной bbox и независимое review. Изображения Google Drive проверены; уточнение границ по аудиту пилота.",
+      "task_spec": {
+        "input_spec": {
+          "image": {
+            "type": "string",
+            "hidden": false,
+            "required": true
+          },
+          "photo_id": {
+            "type": "string",
+            "hidden": true,
+            "required": true
+          }
+        },
+        "output_spec": {
+          "boxes": {
+            "type": "array_json",
+            "hidden": false,
+            "required": false
+          },
+          "status": {
+            "type": "string",
+            "hidden": false,
+            "required": true,
+            "allowed_values": [
+              "PRESENT",
+              "ABSENT",
+              "UNCERTAIN",
+              "IMAGE_ERROR"
+            ]
+          }
+        },
+        "view_spec": {
+          "lock": {
+            "core": "1.16.51",
+            "helper.if": "1.0.0",
+            "view.list": "1.0.0",
+            "view.text": "1.0.0",
+            "action.set": "1.0.0",
+            "view.image": "1.0.0",
+            "action.bulk": "1.0.0",
+            "condition.not": "1.0.0",
+            "plugin.toloka": "1.0.0",
+            "plugin.hotkeys": "1.0.0",
+            "plugin.trigger": "1.0.0",
+            "condition.equals": "1.0.0",
+            "condition.required": "1.0.0",
+            "field.image-annotation": "1.0.0",
+            "field.button-radio-group": "1.0.0"
+          },
+          "type": "tb",
+          "config": "{\"view\": {\"type\": \"view.list\", \"items\": [{\"type\": \"view.text\", \"content\": \"Каждая бабочка — отдельная рамка. Включайте ВСЕ ВИДИМЫЕ усики, лапки и тонкие хвостики крыльев. Рамки только по основной части крыльев недостаточно. Моль и бражники включены. Аскалафы/Ululodes — другие насекомые: не выделяем. Смотрите отдельный пример в инструкции.\"}, {\"type\": \"field.button-radio-group\", \"label\": \"Выберите ответ\", \"data\": {\"type\": \"data.output\", \"path\": \"status\"}, \"options\": [{\"label\": \"Разметил\", \"value\": \"PRESENT\"}, {\"label\": \"Бабочек нет\", \"value\": \"ABSENT\"}, {\"label\": \"Не могу определить\", \"value\": \"UNCERTAIN\"}, {\"label\": \"Не загрузилось\", \"value\": \"IMAGE_ERROR\"}], \"validation\": {\"type\": \"condition.required\", \"hint\": \"Выберите ответ\"}}, {\"type\": \"helper.if\", \"condition\": {\"type\": \"condition.equals\", \"data\": {\"type\": \"data.output\", \"path\": \"status\"}, \"to\": \"PRESENT\"}, \"then\": {\"type\": \"field.image-annotation\", \"data\": {\"type\": \"data.output\", \"path\": \"boxes\"}, \"image\": {\"type\": \"data.input\", \"path\": \"image\"}, \"shapes\": {\"rectangle\": true, \"polygon\": false, \"point\": false}, \"fullHeight\": true, \"hint\": \"Плотная рамка на каждую бабочку. Моль и бражники тоже считаются.\", \"validation\": {\"type\": \"condition.required\", \"hint\": \"Выделите хотя бы одну бабочку или смените ответ\"}}, \"else\": {\"type\": \"view.image\", \"url\": {\"type\": \"data.input\", \"path\": \"image\"}, \"ratio\": [4, 3]}}]}, \"plugins\": [{\"type\": \"plugin.toloka\", \"layout\": {\"kind\": \"scroll\", \"taskWidth\": 900}}, {\"1\": {\"type\": \"action.set\", \"data\": {\"type\": \"data.output\", \"path\": \"status\"}, \"payload\": \"PRESENT\"}, \"2\": {\"type\": \"action.bulk\", \"payload\": [{\"type\": \"action.set\", \"data\": {\"type\": \"data.output\", \"path\": \"boxes\"}, \"payload\": []}, {\"type\": \"action.set\", \"data\": {\"type\": \"data.output\", \"path\": \"status\"}, \"payload\": \"ABSENT\"}]}, \"3\": {\"type\": \"action.bulk\", \"payload\": [{\"type\": \"action.set\", \"data\": {\"type\": \"data.output\", \"path\": \"boxes\"}, \"payload\": []}, {\"type\": \"action.set\", \"data\": {\"type\": \"data.output\", \"path\": \"status\"}, \"payload\": \"UNCERTAIN\"}]}, \"4\": {\"type\": \"action.bulk\", \"payload\": [{\"type\": \"action.set\", \"data\": {\"type\": \"data.output\", \"path\": \"boxes\"}, \"payload\": []}, {\"type\": \"action.set\", \"data\": {\"type\": \"data.output\", \"path\": \"status\"}, \"payload\": \"IMAGE_ERROR\"}]}, \"type\": \"plugin.hotkeys\"}, {\"type\": \"plugin.trigger\", \"onChangeOf\": {\"type\": \"data.output\", \"path\": \"status\"}, \"action\": {\"type\": \"helper.if\", \"condition\": {\"type\": \"condition.not\", \"condition\": {\"type\": \"condition.equals\", \"data\": {\"type\": \"data.output\", \"path\": \"status\"}, \"to\": \"PRESENT\"}}, \"then\": {\"type\": \"action.set\", \"data\": {\"type\": \"data.output\", \"path\": \"boxes\"}, \"payload\": []}, \"else\": {\"type\": \"action.set\", \"data\": {\"type\": \"data.internal\", \"path\": \"unchanged\"}, \"payload\": true}}}]}",
+          "settings": {
+            "showSkip": true,
+            "showTimer": true,
+            "showTitle": true,
+            "showFinish": true,
+            "showReward": true,
+            "showSubmit": true,
+            "showMessage": true,
+            "showFullscreen": true,
+            "showInstructions": true
+          },
+          "inputExample": null,
+          "inferDataSpec": false,
+          "localizationConfig": null
+        }
+      },
+      "assignments_issuing_type": "AUTOMATED",
+      "assignments_automerge_enabled": false,
+      "service_type": "UNDEFINED",
+      "project_types": [],
+      "content_types": [],
+      "owner": {
+        "id": "6d3003d8d453484fd8dd1800962440d7",
+        "myself": true,
+        "company_id": "151"
+      },
+      "status": "ACTIVE",
+      "created": "2026-11-17T00:22:35.581"
+    },
+    {
+      "id": "11856",
+      "public_name": "Бабочки: проверка выделенных рамок",
+      "public_description": "Найдите всех взрослых бабочек, включая ночных и моль, и проверьте предложенную разметку.",
+      "public_instructions": "<div style=\"max-width:1000px\"><h2>Что считаем бабочкой</h2><p>Размечаем взрослых дневных и ночных бабочек, включая моль и бражников. Не нужно различать их между собой. Жуков, мух, стрекоз, гусениц, куколок, тени и останки не размечаем. Если непонятно, можно ли назвать объект бабочкой, выберите «Не могу определить».</p><ol><li>Каждая бабочка — отдельная прямоугольная рамка, даже при перекрытии.</li><li>Плотно охватите все видимые части: крылья, тело, усики и лапки.</li><li>Для перекрытого или обрезанного объекта выделяйте видимую часть. Скрытые части не дорисовывайте.</li><li>Просмотрите весь кадр: бабочек может быть несколько, они могут быть маленькими.</li></ol><h2>Как проверить</h2><p>Проверьте весь кадр и все предложенные рамки. «Правильно» — все бабочки выделены отдельными плотными рамками и нет лишних рамок. Если предложенных рамок нет, этот ответ правильный только при отсутствии бабочек.</p><p>«Неправильно» — есть пропуск, лишний объект, обрезанные части, слишком широкая рамка или несколько бабочек объединены одной рамкой. Укажите причину. Незначительная разница в несколько пикселей сама по себе не является ошибкой.</p><p>«Не могу определить» — объект невозможно уверенно различить; «Не загрузилось» — техническая ошибка изображения. Горячие клавиши: 1 — правильно, 2 — неправильно, 3 — не могу определить, 4 — не загрузилось.</p><p><strong>Важно: перед ответом увеличьте изображение и проверьте кончики усиков и лапок. Рамка только вокруг крыльев может обрезать видимые части бабочки.</strong></p><h2>Тонкие хвостики крыльев</h2><p>У некоторых бабочек есть тонкие хвостики на крыльях. Они тоже должны быть внутри рамки. На этом фото бабочка сидит головой вниз: выступы сверху — часть крыла, а длинные усики находятся снизу.</p><img style=\"max-width:100%\" src=\"https://drive.google.com/thumbnail?id&#61;1_Nw9LRh5N2t1y-kOPrsVYutGptn3I4UX&amp;sz&#61;w8192\" /><h2>Похожее насекомое — не бабочка</h2><p><strong>Аскалафы (Ululodes) и другие сетчатокрылые не относятся к бабочкам. Их не выделяем; пустая разметка такого кадра правильна, если других бабочек нет.</strong> На примере ниже видны длинное брюшко и прозрачные крылья с густой сеткой жилок. Сравнивайте совокупность признаков с примером. Одна прозрачность крыльев не исключает бабочку: у некоторых настоящих бабочек крылья тоже прозрачные. Ночные бабочки, моль и бражники по-прежнему включены.</p><img style=\"max-width:100%;max-height:650px\" src=\"https://drive.google.com/thumbnail?id&#61;1GVhcva5rfJmaQjx6a61ka_1r3ILFBiHj&amp;sz&#61;w8192\" /><h2>Примеры</h2><p>Одна бабочка: отдельная рамка по всем видимым частям.</p><img style=\"max-width:100%;max-height:650px\" src=\"https://drive.google.com/thumbnail?id&#61;1pLQZksS5Nq5yDQgTloFK_bDuinFoPxbM&amp;sz&#61;w8192\" /><p>Две бабочки: две отдельные рамки.</p><img style=\"max-width:100%;max-height:650px\" src=\"https://drive.google.com/thumbnail?id&#61;1YsJCY522QowqgPFjops0FNs3Tr8nE2bw&amp;sz&#61;w8192\" /><p>Бабочка обрезана краем: выделяем только видимую часть.</p><img style=\"max-width:100%;max-height:650px\" src=\"https://drive.google.com/thumbnail?id&#61;1PUmj27FuifaHTVRlOhpzXOXfYJvVArRw&amp;sz&#61;w8192\" /><p>Перекрытие: рамка охватывает видимые части, скрытое не достраиваем.</p><img style=\"max-width:100%;max-height:650px\" src=\"https://drive.google.com/thumbnail?id&#61;1ypaaZsOb4L2j0JsalFWaOV7MUJ6l5ZSn&amp;sz&#61;w8192\" /><p>Бабочек нет: выбираем отдельный ответ, рамки не рисуем.</p><img style=\"max-width:100%;max-height:650px\" src=\"https://drive.google.com/thumbnail?id&#61;1ueVuuAOxFLimjNUMWOfy17Pgj-vd7xBA&amp;sz&#61;w8192\" /><p>Другое насекомое: не выделяем.</p><img style=\"max-width:100%;max-height:650px\" src=\"https://drive.google.com/thumbnail?id&#61;1IEM05_7wLfSvOR4gogNSP0WObRpQgG-z&amp;sz&#61;w8192\" /></div>",
+      "public_instructions_price": 0,
+      "private_comment": "Финальный проект ШАД-844. Цель — 400 рабочих фото. Поэтапно: экзамены, пилот, основной bbox и независимое review. Изображения Google Drive проверены; уточнение границ по аудиту пилота.",
+      "task_spec": {
+        "input_spec": {
+          "boxes": {
+            "type": "array_json",
+            "hidden": false,
+            "required": true
+          },
+          "image": {
+            "type": "string",
+            "hidden": false,
+            "required": true
+          },
+          "photo_id": {
+            "type": "string",
+            "hidden": true,
+            "required": true
+          },
+          "candidate_id": {
+            "type": "string",
+            "hidden": true,
+            "required": true
+          }
+        },
+        "output_spec": {
+          "reason": {
+            "type": "string",
+            "hidden": false,
+            "required": false
+          },
+          "verdict": {
+            "type": "string",
+            "hidden": false,
+            "required": true,
+            "allowed_values": [
+              "OK",
+              "BAD",
+              "UNCERTAIN",
+              "IMAGE_ERROR"
+            ]
+          }
+        },
+        "view_spec": {
+          "lock": {
+            "core": "1.16.51",
+            "helper.if": "1.0.0",
+            "view.list": "1.0.0",
+            "view.text": "1.0.0",
+            "action.set": "1.0.0",
+            "plugin.toloka": "1.0.0",
+            "plugin.hotkeys": "1.0.0",
+            "condition.equals": "1.0.0",
+            "field.radio-group": "1.0.0",
+            "condition.required": "1.0.0",
+            "field.image-annotation": "1.0.0",
+            "field.button-radio-group": "1.0.0"
+          },
+          "type": "tb",
+          "config": "{\"view\": {\"type\": \"view.list\", \"items\": [{\"type\": \"view.text\", \"content\": \"Проверьте весь кадр, кончики усиков, лапок и тонкие хвостики крыльев. Если рамка обрезает видимую часть, выберите «Неправильно» → «Неточные границы». Разница в несколько пикселей допустима. Аскалафы/Ululodes — другие насекомые: не выделяем. Смотрите отдельный пример в инструкции.\"}, {\"type\": \"field.image-annotation\", \"data\": {\"type\": \"data.internal\", \"path\": \"shown_boxes\", \"default\": {\"type\": \"data.input\", \"path\": \"boxes\"}}, \"image\": {\"type\": \"data.input\", \"path\": \"image\"}, \"disabled\": true, \"shapes\": {\"rectangle\": true, \"polygon\": false, \"point\": false}, \"fullHeight\": true}, {\"type\": \"field.button-radio-group\", \"label\": \"Выберите ответ\", \"data\": {\"type\": \"data.output\", \"path\": \"verdict\"}, \"options\": [{\"label\": \"Правильно\", \"value\": \"OK\"}, {\"label\": \"Неправильно\", \"value\": \"BAD\"}, {\"label\": \"Не могу определить\", \"value\": \"UNCERTAIN\"}, {\"label\": \"Не загрузилось\", \"value\": \"IMAGE_ERROR\"}], \"validation\": {\"type\": \"condition.required\", \"hint\": \"Выберите ответ\"}}, {\"type\": \"helper.if\", \"condition\": {\"type\": \"condition.equals\", \"data\": {\"type\": \"data.output\", \"path\": \"verdict\"}, \"to\": \"BAD\"}, \"then\": {\"type\": \"field.radio-group\", \"data\": {\"type\": \"data.output\", \"path\": \"reason\"}, \"label\": \"Главная причина ошибки\", \"options\": [{\"label\": \"Пропущена бабочка\", \"value\": \"missing\"}, {\"label\": \"Лишняя рамка / другой объект\", \"value\": \"extra\"}, {\"label\": \"Неточные границы\", \"value\": \"bounds\"}, {\"label\": \"Несколько бабочек в одной рамке\", \"value\": \"merged\"}], \"validation\": {\"type\": \"condition.required\"}}, \"else\": {\"type\": \"view.text\", \"content\": \"Если объект неразличим, выберите «Не могу определить».\"}}]}, \"plugins\": [{\"type\": \"plugin.toloka\", \"layout\": {\"kind\": \"scroll\", \"taskWidth\": 900}}, {\"1\": {\"type\": \"action.set\", \"data\": {\"type\": \"data.output\", \"path\": \"verdict\"}, \"payload\": \"OK\"}, \"2\": {\"type\": \"action.set\", \"data\": {\"type\": \"data.output\", \"path\": \"verdict\"}, \"payload\": \"BAD\"}, \"3\": {\"type\": \"action.set\", \"data\": {\"type\": \"data.output\", \"path\": \"verdict\"}, \"payload\": \"UNCERTAIN\"}, \"4\": {\"type\": \"action.set\", \"data\": {\"type\": \"data.output\", \"path\": \"verdict\"}, \"payload\": \"IMAGE_ERROR\"}, \"type\": \"plugin.hotkeys\"}]}",
+          "settings": {
+            "showSkip": true,
+            "showTimer": true,
+            "showTitle": true,
+            "showFinish": true,
+            "showReward": true,
+            "showSubmit": true,
+            "showMessage": true,
+            "showFullscreen": true,
+            "showInstructions": true
+          },
+          "inputExample": null,
+          "inferDataSpec": false,
+          "localizationConfig": null
+        }
+      },
+      "assignments_issuing_type": "AUTOMATED",
+      "assignments_automerge_enabled": false,
+      "service_type": "UNDEFINED",
+      "project_types": [],
+      "content_types": [],
+      "owner": {
+        "id": "6d3003d8d453484fd8dd1800962440d7",
+        "myself": true,
+        "company_id": "151"
+      },
+      "status": "ACTIVE",
+      "created": "2026-11-17T00:22:35.849"
+    }
+  ]
+}

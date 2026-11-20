@@ -1,0 +1,671 @@
+{
+  "schema": "final844-human-adjudication-v1",
+  "exported_at": "2026-11-17T18:37:08.976Z",
+  "packet_photo_ids": [
+    756642463,
+    756902369,
+    757071891,
+    757105104,
+    757195317,
+    757201224,
+    757205630,
+    757238301,
+    757241547,
+    757258307,
+    757270451,
+    757345696,
+    757654789,
+    757667513,
+    758337819,
+    759023585,
+    761036757
+  ],
+  "confirmed_count": 17,
+  "answers": [
+    {
+      "photo_id": 756642463,
+      "candidate_id": "bbox-000068ce42--6afc6cbdee5596557a5962df-756642463",
+      "issued_sha256": "634e046ed00e3bc9493368101c39a8b662ea50eac8de24455fca80db246676a9",
+      "width": 1152,
+      "height": 2048,
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.08940972222222222,
+          "top": 0.3671875,
+          "width": 0.7447916666666666,
+          "height": 0.33056640625
+        }
+      ],
+      "resolution": "CONFIRMED",
+      "note": "Одна бабочка получила две почти совпадающие рамки. Оставлена одна; левая граница уточнена по кончику крыла.",
+      "actor": "Human team adjudicator (user)",
+      "reviewed_at": "2026-11-17T18:34:56.757Z",
+      "source": "manual-review-corrections17-v1",
+      "original_status": "PRESENT",
+      "original_boxes": [
+        {
+          "left": 0.10422539437585733,
+          "top": 0.3682278002829218,
+          "width": 0.7278449359853681,
+          "height": 0.3290372620884774,
+          "shape": "rectangle"
+        },
+        {
+          "left": 0.10219271392624173,
+          "top": 0.36779911373707536,
+          "width": 0.7300100972865545,
+          "height": 0.3293943870014771,
+          "shape": "rectangle"
+        }
+      ]
+    },
+    {
+      "photo_id": 756902369,
+      "candidate_id": "bbox-000068ce42--6afc74a3ed421b4afbed6ec1-756902369",
+      "issued_sha256": "60ca312d12454f137c36f6b71c07b7dfd5ecbae3e296bf88796b807747fff500",
+      "width": 1536,
+      "height": 901,
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.042317708333333336,
+          "top": 0,
+          "width": 0.3743489583333333,
+          "height": 0.33851276359600446
+        }
+      ],
+      "resolution": "CONFIRMED",
+      "note": "У верхнего края видны голова, усики, часть тела и лапки бабочки. По правилу размечается видимая часть; скрытые крылья не достраиваются.",
+      "actor": "Human team adjudicator (user)",
+      "reviewed_at": "2026-11-17T18:35:09.258Z",
+      "source": "manual-review-corrections17-v1",
+      "original_status": "ABSENT",
+      "original_boxes": []
+    },
+    {
+      "photo_id": 757071891,
+      "candidate_id": "bbox-000068ce42--6afc72a355eb9f701db24283-757071891",
+      "issued_sha256": "7e40c3af915155f8b673823bf523fcb7869f08f16e03696be902a7c69eefc09b",
+      "width": 603,
+      "height": 2048,
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0,
+          "top": 0.4755859375,
+          "width": 0.175787728026534,
+          "height": 0.1806640625
+        }
+      ],
+      "resolution": "CONFIRMED",
+      "note": "У левого края видна часть узорчатого крыла. Она тоже размечается отдельной рамкой.",
+      "actor": "Human team adjudicator (user)",
+      "reviewed_at": "2026-11-17T18:37:04.373Z",
+      "source": "manual-review-corrections17-v1",
+      "original_status": "ABSENT",
+      "original_boxes": []
+    },
+    {
+      "photo_id": 757105104,
+      "candidate_id": "bbox-000068ce42--6afc74253537ac5dbb33e6c6-757105104",
+      "issued_sha256": "e1d000a7d5db648b43c93b61721b95d3db5f82210bb6733cf83734eea58f8d86",
+      "width": 142,
+      "height": 102,
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.7323943661971831,
+          "top": 0.7156862745098039,
+          "width": 0.2676056338028169,
+          "height": 0.28431372549019607
+        }
+      ],
+      "resolution": "CONFIRMED",
+      "note": "В правом нижнем углу маленького кадра видны голова/усики и начало белого крыла. Полный оригинал использован только для анатомической сверки, рамка внутри рабочего142×102.",
+      "actor": "Human team adjudicator (user)",
+      "reviewed_at": "2026-11-17T18:37:05.444Z",
+      "source": "manual-review-corrections17-v1",
+      "original_status": "ABSENT",
+      "original_boxes": []
+    },
+    {
+      "photo_id": 757195317,
+      "candidate_id": "bbox-000068ce42--6afc7cf1d5d23603d66af0ad-757195317",
+      "issued_sha256": "0ed1572dcd5dcb3cbfeb41acf5cce63deccf97a43a4bbd7a096c8fcb829cd0a0",
+      "width": 154,
+      "height": 599,
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0,
+          "top": 0.337228714524207,
+          "width": 1,
+          "height": 0.662771285475793
+        }
+      ],
+      "resolution": "CONFIRMED",
+      "note": "Внизу видны голова и начало крыльев; длинный усик поднимается почти до y202. Размечается только видимое.",
+      "actor": "Human team adjudicator (user)",
+      "reviewed_at": "2026-11-17T18:35:55.863Z",
+      "source": "manual-review-corrections17-v1",
+      "original_status": "ABSENT",
+      "original_boxes": []
+    },
+    {
+      "photo_id": 757201224,
+      "candidate_id": "bbox-000068ce42--6afc734bd2f6e71804ecf61b-757201224",
+      "issued_sha256": "8419a3d1a77125c9d5972dcdf7984222ee325ab15e92e3e0191826cd920ca363",
+      "width": 381,
+      "height": 2048,
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.16272965879265092,
+          "top": 0.314453125,
+          "width": 0.8372703412073491,
+          "height": 0.2314453125
+        }
+      ],
+      "resolution": "CONFIRMED",
+      "note": "Справа крупно видна голова бабочки с зелёным глазом, усиком и лапками; отсутствие крыльев в кадре не означает отсутствие бабочки.",
+      "actor": "Human team adjudicator (user)",
+      "reviewed_at": "2026-11-17T18:36:12.018Z",
+      "source": "manual-review-corrections17-v1",
+      "original_status": "ABSENT",
+      "original_boxes": []
+    },
+    {
+      "photo_id": 757205630,
+      "candidate_id": "bbox-000068ce42--6afc7344ee5596557a5a72a1-757205630",
+      "issued_sha256": "e0717c664c7489db3f16ac83cd8808f3c163de865bf6d288fabe8b6314472529",
+      "width": 762,
+      "height": 2006,
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.8372703412073491,
+          "top": 0.4830508474576271,
+          "width": 0.16272965879265092,
+          "height": 0.13758723828514458
+        }
+      ],
+      "resolution": "CONFIRMED",
+      "note": "Справа частично видно жёлтое крыло и видимые придатки у цветка. Обрезанный объект тоже размечается.",
+      "actor": "Human team adjudicator (user)",
+      "reviewed_at": "2026-11-17T18:36:19.929Z",
+      "source": "manual-review-corrections17-v1",
+      "original_status": "ABSENT",
+      "original_boxes": []
+    },
+    {
+      "photo_id": 757238301,
+      "candidate_id": "bbox-000068ce42--6afc7be805a3672b201aa698-757238301",
+      "issued_sha256": "8126613706f1ae87cf2bd8d25251f9686f41f1bf850451b8e4f43863c347eeaa",
+      "width": 1276,
+      "height": 378,
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.3432601880877743,
+          "top": 0.5238095238095238,
+          "width": 0.16065830721003135,
+          "height": 0.47619047619047616
+        }
+      ],
+      "resolution": "CONFIRMED",
+      "note": "Чёрная область с белыми пятнами у нижнего края — видимая часть бабочки; сверху виден длинный усик. Скрытая часть не достраивается.",
+      "actor": "Human team adjudicator (user)",
+      "reviewed_at": "2026-11-17T18:36:24.198Z",
+      "source": "manual-review-corrections17-v1",
+      "original_status": "ABSENT",
+      "original_boxes": []
+    },
+    {
+      "photo_id": 757241547,
+      "candidate_id": "bbox-000068ce42--6afc7ce7fe68256bfdb6ad33-757241547",
+      "issued_sha256": "40317317ac7af51acd4c00e1d1be27b040bf2d6a1a15e499e3b9a1641f71a033",
+      "width": 1536,
+      "height": 722,
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.3190104166666667,
+          "top": 0.6204986149584487,
+          "width": 0.28125,
+          "height": 0.37950138504155123
+        }
+      ],
+      "resolution": "CONFIRMED",
+      "note": "Снизу видны жёлтое крыло, голова, усики и лапки. Рамка доходит до края кадра.",
+      "actor": "Human team adjudicator (user)",
+      "reviewed_at": "2026-11-17T18:36:30.142Z",
+      "source": "manual-review-corrections17-v1",
+      "original_status": "ABSENT",
+      "original_boxes": []
+    },
+    {
+      "photo_id": 757258307,
+      "candidate_id": "bbox-000068ce42--6afc6cfad2f6e71804ebeaba-757258307",
+      "issued_sha256": "de7fad277d1608514122dbf22f22d26725b0d98430df65395ec47df8640eece6",
+      "width": 670,
+      "height": 1291,
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0,
+          "top": 0.5639039504260264,
+          "width": 0.21791044776119403,
+          "height": 0.4360960495739737
+        }
+      ],
+      "resolution": "CONFIRMED",
+      "note": "У левого нижнего края видно зелёное узорчатое крыло с коричневой каймой. Размечается его видимая часть.",
+      "actor": "Human team adjudicator (user)",
+      "reviewed_at": "2026-11-17T18:36:34.298Z",
+      "source": "manual-review-corrections17-v1",
+      "original_status": "ABSENT",
+      "original_boxes": []
+    },
+    {
+      "photo_id": 757270451,
+      "candidate_id": "bbox-000068ce42--6afc7199ed421b4afbece5b8-757270451",
+      "issued_sha256": "1eb687a2202257e86695484286ed2ce70541143f78f80865becfe5c46d14c27a",
+      "width": 996,
+      "height": 713,
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.9257028112449799,
+          "top": 0,
+          "width": 0.07429718875502007,
+          "height": 0.2903225806451613
+        }
+      ],
+      "resolution": "CONFIRMED",
+      "note": "В верхнем правом углу видны голова, часть тела и лапки обрезанной бабочки.",
+      "actor": "Human team adjudicator (user)",
+      "reviewed_at": "2026-11-17T18:36:45.017Z",
+      "source": "manual-review-corrections17-v1",
+      "original_status": "ABSENT",
+      "original_boxes": []
+    },
+    {
+      "photo_id": 757345696,
+      "candidate_id": "bbox-000068ce42--6afc7b63409e22184eed9256-757345696",
+      "issued_sha256": "2de22158476021dfabec37b8526d44c4108dff515c9841889fcd1a5c3d01cc4f",
+      "width": 976,
+      "height": 964,
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.16700819672131148,
+          "top": 0.32053941908713696,
+          "width": 0.3770491803278688,
+          "height": 0.18153526970954356
+        }
+      ],
+      "resolution": "CONFIRMED",
+      "note": "Жёлтая бабочка подтверждена; рамка немного расширена вправо до кончика видимого усика.",
+      "actor": "Human team adjudicator (user)",
+      "reviewed_at": "2026-11-17T18:36:49.455Z",
+      "source": "manual-review-corrections17-v1",
+      "original_status": "PRESENT",
+      "original_boxes": [
+        {
+          "left": 0.169453125,
+          "top": 0.3226273148148148,
+          "width": 0.35438486642380085,
+          "height": 0.17939814814814808,
+          "shape": "rectangle"
+        }
+      ]
+    },
+    {
+      "photo_id": 757654789,
+      "candidate_id": "bbox-000068ce42--6afc7e0505a3672b201ae1d0-757654789",
+      "issued_sha256": "6eecb565b422cb6e3089125d5d7fd51a3062d69aa309ce27c1ac5ec9e22e73b6",
+      "width": 2048,
+      "height": 1284,
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.4931640625,
+          "top": 0.5,
+          "width": 0.06103515625,
+          "height": 0.07710280373831775
+        }
+      ],
+      "resolution": "CONFIRMED",
+      "note": "На фоне листьев в центре видна небольшая светлая бабочка со сложенными крыльями.",
+      "actor": "Human team adjudicator (user)",
+      "reviewed_at": "2026-11-17T18:36:55.672Z",
+      "source": "manual-review-corrections17-v1",
+      "original_status": "ABSENT",
+      "original_boxes": []
+    },
+    {
+      "photo_id": 757667513,
+      "candidate_id": "bbox-000068ce42--6afc71ddfe68256bfdb51add-757667513",
+      "issued_sha256": "2a5adb58f931fae00363abd1e7f2c7d5af2a5c854588f524b79d3521d7093d83",
+      "width": 1536,
+      "height": 2048,
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0,
+          "top": 0,
+          "width": 1,
+          "height": 0.4375
+        }
+      ],
+      "resolution": "CONFIRMED",
+      "note": "Рамка расширена до краёв видимых крыльев и нижних кончиков лапок; прежняя нижняя граница y814 их обрезала.",
+      "actor": "Human team adjudicator (user)",
+      "reviewed_at": "2026-11-17T18:36:57.365Z",
+      "source": "manual-review-corrections17-v1",
+      "original_status": "PRESENT",
+      "original_boxes": [
+        {
+          "left": 0.0033333333333333335,
+          "top": 0,
+          "width": 0.9833333333333334,
+          "height": 0.3975,
+          "shape": "rectangle"
+        }
+      ]
+    },
+    {
+      "photo_id": 758337819,
+      "candidate_id": "bbox-000068ce42--6afc78dcfe68256bfdb6329e-758337819",
+      "issued_sha256": "8ef17b1293c3c7ac343e3dcddd95f6a73775fbc644300066efccc5083800c583",
+      "width": 1536,
+      "height": 2048,
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.32421875,
+          "top": 0.36376953125,
+          "width": 0.14973958333333334,
+          "height": 0.10986328125
+        }
+      ],
+      "resolution": "CONFIRMED",
+      "note": "На жёлтом листе в центре слева видна небольшая бабочка; усики направлены вверх и влево.",
+      "actor": "Human team adjudicator (user)",
+      "reviewed_at": "2026-11-17T18:36:58.462Z",
+      "source": "manual-review-corrections17-v1",
+      "original_status": "ABSENT",
+      "original_boxes": []
+    },
+    {
+      "photo_id": 759023585,
+      "candidate_id": "bbox-000068ce42--6afc73f2ed421b4afbed48a3-759023585",
+      "issued_sha256": "3cdfd67e79bdf9521b6cc07cad398987982e717d09dd3b67971a34293171db51",
+      "width": 1196,
+      "height": 1196,
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.2408026755852843,
+          "top": 0.2959866220735786,
+          "width": 0.49247491638795987,
+          "height": 0.4707357859531773
+        }
+      ],
+      "resolution": "CONFIRMED",
+      "note": "В центре на зелёном стебле видна бабочка с раскрытыми крыльями и усиками.",
+      "actor": "Human team adjudicator (user)",
+      "reviewed_at": "2026-11-17T18:36:59.228Z",
+      "source": "manual-review-corrections17-v1",
+      "original_status": "ABSENT",
+      "original_boxes": []
+    },
+    {
+      "photo_id": 761036757,
+      "candidate_id": "bbox-000068ce42--6afc72c43537ac5dbb33ae95-761036757",
+      "issued_sha256": "b0082d5f95a08b83a17dd327b9e54967908ec68d70ba8dac9fab626b98f6935d",
+      "width": 2048,
+      "height": 1536,
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.40576171875,
+          "top": 0.4427083333333333,
+          "width": 0.13623046875,
+          "height": 0.119140625
+        }
+      ],
+      "resolution": "CONFIRMED",
+      "note": "В центре видна жёлтая бабочка на веточке. Рамка включает усики и лапки.",
+      "actor": "Human team adjudicator (user)",
+      "reviewed_at": "2026-11-17T18:37:01.553Z",
+      "source": "manual-review-corrections17-v1",
+      "original_status": "ABSENT",
+      "original_boxes": []
+    }
+  ],
+  "drafts": {
+    "756642463": {
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.08940972222222222,
+          "top": 0.3671875,
+          "width": 0.7447916666666666,
+          "height": 0.33056640625
+        }
+      ],
+      "note": "Одна бабочка получила две почти совпадающие рамки. Оставлена одна; левая граница уточнена по кончику крыла."
+    },
+    "756902369": {
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.042317708333333336,
+          "top": 0,
+          "width": 0.3743489583333333,
+          "height": 0.33851276359600446
+        }
+      ],
+      "note": "У верхнего края видны голова, усики, часть тела и лапки бабочки. По правилу размечается видимая часть; скрытые крылья не достраиваются."
+    },
+    "757071891": {
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0,
+          "top": 0.4755859375,
+          "width": 0.175787728026534,
+          "height": 0.1806640625
+        }
+      ],
+      "note": "У левого края видна часть узорчатого крыла. Она тоже размечается отдельной рамкой."
+    },
+    "757105104": {
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.7323943661971831,
+          "top": 0.7156862745098039,
+          "width": 0.2676056338028169,
+          "height": 0.28431372549019607
+        }
+      ],
+      "note": "В правом нижнем углу маленького кадра видны голова/усики и начало белого крыла. Полный оригинал использован только для анатомической сверки, рамка внутри рабочего142×102."
+    },
+    "757195317": {
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0,
+          "top": 0.337228714524207,
+          "width": 1,
+          "height": 0.662771285475793
+        }
+      ],
+      "note": "Внизу видны голова и начало крыльев; длинный усик поднимается почти до y202. Размечается только видимое."
+    },
+    "757201224": {
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.16272965879265092,
+          "top": 0.314453125,
+          "width": 0.8372703412073491,
+          "height": 0.2314453125
+        }
+      ],
+      "note": "Справа крупно видна голова бабочки с зелёным глазом, усиком и лапками; отсутствие крыльев в кадре не означает отсутствие бабочки."
+    },
+    "757205630": {
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.8372703412073491,
+          "top": 0.4830508474576271,
+          "width": 0.16272965879265092,
+          "height": 0.13758723828514458
+        }
+      ],
+      "note": "Справа частично видно жёлтое крыло и видимые придатки у цветка. Обрезанный объект тоже размечается."
+    },
+    "757238301": {
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.3432601880877743,
+          "top": 0.5238095238095238,
+          "width": 0.16065830721003135,
+          "height": 0.47619047619047616
+        }
+      ],
+      "note": "Чёрная область с белыми пятнами у нижнего края — видимая часть бабочки; сверху виден длинный усик. Скрытая часть не достраивается."
+    },
+    "757241547": {
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.3190104166666667,
+          "top": 0.6204986149584487,
+          "width": 0.28125,
+          "height": 0.37950138504155123
+        }
+      ],
+      "note": "Снизу видны жёлтое крыло, голова, усики и лапки. Рамка доходит до края кадра."
+    },
+    "757258307": {
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0,
+          "top": 0.5639039504260264,
+          "width": 0.21791044776119403,
+          "height": 0.4360960495739737
+        }
+      ],
+      "note": "У левого нижнего края видно зелёное узорчатое крыло с коричневой каймой. Размечается его видимая часть."
+    },
+    "757270451": {
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.9257028112449799,
+          "top": 0,
+          "width": 0.07429718875502007,
+          "height": 0.2903225806451613
+        }
+      ],
+      "note": "В верхнем правом углу видны голова, часть тела и лапки обрезанной бабочки."
+    },
+    "757345696": {
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.16700819672131148,
+          "top": 0.32053941908713696,
+          "width": 0.3770491803278688,
+          "height": 0.18153526970954356
+        }
+      ],
+      "note": "Жёлтая бабочка подтверждена; рамка немного расширена вправо до кончика видимого усика."
+    },
+    "757654789": {
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.4931640625,
+          "top": 0.5,
+          "width": 0.06103515625,
+          "height": 0.07710280373831775
+        }
+      ],
+      "note": "На фоне листьев в центре видна небольшая светлая бабочка со сложенными крыльями."
+    },
+    "757667513": {
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0,
+          "top": 0,
+          "width": 1,
+          "height": 0.4375
+        }
+      ],
+      "note": "Рамка расширена до краёв видимых крыльев и нижних кончиков лапок; прежняя нижняя граница y814 их обрезала."
+    },
+    "758337819": {
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.32421875,
+          "top": 0.36376953125,
+          "width": 0.14973958333333334,
+          "height": 0.10986328125
+        }
+      ],
+      "note": "На жёлтом листе в центре слева видна небольшая бабочка; усики направлены вверх и влево."
+    },
+    "759023585": {
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.2408026755852843,
+          "top": 0.2959866220735786,
+          "width": 0.49247491638795987,
+          "height": 0.4707357859531773
+        }
+      ],
+      "note": "В центре на зелёном стебле видна бабочка с раскрытыми крыльями и усиками."
+    },
+    "761036757": {
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.40576171875,
+          "top": 0.4427083333333333,
+          "width": 0.13623046875,
+          "height": 0.119140625
+        }
+      ],
+      "note": "В центре видна жёлтая бабочка на веточке. Рамка включает усики и лапки."
+    }
+  }
+}

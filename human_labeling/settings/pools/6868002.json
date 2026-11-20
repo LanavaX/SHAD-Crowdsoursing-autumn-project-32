@@ -1,0 +1,58 @@
+{
+  "id": "6868002",
+  "project_id": "11855",
+  "private_name": "Финал844 — Bbox — экзамен 7 фото — максимум 12 попыток",
+  "private_comment": "7 фото одной страницей, максимум 12 попыток. Ручная оценка экзамена по эталону, отдельные навыки допуска и роли. Проверка интерфейса пройдена; Google Drive frames v1.",
+  "public_description": "Квалификационный экзамен: 7 фотографий, одна попытка. Выделите всех бабочек, включая ночных и моль. Ответы проверяет организатор; не менее 6 верных изображений из 7 открывают основную разметку. Оплата 2,50 ₽ за полный экзамен.",
+  "may_contain_adult_content": false,
+  "may_contain_nda": false,
+  "will_expire": "2026-11-24T20:59:00",
+  "auto_close_after_complete_delay_seconds": 0,
+  "reward_per_assignment": 2.5,
+  "assignment_max_duration_seconds": 600,
+  "auto_accept_solutions": false,
+  "auto_accept_period_day": 2,
+  "assignments_issuing_config": {
+    "issue_task_suites_in_creation_order": false
+  },
+  "filter": {
+    "and": [
+      {
+        "category": "profile",
+        "key": "languages",
+        "operator": "IN",
+        "value": "RU"
+      },
+      {
+        "category": "skill",
+        "key": "21537",
+        "operator": "EQ",
+        "value": null
+      },
+      {
+        "category": "skill",
+        "key": "21540",
+        "operator": "EQ",
+        "value": null
+      }
+    ]
+  },
+  "quality_control": {
+    "configs": []
+  },
+  "defaults": {
+    "default_overlap_for_new_task_suites": 12
+  },
+  "priority": 0,
+  "owner": {
+    "id": "6d3003d8d453484fd8dd1800962440d7",
+    "myself": true,
+    "company_id": "151"
+  },
+  "type": "REGULAR",
+  "status": "CLOSED",
+  "last_close_reason": "COMPLETED",
+  "created": "2026-11-17T00:25:56.807",
+  "last_started": "2026-11-17T08:30:59.071",
+  "last_stopped": "2026-11-17T08:45:00.032"
+}

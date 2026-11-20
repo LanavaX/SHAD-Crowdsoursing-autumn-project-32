@@ -1,0 +1,482 @@
+[
+  {
+    "photo_id": 757257318,
+    "assignment_id": "000068ce42--6afc764efe68256bfdb5d6ed",
+    "author_id": "c698a72a58169f7ac1b07e2ad86c697a",
+    "candidate_id": "bbox-000068ce42--6afc764efe68256bfdb5d6ed-757257318",
+    "status": "PRESENT",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.4079787344250114,
+        "top": 0.21435841585219478,
+        "width": 0.3432704260973938,
+        "height": 0.2281492466135117
+      }
+    ],
+    "source_output": {
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.4079787344250114,
+          "top": 0.21435841585219478,
+          "width": 0.3432704260973938,
+          "height": 0.2281492466135117
+        }
+      ]
+    },
+    "votes": [
+      {
+        "worker_id": "d7210ff3934608d1832e94043b3e4977",
+        "assignment_id": "000068ce43--6afc8019ed421b4afbeef8d1",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068ce43--6afc8044ed421b4afbef0059",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "decision": "accepted_pending_audit"
+  },
+  {
+    "photo_id": 761394117,
+    "assignment_id": "000068ce42--6afc76673537ac5dbb345295",
+    "author_id": "c698a72a58169f7ac1b07e2ad86c697a",
+    "candidate_id": "bbox-000068ce42--6afc76673537ac5dbb345295-761394117",
+    "status": "ABSENT",
+    "boxes": [],
+    "source_output": {
+      "status": "ABSENT",
+      "boxes": []
+    },
+    "votes": [
+      {
+        "worker_id": "d7210ff3934608d1832e94043b3e4977",
+        "assignment_id": "000068ce43--6afc8019ed421b4afbeef8d1",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068ce43--6afc8044ed421b4afbef0059",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "decision": "accepted_pending_audit"
+  },
+  {
+    "photo_id": 757201569,
+    "assignment_id": "000068ce42--6afc766ed5d23603d66a21c8",
+    "author_id": "c698a72a58169f7ac1b07e2ad86c697a",
+    "candidate_id": "bbox-000068ce42--6afc766ed5d23603d66a21c8-757201569",
+    "status": "PRESENT",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.06666666666666667,
+        "top": 0.1175,
+        "width": 0.85,
+        "height": 0.685
+      }
+    ],
+    "source_output": {
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.06666666666666667,
+          "top": 0.1175,
+          "width": 0.85,
+          "height": 0.685
+        }
+      ]
+    },
+    "votes": [
+      {
+        "worker_id": "d7210ff3934608d1832e94043b3e4977",
+        "assignment_id": "000068ce43--6afc8019ed421b4afbeef8d1",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068ce43--6afc8044ed421b4afbef0059",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "decision": "accepted_pending_audit"
+  },
+  {
+    "photo_id": 761397059,
+    "assignment_id": "000068ce42--6afc7689b0dc860f4147db4e",
+    "author_id": "c698a72a58169f7ac1b07e2ad86c697a",
+    "candidate_id": "bbox-000068ce42--6afc7689b0dc860f4147db4e-761397059",
+    "status": "ABSENT",
+    "boxes": [],
+    "source_output": {
+      "status": "ABSENT",
+      "boxes": []
+    },
+    "votes": [
+      {
+        "worker_id": "d7210ff3934608d1832e94043b3e4977",
+        "assignment_id": "000068ce43--6afc8019ed421b4afbeef8d1",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068ce43--6afc8044ed421b4afbef0059",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "decision": "accepted_pending_audit"
+  },
+  {
+    "photo_id": 760833749,
+    "assignment_id": "000068ce42--6afc7853d2f6e71804edc475",
+    "author_id": "c698a72a58169f7ac1b07e2ad86c697a",
+    "candidate_id": "bbox-000068ce42--6afc7853d2f6e71804edc475-760833749",
+    "status": "PRESENT",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.4460601557775025,
+        "top": 0.45205809303189975,
+        "width": 0.09959516224376225,
+        "height": 0.0886569652343317
+      }
+    ],
+    "source_output": {
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.4460601557775025,
+          "top": 0.45205809303189975,
+          "width": 0.09959516224376225,
+          "height": 0.0886569652343317
+        }
+      ]
+    },
+    "votes": [
+      {
+        "worker_id": "d7210ff3934608d1832e94043b3e4977",
+        "assignment_id": "000068ce43--6afc7ffdebb1521ae8f306b9",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068ce43--6afc8285d5d23603d66bae79",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "decision": "accepted_pending_audit"
+  },
+  {
+    "photo_id": 759422975,
+    "assignment_id": "000068ce42--6afc78696fd8607c6c556e04",
+    "author_id": "c698a72a58169f7ac1b07e2ad86c697a",
+    "candidate_id": "bbox-000068ce42--6afc78696fd8607c6c556e04-759422975",
+    "status": "PRESENT",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.30378921655306923,
+        "top": 0.3437755058299039,
+        "width": 0.19151978041409468,
+        "height": 0.25117348251028815
+      }
+    ],
+    "source_output": {
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.30378921655306923,
+          "top": 0.3437755058299039,
+          "width": 0.19151978041409468,
+          "height": 0.25117348251028815
+        }
+      ]
+    },
+    "votes": [
+      {
+        "worker_id": "d7210ff3934608d1832e94043b3e4977",
+        "assignment_id": "000068ce43--6afc7ffdebb1521ae8f306b9",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068ce43--6afc8285d5d23603d66bae79",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "decision": "accepted_pending_audit"
+  },
+  {
+    "photo_id": 761458118,
+    "assignment_id": "000068ce42--6afc7886d2f6e71804edcf73",
+    "author_id": "c698a72a58169f7ac1b07e2ad86c697a",
+    "candidate_id": "bbox-000068ce42--6afc7886d2f6e71804edcf73-761458118",
+    "status": "ABSENT",
+    "boxes": [],
+    "source_output": {
+      "status": "ABSENT",
+      "boxes": []
+    },
+    "votes": [
+      {
+        "worker_id": "d7210ff3934608d1832e94043b3e4977",
+        "assignment_id": "000068ce43--6afc7ffdebb1521ae8f306b9",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068ce43--6afc8285d5d23603d66bae79",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "decision": "accepted_pending_audit"
+  },
+  {
+    "photo_id": 758268826,
+    "assignment_id": "000068ce42--6afc788a6fd8607c6c557392",
+    "author_id": "c698a72a58169f7ac1b07e2ad86c697a",
+    "candidate_id": "bbox-000068ce42--6afc788a6fd8607c6c557392-758268826",
+    "status": "PRESENT",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.29898325978973767,
+        "top": 0.24956425419560185,
+        "width": 0.5015620478877314,
+        "height": 0.48036928530092576
+      }
+    ],
+    "source_output": {
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.29898325978973767,
+          "top": 0.24956425419560185,
+          "width": 0.5015620478877314,
+          "height": 0.48036928530092576
+        }
+      ]
+    },
+    "votes": [
+      {
+        "worker_id": "d7210ff3934608d1832e94043b3e4977",
+        "assignment_id": "000068ce43--6afc7ffdebb1521ae8f306b9",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "874570557fddf4de3660ceb2d7cd6509",
+        "assignment_id": "000068ce43--6afc8285d5d23603d66bae79",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "decision": "accepted_pending_audit"
+  },
+  {
+    "photo_id": 761392628,
+    "assignment_id": "000068ce42--6afc79c8ed421b4afbee3b08",
+    "author_id": "c698a72a58169f7ac1b07e2ad86c697a",
+    "candidate_id": "bbox-000068ce42--6afc79c8ed421b4afbee3b08-761392628",
+    "status": "ABSENT",
+    "boxes": [],
+    "source_output": {
+      "status": "ABSENT",
+      "boxes": []
+    },
+    "votes": [
+      {
+        "worker_id": "d7210ff3934608d1832e94043b3e4977",
+        "assignment_id": "000068ce43--6afc80126fd8607c6c5659ce",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "f281937604ba99c181839235d97dceab",
+        "assignment_id": "000068ce43--6afc819cb0dc860f41494b81",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "decision": "accepted_pending_audit"
+  },
+  {
+    "photo_id": 764431612,
+    "assignment_id": "000068ce42--6afc79ceee5596557a5b7ccf",
+    "author_id": "c698a72a58169f7ac1b07e2ad86c697a",
+    "candidate_id": "bbox-000068ce42--6afc79ceee5596557a5b7ccf-764431612",
+    "status": "PRESENT",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.14938786008230456,
+        "top": 0.34158918467078186,
+        "width": 0.5827224794238683,
+        "height": 0.2692579732510289
+      }
+    ],
+    "source_output": {
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.14938786008230456,
+          "top": 0.34158918467078186,
+          "width": 0.5827224794238683,
+          "height": 0.2692579732510289
+        }
+      ]
+    },
+    "votes": [
+      {
+        "worker_id": "d7210ff3934608d1832e94043b3e4977",
+        "assignment_id": "000068ce43--6afc80126fd8607c6c5659ce",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "f281937604ba99c181839235d97dceab",
+        "assignment_id": "000068ce43--6afc819cb0dc860f41494b81",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "decision": "accepted_pending_audit"
+  },
+  {
+    "photo_id": 760751803,
+    "assignment_id": "000068ce42--6afc7ae4d5d23603d66ab68f",
+    "author_id": "c698a72a58169f7ac1b07e2ad86c697a",
+    "candidate_id": "bbox-000068ce42--6afc7ae4d5d23603d66ab68f-760751803",
+    "status": "PRESENT",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.41875761344991047,
+        "top": 0.012658592149297316,
+        "width": 0.08378890713889708,
+        "height": 0.16429197478215107
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.4297104117687205,
+        "top": 0.3280991837310274,
+        "width": 0.09419406554176668,
+        "height": 0.13435432604407022
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.43737737059188764,
+        "top": 0.24412772995348353,
+        "width": 0.0684549894925629,
+        "height": 0.12413171427984743
+      }
+    ],
+    "source_output": {
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.41875761344991047,
+          "top": 0.012658592149297316,
+          "width": 0.08378890713889708,
+          "height": 0.16429197478215107
+        },
+        {
+          "shape": "rectangle",
+          "left": 0.4297104117687205,
+          "top": 0.3280991837310274,
+          "width": 0.09419406554176668,
+          "height": 0.13435432604407022
+        },
+        {
+          "shape": "rectangle",
+          "left": 0.43737737059188764,
+          "top": 0.24412772995348353,
+          "width": 0.0684549894925629,
+          "height": 0.12413171427984743
+        }
+      ]
+    },
+    "votes": [
+      {
+        "worker_id": "d7210ff3934608d1832e94043b3e4977",
+        "assignment_id": "000068ce43--6afc80126fd8607c6c5659ce",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "f281937604ba99c181839235d97dceab",
+        "assignment_id": "000068ce43--6afc819cb0dc860f41494b81",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "decision": "accepted_pending_audit"
+  },
+  {
+    "photo_id": 757654939,
+    "assignment_id": "000068ce42--6afc7b15ed421b4afbee61a8",
+    "author_id": "c698a72a58169f7ac1b07e2ad86c697a",
+    "candidate_id": "bbox-000068ce42--6afc7b15ed421b4afbee61a8-757654939",
+    "status": "PRESENT",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.235048828125,
+        "top": 0.18000000000000002,
+        "width": 0.480029296875,
+        "height": 0.5449999999999999
+      }
+    ],
+    "source_output": {
+      "status": "PRESENT",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.235048828125,
+          "top": 0.18000000000000002,
+          "width": 0.480029296875,
+          "height": 0.5449999999999999
+        }
+      ]
+    },
+    "votes": [
+      {
+        "worker_id": "d7210ff3934608d1832e94043b3e4977",
+        "assignment_id": "000068ce43--6afc80126fd8607c6c5659ce",
+        "verdict": "OK",
+        "reason": null
+      },
+      {
+        "worker_id": "f281937604ba99c181839235d97dceab",
+        "assignment_id": "000068ce43--6afc819cb0dc860f41494b81",
+        "verdict": "OK",
+        "reason": null
+      }
+    ],
+    "decision": "accepted_pending_audit"
+  }
+]

@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Heavy / one-off artifacts: not in the repo (downloadable / reproducible).
+# Smoke phase images and PNG sheets are debugging aids from the pre-golden phase —
+# they are kept locally and reproducible via code/before_golden_set/download_smoke.py
+# and code/before_golden_set/contact_sheets.py.
+models_evaluation/code/before_golden_set/data/images/
+models_evaluation/runs/smoke/sheets/
+models_evaluation/runs/smoke_v2/sheets/
+models_evaluation/runs/submission_errors.log
+
+# Exam photos and framed exam photos (organizer-owned material)
+data/exam/images/
+framed_test_for_user/
+
+# Secrets
+.env
+.env.*

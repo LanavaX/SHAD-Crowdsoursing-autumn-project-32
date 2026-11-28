@@ -1,0 +1,72 @@
+grounding_dino_tiny thr=0.05 F1=0.167 P=0.091 R=1.000 FPempty=148 FP=1036 FN=0
+grounding_dino_tiny thr=0.10 F1=0.336 P=0.203 R=0.981 FPempty=53 FP=401 FN=2
+grounding_dino_tiny thr=0.15 F1=0.469 P=0.311 R=0.962 FPempty=33 FP=222 FN=4
+grounding_dino_tiny thr=0.20 F1=0.567 P=0.408 R=0.933 FPempty=24 FP=141 FN=7
+grounding_dino_tiny thr=0.25 F1=0.655 P=0.508 R=0.923 FPempty=18 FP=93 FN=8
+grounding_dino_tiny thr=0.30 F1=0.729 P=0.610 R=0.904 FPempty=12 FP=60 FN=10
+grounding_dino_tiny thr=0.35 F1=0.789 P=0.726 R=0.865 FPempty=11 FP=34 FN=14
+grounding_dino_tiny thr=0.40 F1=0.786 P=0.794 R=0.779 FPempty=8 FP=21 FN=23
+grounding_dino_tiny thr=0.45 F1=0.779 P=0.860 R=0.712 FPempty=4 FP=12 FN=30
+grounding_dino_tiny thr=0.50 F1=0.761 P=0.875 R=0.673 FPempty=3 FP=10 FN=34
+grounding_dino_tiny thr=0.55 F1=0.737 P=0.880 R=0.635 FPempty=3 FP=9 FN=38
+grounding_dino_tiny thr=0.60 F1=0.736 P=0.914 R=0.615 FPempty=2 FP=6 FN=40
+BEST grounding_dino_tiny: thr=0.35 F1=0.789
+
+llmdet_large thr=0.05 F1=0.140 P=0.082 R=0.471 FPempty=112 FP=546 FN=55
+llmdet_large thr=0.10 F1=0.240 P=0.181 R=0.356 FPempty=21 FP=167 FN=67
+llmdet_large thr=0.15 F1=0.278 P=0.241 R=0.327 FPempty=12 FP=107 FN=70
+llmdet_large thr=0.20 F1=0.294 P=0.281 R=0.308 FPempty=4 FP=82 FN=72
+llmdet_large thr=0.25 F1=0.308 P=0.320 R=0.298 FPempty=3 FP=66 FN=73
+llmdet_large thr=0.30 F1=0.309 P=0.333 R=0.288 FPempty=2 FP=60 FN=74
+llmdet_large thr=0.35 F1=0.317 P=0.353 R=0.288 FPempty=2 FP=55 FN=74
+llmdet_large thr=0.40 F1=0.314 P=0.358 R=0.279 FPempty=2 FP=52 FN=75
+llmdet_large thr=0.45 F1=0.313 P=0.373 R=0.269 FPempty=2 FP=47 FN=76
+llmdet_large thr=0.50 F1=0.317 P=0.433 R=0.250 FPempty=1 FP=34 FN=78
+llmdet_large thr=0.55 F1=0.308 P=0.462 R=0.231 FPempty=0 FP=28 FN=80
+llmdet_large thr=0.60 F1=0.257 P=0.500 R=0.173 FPempty=0 FP=18 FN=86
+BEST llmdet_large: thr=0.35 F1=0.317
+
+mm_grounding_dino_large thr=0.05 F1=0.034 P=0.020 R=0.115 FPempty=67 FP=586 FN=92
+mm_grounding_dino_large thr=0.10 F1=0.036 P=0.029 R=0.048 FPempty=18 FP=170 FN=99
+mm_grounding_dino_large thr=0.15 F1=0.043 P=0.039 R=0.048 FPempty=9 FP=124 FN=99
+mm_grounding_dino_large thr=0.20 F1=0.038 P=0.038 R=0.038 FPempty=3 FP=101 FN=100
+mm_grounding_dino_large thr=0.25 F1=0.030 P=0.032 R=0.029 FPempty=3 FP=92 FN=101
+mm_grounding_dino_large thr=0.30 F1=0.021 P=0.023 R=0.019 FPempty=3 FP=86 FN=102
+mm_grounding_dino_large thr=0.35 F1=0.021 P=0.024 R=0.019 FPempty=3 FP=82 FN=102
+mm_grounding_dino_large thr=0.40 F1=0.011 P=0.013 R=0.010 FPempty=2 FP=79 FN=103
+mm_grounding_dino_large thr=0.45 F1=0.011 P=0.013 R=0.010 FPempty=2 FP=75 FN=103
+mm_grounding_dino_large thr=0.50 F1=0.011 P=0.014 R=0.010 FPempty=1 FP=71 FN=103
+mm_grounding_dino_large thr=0.55 F1=0.012 P=0.016 R=0.010 FPempty=1 FP=62 FN=103
+mm_grounding_dino_large thr=0.60 F1=0.013 P=0.019 R=0.010 FPempty=0 FP=51 FN=103
+BEST mm_grounding_dino_large: thr=0.15 F1=0.043
+
+omdet_turbo thr=0.05 F1=0.229 P=0.130 R=0.962 FPempty=77 FP=670 FN=4
+omdet_turbo thr=0.10 F1=0.499 P=0.344 R=0.904 FPempty=34 FP=179 FN=10
+omdet_turbo thr=0.15 F1=0.704 P=0.577 R=0.904 FPempty=15 FP=69 FN=10
+omdet_turbo thr=0.20 F1=0.788 P=0.717 R=0.875 FPempty=12 FP=36 FN=13
+omdet_turbo thr=0.25 F1=0.785 P=0.764 R=0.808 FPempty=8 FP=26 FN=20
+omdet_turbo thr=0.30 F1=0.810 P=0.844 R=0.779 FPempty=6 FP=15 FN=23
+omdet_turbo thr=0.35 F1=0.817 P=0.897 R=0.750 FPempty=2 FP=9 FN=26
+omdet_turbo thr=0.40 F1=0.771 P=0.920 R=0.663 FPempty=2 FP=6 FN=35
+omdet_turbo thr=0.45 F1=0.710 P=0.923 R=0.577 FPempty=2 FP=5 FN=44
+omdet_turbo thr=0.50 F1=0.637 P=0.943 R=0.481 FPempty=1 FP=3 FN=54
+omdet_turbo thr=0.55 F1=0.507 P=0.947 R=0.346 FPempty=1 FP=2 FN=68
+omdet_turbo thr=0.60 F1=0.385 P=0.962 R=0.240 FPempty=0 FP=1 FN=79
+BEST omdet_turbo: thr=0.35 F1=0.817
+
+owlv2_base thr=0.05 F1=0.453 P=0.302 R=0.913 FPempty=0 FP=220 FN=9
+owlv2_base thr=0.10 F1=0.641 P=0.503 R=0.885 FPempty=0 FP=91 FN=12
+owlv2_base thr=0.15 F1=0.752 P=0.659 R=0.875 FPempty=0 FP=47 FN=13
+owlv2_base thr=0.20 F1=0.783 P=0.752 R=0.817 FPempty=0 FP=28 FN=19
+owlv2_base thr=0.25 F1=0.777 P=0.784 R=0.769 FPempty=0 FP=22 FN=24
+owlv2_base thr=0.30 F1=0.782 P=0.828 R=0.740 FPempty=0 FP=16 FN=27
+owlv2_base thr=0.35 F1=0.787 P=0.881 R=0.712 FPempty=0 FP=10 FN=30
+owlv2_base thr=0.40 F1=0.778 P=0.889 R=0.692 FPempty=0 FP=9 FN=32
+owlv2_base thr=0.45 F1=0.776 P=0.899 R=0.683 FPempty=0 FP=8 FN=33
+owlv2_base thr=0.50 F1=0.789 P=0.934 R=0.683 FPempty=0 FP=5 FN=33
+owlv2_base thr=0.55 F1=0.780 P=0.945 R=0.663 FPempty=0 FP=4 FN=35
+owlv2_base thr=0.60 F1=0.779 P=0.985 R=0.644 FPempty=0 FP=1 FN=37
+BEST owlv2_base: thr=0.50 F1=0.789
+
+qwen3_vl_2b: no scores (VLM) — threshold not applicable
+qwen3_vl_4b: no scores (VLM) — threshold not applicable

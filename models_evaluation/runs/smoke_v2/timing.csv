@@ -1,0 +1,8 @@
+model,n_photos,errors,total_s,per_img_s
+grounding_dino_tiny,100,0,269.2,2.692
+owlv2_base,100,0,120.8,1.208
+qwen3_vl_2b,100,0,423.7,4.237
+llmdet_large,100,0,287.5,2.875
+mm_grounding_dino_large,100,0,295.1,2.951
+qwen3_vl_4b,100,0,481.5,4.815
+omdet_turbo,100,0,52.4,0.524
